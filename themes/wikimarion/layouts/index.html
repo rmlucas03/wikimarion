@@ -10,8 +10,8 @@
       </form>
     </div>
     <div class="hero-links">
-      <a href="{{ "articles/" | relURL }}" class="btn">Browse All Articles</a>
-      <a href="{{ "map/" | relURL }}" class="btn btn-outline">Explore the Map</a>
+      <a href="/articles/" class="btn">Browse All Articles</a>
+      <a href="/map/" class="btn btn-outline">Explore the Map</a>
     </div>
   </div>
 </section>
@@ -19,17 +19,17 @@
 <section class="home-section home-features">
   <div class="home-container">
     <div class="feature-grid">
-      <a href="{{ "articles/" | relURL }}" class="feature-card">
+      <a href="/articles/" class="feature-card">
         <div class="feature-icon">&#128218;</div>
         <h3>{{ len (where .Site.RegularPages "Section" "articles") }} Articles</h3>
         <p>Histories of people, places, buildings, and events in Marion and Grant County.</p>
       </a>
-      <a href="{{ "map/" | relURL }}" class="feature-card">
+      <a href="/map/" class="feature-card">
         <div class="feature-icon">&#128205;</div>
         <h3>Interactive Map</h3>
         <p>Browse historic places geographically. Click any marker to read its story.</p>
       </a>
-      <a href="{{ "historian/" | relURL }}" class="feature-card">
+      <a href="/historian/" class="feature-card">
         <div class="feature-icon">&#128394;</div>
         <h3>From the Historian</h3>
         <p>Latest posts from the Grant County historian's Substack publication.</p>
@@ -47,7 +47,7 @@
           {{ range .Site.Taxonomies.categories.ByCount }}
           {{ if gt .Count 0 }}
           <li>
-            <a href="{{ printf "/categories/%s/" (.Page.Title | urlize) | relURL }}">
+            <a href="/categories/{{ .Page.Title | urlize }}/">
               {{ .Page.Title }}
               <span class="cat-count">{{ .Count }}</span>
             </a>
@@ -55,14 +55,14 @@
           {{ end }}
           {{ end }}
         </ul>
-        <a href="{{ "categories/" | relURL }}" class="more-link">All categories →</a>
+        <a href="/categories/" class="more-link">All categories →</a>
       </div>
       <div class="home-col">
         <h2 class="section-heading">From the Historian</h2>
         <div id="substack-feed" class="substack-feed">
           <p class="loading-text">Loading recent posts…</p>
         </div>
-        <a href="{{ "historian/" | relURL }}" class="more-link">All posts →</a>
+        <a href="/historian/" class="more-link">All posts →</a>
       </div>
     </div>
   </div>
@@ -90,7 +90,7 @@ fetch(proxy)
   })
   .catch(() => {
     document.getElementById('substack-feed').innerHTML = 
-      '<p><a href="{{ "historian/" | relURL }}">Visit the historian\'s page →</a></p>';
+      '<p><a href="/historian/">Visit the historian\'s page →</a></p>';
   });
 </script>
 {{ end }}
