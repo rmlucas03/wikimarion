@@ -1,0 +1,96 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-inner">
+    <h1 class="hero-title">WikiMarion</h1>
+    <p class="hero-sub">A history of Marion, Indiana and Grant County</p>
+    <div class="hero-search">
+      <form action="/search/" method="get">
+        <input type="search" name="q" placeholder="Search the archive…" aria-label="Search">
+        <button type="submit">Search</button>
+      </form>
+    </div>
+    <div class="hero-links">
+      <a href="/articles/" class="btn">Browse All Articles</a>
+      <a href="/map/" class="btn btn-outline">Explore the Map</a>
+    </div>
+  </div>
+</section>
+
+<section class="home-section home-features">
+  <div class="home-container">
+    <div class="feature-grid">
+      <a href="/articles/" class="feature-card">
+        <div class="feature-icon">&#128218;</div>
+        <h3>{{ len (where .Site.RegularPages "Section" "articles") }} Articles</h3>
+        <p>Histories of people, places, buildings, and events in Marion and Grant County.</p>
+      </a>
+      <a href="/map/" class="feature-card">
+        <div class="feature-icon">&#128205;</div>
+        <h3>Interactive Map</h3>
+        <p>Browse historic places geographically. Click any marker to read its story.</p>
+      </a>
+      <a href="/historian/" class="feature-card">
+        <div class="feature-icon">&#128394;</div>
+        <h3>From the Historian</h3>
+        <p>Latest posts from the Grant County historian's Substack publication.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="home-section home-recent">
+  <div class="home-container">
+    <div class="home-two-col">
+      <div class="home-col">
+        <h2 class="section-heading">Browse by Category</h2>
+        <ul class="home-cat-list">
+          {{ range .Site.Taxonomies.categories.ByCount }}
+          {{ if gt .Count 0 }}
+          <li>
+            <a href="/categories/{{ .Page.Title | urlize }}/">
+              {{ .Page.Title }}
+              <span class="cat-count">{{ .Count }}</span>
+            </a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+        <a href="/categories/" class="more-link">All categories →</a>
+      </div>
+      <div class="home-col">
+        <h2 class="section-heading">From the Historian</h2>
+        <div id="substack-feed" class="substack-feed">
+          <p class="loading-text">Loading recent posts…</p>
+        </div>
+        <a href="/historian/" class="more-link">All posts →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+// Fetch Substack RSS feed via rss2json proxy
+const FEED_URL = '{{ .Site.Params.substackFeed }}';
+const proxy = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(FEED_URL);
+fetch(proxy)
+  .then(r => r.json())
+  .then(data => {
+    const container = document.getElementById('substack-feed');
+    if (!data.items || data.items.length === 0) {
+      container.innerHTML = '<p>No posts found.</p>';
+      return;
+    }
+    const items = data.items.slice(0, 4);
+    container.innerHTML = items.map(item => `
+      <div class="substack-item">
+        <a href="${item.link}" target="_blank" rel="noopener" class="substack-title">${item.title}</a>
+        <span class="substack-date">${new Date(item.pubDate).toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})}</span>
+      </div>
+    `).join('');
+  })
+  .catch(() => {
+    document.getElementById('substack-feed').innerHTML = 
+      '<p><a href="/historian/">Visit the historian\'s page →</a></p>';
+  });
+</script>
+{{ end }}

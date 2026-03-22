@@ -1,0 +1,49 @@
+baseURL = "https://wikimarion.org/"
+languageCode = "en-us"
+title = "WikiMarion"
+theme = "wikimarion"
+
+[params]
+  description = "A history of Marion, Indiana and surrounding areas"
+  substackURL = "https://billmunn.substack.com"
+  substackFeed = "https://billmunn.substack.com/feed"
+  mapsCenter = [40.5584, -85.6591]
+  mapsZoom = 13
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # allow HTML in markdown
+
+[taxonomies]
+  category = "categories"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "All Articles"
+  url = "/articles/"
+  weight = 2
+
+[[menus.main]]
+  name = "Map"
+  url = "/map/"
+  weight = 3
+
+[[menus.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 4
+
+[[menus.main]]
+  name = "From the Historian"
+  url = "/historian/"
+  weight = 5
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 6

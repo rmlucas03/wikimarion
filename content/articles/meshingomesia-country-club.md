@@ -1,0 +1,57 @@
+---
+title: "Meshingomesia Country Club"
+slug: "meshingomesia-country-club"
+has_map: false
+first_image: "Country_Club_Postcard.jpg"
+---
+
+[thumb\|350px\|Meshingtomesia Country Club ca. 1945For](/articles/imagecountry-club-postcardjpg/) nearly a century, golf has been an essential part of many cities around the world. Not only has it served as a meeting place for businessmen, but is also recognized for being the activity of choice for numerous out of town visitors. In many cases it is responsible for being a first impression, or reflecting the city/community of its location. The Marion, later Meshingomesia, Country Club became a vital part of Marion from the start because of the rarity of golf courses in Indiana. A remarkable two-story mission- style clubhouse was also built at this location, allowing many memorable evenings after a long day on the course ("Country Club's Grand Opening"). Such an all around attraction not only brought in local golfers, but also professionals such as Walter Hagen, and many other highly regarded players (Tobin 15). Occasional tournaments at the club provided enjoyable entertainment for anyone with interest, thus drawing crowds from neighboring areas. The privilege of the Meshingomesia Country Club for the past 94 years has benefited many individuals, and has also aided in molding our community to the place it is today.
+
+## The Early Days of Golf, in America and Marion {#the_early_days_of_golf_in_america_and_marion}
+
+John Reid of New York City introduced golf into American in 1888. Gutta-Percha golf balls, a driver, brassie and spoon, three irons, a Cleek, a sand iron and putter made up the extent of what was needed for the initial three-hole layout in a pasture field. By November 14, 1888, an 18-hole golf course had been completed and founded by Mr. Reid and Henry Talimadge in New York. Just 11 years after this introduction, in 1899, the Marion Golf Club became the third golf course in Indiana. After several meetings of various committees had taken place, the Marion Golf Club had a nine-hole golf course ready for play on May 26, 1899. The course was located just west of the Marion General Hospital, near Spencer and Western Avenues (Tobin 1). Both the land and the clubhouse were purchased from R.J. Spencer, a well-known fanner in the area (Bunish, Steve). The grand opening of the clubhouse marked one of the biggest events in Marion history, attracting over 300 members for a day hitting the links, and an elegant evening in the new clubhouse ("Opening of Country Club").
+
+The amounts of interest in golf and equipment technology have both boomed since the initial days of the sport. Gutta-Percha golf balls, which were hand made with molds that every golf course owned, have evolved in an unimaginable manner. Such things as the material of which the ball is made, the number and shape of the dimples on the golf ball and other factors have been nearly mastered since the original creation of the ball (Tobin 26). The number of clubs that the average golfer carries has greatly increased, as it includes a driver, 2 other woods, 8 irons, a sand iron, and a putter. The technology put into the clubs today is overwhelming, however, continues to increase in a significant fashion.
+
+## Marion Country Club {#marion_country_club}
+
+[thumb\|300px](/articles/imagemarion-golf-club-dedicatedjpg/)1902 marked the beginning of the history of what is now known as Meshingomesia Country Club. In result to many disagreements, a split in membership occurred, with numerous meetings following. Several meetings were said to have taken place between the years 1902 and 1906. On February 13, 1906, it was announced that the Country Club had agreed to lease 47.64 acres of the Norton farm in order to create a golf course. The Norton farm, located just north of the city on Lagro Road, was the chosen site because of its natural beauty along with the convenience of a broad expanse of wooded land on either side (Tobin 9). Designed by Clarence Lamboley, later the golf professional, the nine-hole course played 2810 yards, and was a par 35 (Meshingomesia Country Club Course Information). As the course began its journey toward completion, committees were arranging plans for the clubhouse that would be designed by Mr. Gibson of Indianapolis (Tobin 10).
+
+[thumb\|left\|300pxAlthough](/articles/imagemarion-country-clubjpg/) the clubhouse was not finished until mid- 1907, golf was played as early as July 1906 ("New Country Club Golf Links 'Sporty"). June 7, 1907 formally opened the beautiflul two---story, 17,640-sq. ft., mission style clubhouse. Similar to the grand opening of the Marion Golf Club, the Marion Country Club put on a tournament at the course in the afternoon, and then held a night of entertainment within the clubhouse. Activities such as card playing, billiards, dancing and others took place throughout the night ('Bryce McKinney Made High Score at Golf'). The club had every possible convenience afforded to the club members, and was designed with a view to comfort. It included all the luxuries of a modern home, yet also contained a dancing hail, dining room, parlors, billiard and pool parlors, bowling alleys, a roof garden, and many other places of interest. "Nestling on the top of a high knoll in the midst of the most attractive country in the state, the building commands a wide view of the city of Marion and surrounding territory" ("Country Club's Grand Opening").
+
+## The Name Change {#the_name_change}
+
+In 1919, the club chose to change the name from the Marion Country Club to its current name of the Meshingomesia Country Club, in honor of the Miami Indian chief Meshingomesia. Meshingomesia lived in nearby areas, and brought his village to Marion a couple times a year in order to trade with residents. This Miami Indian chief was very well respected due to repetitive acts of trust and kindness of his tribe. He passed away on Dec. 16, 1879 at the age of 98, being buried in the cemetery at Indian Village ("Meshingomesia! Dead Miami Chief').
+
+## Expansion
+
+1957 was the next significant point in the history of the Country Club, as a second nine was added to the course, now making it an 18-hole golf course. Clarence Lamboley, who remained the golf pro until 1965, when Jim Gallagher Sr. succeeded him, also helped in designing the second nine (McKown, June). A great deal of minor editing to the layout of the course and area has taken place for the benefit of the members. Tennis courts, a fairway watering system, cart paths, a practice range, a clubhouse increased to 32,000 sq. ft. and other refurbishing tactics took place during its development to today (Tobin 11, 12).
+
+## Famous Names {#famous_names}
+
+The Meshingomesia Country Club has not only served as a resource of entertainment for various citizens of Marion, but has provided a career opportunity for many. Jeff, Jackie, and Jim Gallagher are three good examples of professional golfers that grew up at Meshingomesia Country Club. With their father Jim Gallagher, Sr. being the club professional, and living on the course, a grand opportunity was given to these young people who promptly took advantage of it. Jim Jr. has won numerous tournaments on the PGA tour, including the PGA championship, one of the four major tournaments played each year (Tim Dailey. Personal Interview). He has also been fortunate enough to play on the Ryder Cup team, which plays against different nations every two years for mere bragging rights. The top ten American golfers, along with two chosen golfers, play in this event which is considered the most elite tournament in professional golf (Ryder Cup). Along with his pure winnings from tournaments, Jim has also made millions in endorsements throughout his career, and is financially set for the remainder of his life. Jackie has won one LPGA event, and finished respectably in many others. Jackie is very well off, and is currently playing excellent golf on the tour at the age of 34. Jeft has not only had some commendable tournaments on the PGA tour, but has also won numerous Buy.com tour events.
+
+Each and every year, all three Gallaghers return to Marion to play in the annual skins game played at Meshingomesia Country Club put on by the YMCA, encouraging jr. golf. Along with the 18-hole event, a hitting session is held in order to benefit the younger golfers of Marion (Tim Dailey. Personal Interview). The other major activity that takes place at the Country Club every year is the final round of the Grant County Amateur for the Championship flight. Meshingomesia is said to be the toughest and most elite course in the city, and therefore is responsible for the last round of the top players. 36 players compete in this final flight; however, hundreds are in attendance to see the spectacular golf being played. With Jeff Kissler recently replacing Jim Gallagher Sr. as the club professional, the Country Club continues benefit many different people, along with the community as a whole.
+
+## Conclusion
+
+For nearly a century, golf has clearly proved to be an extremely helpful piece of many areas around the world. In bringing together the businessmen of Marion and those of neighboring towns, the Country Club served as an initial impression for many, and did so excellently. The Meshingomesia Country Club became a vital part of Marion's growth from the start because of the rarity of golf courses around Indiana. The activities that took place inside the clubhouse added to the excitement that the course brought into town (Tobin 13). Dinner and dance parties highlighted the weekends for many through the years, and diversions of such get-togethers please the people even to this day. ("Country Club's Grand Opening"). Being such a rare form of entertainment, the course drew in many local golfers as well as those on the professional level (Tobin 15). Occasional tournaments at the club provided an enjoyable time for anyone with interest, thus drawing crowds from neighboring areas (Tim Dailey. Personal Interview). Having the Meshingomesia Country Club for such a period of time, has not only improved many citizens one by one, but also strengthened our community as a whole. Providing what it did, the club was one of a kind, and created a privilege for residents that few others around were able to experience.
+
+## Works Cited {#works_cited}
+
+-   "Bryce McKinney made High Score at Golf." Marion Daily Chronicle. 7 June 1907.
+-   Bunish, Steve. Golden Age of Marion.
+-   "Country Club's Grand Opening." Marion Daily Leader. 7 June 1907: 1, 3.
+-   Tim Dailey. Personal Interview. 10 December 2001.
+-   "Meshingomesiat Dead Miami Chief." Maiion Weekly Chronicle. 25 December 1879: 6
+-   "Marion Golf Club House Dedicated Yesterday." Morning News. 24 Oct. 1900: 1, 2
+-   McKown, June. Pictoral History of Marion. St. Louis: Bradley, 1989.
+-   Meshingomesia Country Club Course Information. 12 December 2001. <http://sports.yahoo.com/pga/golfcourses/indiana/marion5130.html>
+-   "New Country Club Golf Links 'Sporty'." Marion Daily Chronicle. 9 July 1906: 1
+-   "Opening of the Country Club." Marion Chronicle. 23 Oct. 1900.
+-   Ryder Cup Official Site. 13 December 2001. <http://www.rydercup.com/usa/about/qualification.html>
+-   Tobin, Tom. Heritage of Country Club Golf in Marion. Indiana. Pamphlet.
+
+## Credits
+
+This article was written by Todd Daily and submitted on December 17, 2001 for Mr. Munn\'s AP US History class and Mr. Lakes\' AP English 11 at Marion High School.

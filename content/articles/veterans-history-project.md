@@ -1,0 +1,38 @@
+---
+title: "Veterans History Project"
+slug: "veterans-history-project"
+has_map: false
+---
+
+-   [Thomas Dulhanty](/articles/thomas-dulhanty/)
+-   [George Laypoole](/articles/george-laypoole/)
+-   [Vance Meyer](/articles/vance-meyer/)
+-   [Edward Sipes Jr.](/articles/edward-sipes-jr/)
+-   [Randall Jones](/articles/randall-jones/)
+-   [Walter Gosser](/articles/walter-gosser/)
+-   [Paul Bratcher](/articles/paul-bratcher/)
+-   [John Bailey](/articles/john-bailey/)
+-   [Staff Sergeant Henry](/articles/staff-sergeant-henry/)
+-   [Lila Milford](/articles/lila-milford/)
+-   [James King](/articles/james-king/)
+-   [Phillip Cline](/articles/phillip-cline/)
+-   [Jack Lee Marshall](/articles/jack-lee-marshall/)
+-   [Richard Halt](/articles/richard-halt/)
+-   [Roland Auble](/articles/roland-auble/)
+-   [George Timmons](/articles/george-timmons/)
+-   [Mell Carson](/articles/mell-carson/)
+-   [Jeffrey Stoffel](/articles/jeffrey-stoffel/)
+-   [Elmer Estle](/articles/elmer-estle/)
+-   [William Peck](/articles/william-peck/)
+-   [Robert Milford](/articles/robert-milford/)
+-   [Loren Wilshire](/articles/loren-wilshire/)
+-   [Jerry Boone](/articles/jerry-boone/)
+-   [Louis Belville](/articles/louis-belville/)
+-   [Richard E. Bareiss](/articles/richard-e-bareiss/)
+-   [Dallas Jackson](/articles/dallas-jackson/)
+-   [Robert Jackson](/articles/robert-jackson/)
+-   [Raphael Grenier](/articles/raphael-grenier/)
+-   [Glen Black](/articles/glen-black/)
+-   [James Pearcy](/articles/james-pearcy/)
+-   [Donald Kearney](/articles/donald-kearney/)
+-   [Elmer Keller](/articles/elmer-keller/)

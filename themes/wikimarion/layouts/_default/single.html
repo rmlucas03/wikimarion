@@ -1,0 +1,53 @@
+{{ define "main" }}
+<article class="article-page">
+  <div class="article-container">
+    <aside class="article-sidebar">
+      {{ if .Params.first_image }}
+      <div class="article-thumb">
+        <img src="/images/{{ .Params.first_image }}" alt="{{ .Title }}" loading="lazy">
+      </div>
+      {{ end }}
+      <div class="sidebar-meta">
+        {{ if .Params.categories }}
+        <div class="meta-section">
+          <h4>Categories</h4>
+          <ul class="cat-list">
+            {{ range .Params.categories }}
+            <li><a href="/categories/{{ . | urlize }}/">{{ . }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+        {{ if .Params.coords }}
+        <div class="meta-section">
+          <h4>Location</h4>
+          <div id="article-map" class="article-map"></div>
+          <script>
+            document.addEventListener('DOMContentLoaded', function() {
+              var coords = {{ .Params.coords | jsonify }};
+              if (coords && coords.length > 0) {
+                var map = L.map('article-map').setView([coords[0].lat, coords[0].lng], 15);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                  attribution: '© OpenStreetMap contributors'
+                }).addTo(map);
+                coords.forEach(function(c) {
+                  L.marker([c.lat, c.lng]).addTo(map).bindPopup(c.label);
+                });
+              }
+            });
+          </script>
+        </div>
+        {{ end }}
+      </div>
+    </aside>
+    <div class="article-body">
+      <header class="article-header">
+        <h1 class="article-title">{{ .Title }}</h1>
+      </header>
+      <div class="article-content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</article>
+{{ end }}

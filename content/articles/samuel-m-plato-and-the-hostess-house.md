@@ -1,0 +1,60 @@
+---
+title: "Samuel M Plato and the Hostess House"
+slug: "samuel-m-plato-and-the-hostess-house"
+has_map: false
+first_image: "SamuelPlato.jpg"
+---
+
+# Samuel M. Plato {#samuel_m._plato}
+
+## Introduction
+
+[200px:thumb\|](/articles/imagesamuelplatojpg/)\
+Samuel M. Plato became a prominent African-American architect and builder after years of hard work, perseverance, and dedication. Plato spent over 40 years of his life "designing and building offices, schools, residences, churches and post offices in 11 states" (Riley). His contributions are felt the most, however, here in the city of Marion, Indiana, where he is believed to have built as many as 100 structures.
+
+His biggest building constructed, as well as probably the most widely known structure, is the J. Wood Wilson/Vaughan Home in Marion, known now as the Hostess House. Other notable structures that he has built in Marion include the following: the former First and Second Baptist Church buildings on 4th St. and Branson St., respectively; the Platonian Apartments on Adams St., which are named after Plato himself; and the Lavengood-Richardson home on S. Washington St.
+
+Samuel's career was not always successful, however. Plato could not find work at the beginning of his career because of his race, but he eventually showed everyone that he was one of the best architects around. Rachel Kipp said it best when she said, "At a time when many blacks were cut off from white communities by racism, Plato moved between the two worlds, creating churches, schools, and other buildings" (1). His masterpiece, the J. Wood Wilson House, is proof of this. Samuel M. Plato, through his ingenuity and innovativeness, created many astounding buildings and helped pave the way for other African-Americans who desired to pursue a professional career.
+
+## Architectural Career in Marion, IN {#architectural_career_in_marion_in}
+
+Plato started out as an aspiring architect in the city of Marion after moving here from Louisville in 1902. Natural gas was discovered in 1887 in Grant County, which caused the economy to boom and thus, provided an abundance in both jobs and money (Kipp 1). However, "\[He\] began his career at a time when segregation and racism were major obstacles for African-Americans," including in the area encompassing Marion (Bogert 1). Consequently, no contractors would hire him until he "finally got the job of finishing the stairs and all of the trimming in an eight room house for fifteen dollars" (Smith 6). Although he did not finish his job within the time allotted to him to do the task, Plato's "craftsmanship was of such high quality" that this first job opened to him the opportunity of building two houses (Smith 6).
+
+One of Plato's first public contracts was to build the new high school in Marion, but soon after he started on the job, he was removed from it because the white workers would not work for a black contractor (Smith 7). As Plato gathered up his tools to leave, he said, "Those of you who would not work with me, will work for me someday" (Guidero). Plato's prediction came true a few years later when he was given the responsibility of building the J. Wood Wilson Home in 1912 (Smith 7). "A further irony centering around this commission involves the fact the white contractors were required to allow the admission of black contractors into the union before Plato would permit them to work on the massive residence" (Smith).
+
+Plato's career turned out to be extremely successful and it is said that he is the most successful contractor ever in Grant County (Kipp 2). He was successful enough that he was one of the first Marion residents to own an automobile (Kipp 2). "\[Plato\] was the first African-American to be awarded a contract to build a post office, and he was one of only a few African-American contractors to build federal government defense housing projects during World War II" (Bogert 1).
+
+## J. Wood Wilson Home/Hostess House {#j._wood_wilson_homehostess_house}
+
+Plato's masterpiece was his home that he built for J. Wood Wilson on the corner of 4th and what is now Garfield St. Wilson was born in Kentucky around 1854 and moved to Marion in about 1888 (Shutt 4). He became the vice president of the Marion National Bank (now Summit Bank), and still held this position when he met Lillian Pampell, who was a Wabash school teacher (Guidero). Wilson was also the president of the Marion Paper Co. (Hostess House: Home with a History). Lillian was about 27 years old, while Wilson was about 60, but the age difference did not seem to bother either of them (Shutt 4). The two were soon wed and Wilson's wedding gift to his new bride was the wonderful mansion now known as the Hostess House.
+
+Wilson hired Plato to design and build his new home (Shutt 4-5). "Wilson and his friend, millionaire John Schaumleffel, encouraged Plato in his work and often supported his bond for various construction projects" before hiring him for Wilson's mansion (Jourdan). Wilson paid Plato over \$100,000 for the construction of his home, which was easily the most expensive house ever built in Marion at that time, and also equivalent to over a million dollars in today's age. "Almost all of the carpenters who had refused to work with him (on the new high school) applied to him for employment in the construction of this building. Plato told them they would be hired if they admitted his black mechanics into the union" (Guidero).
+
+The house was built at 723 W. Fourth St. in Marion and had 24 rooms (Shutt 4). Two houses behind the home were also built for servants and other personnel (Shutt 5-6). One was needed for the garage, servants quarters, and heating system (Shutt 6). "The heat was piped underground across the alley and into the house. It is said that it took a railroad car of coal a month to heat the house" (Hostess House: Home with a History). The other was needed for maintenance personnel and the chauffeur (Shutt 6). On the ballroom floor, house boys and cooks housed for live-in help (Davis 2). Each of the three homes were equipped with a bell system so any personnel that was needed could be contacted instantly (Shutt 6).
+
+Plato on the outside of the three-story brick house, created a two-story porch that is supported by fluted Ionic columns (Jourdan). Two double French doors lead into the dining room and sun porch on the front east and west doors, respectively (Hostess House: Home With a History). The sun porch used to contain a fountain and built-in fish pond, and the room was painted in bright colors with wicker furniture and many plants (Shutt 6). Plato put much detail into the first floor with molded designs on the ceilings and arched doorways (Jourdan). Also, the butler's pantry, kitchen and food pantry, a massive marbled fireplace, and Mr. Wilson's office were all located on the first floor (Hostess House: Home With a History). Plato created a second story that included five large rooms along with three baths (Hostess House: Home with a History). The third floor contained the ball room, which also had a stage, where "for many years the Marion Civic Theater staged productions here and ballet classes were conducted here" (Hostess House: Home With a History). Plato also built a roof garden: "This was reached by a stairway from the ballroom and was used for afternoon tea and cocktail parties" (Shutt 7). The Wilsons used Plato's masterpiece, in addition to being a residence, as a place to host parties, dinners, teas, and other such entertainment occasions for guests (Shutt 7).
+
+## Significance to Marion {#significance_to_marion}
+
+Samuel M. Plato had a major influence on the city of Marion, Indiana, as well as across the nation. "Architects, more so than any other creatures, etch their mark and affect the lives of people who come after them" (Breen). And to think, Plato never wanted to be an architect because he thought that whites expected all African-Americans to do manual labor (Guidero). Based on an August, 1913 account in The Freeman newspaper, Plato was working on more construction projects around Marion at this time than there are Plato structures that are recognized for his whole career in Grant County (Smith). He is currently only recognized for five structures in Marion (Kipp 2). It is impossible to tell, however, if this was his usual workload during the year or just during that one particular season, but "using an extremely conservative estimate" would still have Plato producing around 90-100 structures (Smith). "Plato may never be recognized for other structures, because the necessary documentation is missing or nonexistent" (Kipp 1).
+
+In 1988, Plato was recognized locally by being added to Grant County's tour honoring historic people called the Celebrity Audio Walking Tour of Marion (Conover). Leslie Neher believes that Plato was a community hero because a hero is a "person who contributes to the advancement of the community," and she, along with Chuck Osterholt, the community development director, believes that "architecture plays an important part in a community's quality of life" (Conover). Samuel has also earned national recognition with a few of his buildings. One such building, the Wilson/Vaughan Hostess House, has been rewarded local and national recognition by being placed on the National Register of Historic Places in 1988 ("Hostess House becomes history"). Also in 1988, the structure was placed on the list of Indiana's Historic Sites and Structures because it was built by Samuel Plato for J. Wood Wilson in the early Greek Revival style ("Hostess House becomes history"). The building remains one of Grant County's treasures until this very day ("Hostess House becomes history"). Plato has also built about 40 post office buildings across the country (Jourdan). Samuel has influenced the community of Grant County and Marion, as well as the rest of the nation, greatly over the past century with his integrity, dedication, quality of work, and styles of building that he has left behind for others to take advantage of.
+
+## Conclusion
+
+Samuel M. Plato helped pave the way for other African-Americans who desired to pursue a professional career through his perseverance and work as an artisan and builder. "He was an achiever in an era when black men were afforded little opportunity to achieve" (Breen). Plato fabricated numerous buildings and residences across the country, but his contributions are felt most in Marion, Indiana, where he spent about twenty years of his life constructing an estimation of around 100 structures. The most prominent of these, the J. Wood Wilson Mansion on 4th St., still remains a source of pride for the city of Marion.
+
+## Sources
+
+-   Bogert, Pen. \"Samuel M. Plato: Building a Dream.\" The Filson Newsmagazine. 20 May 2007 \<<http://www.filsonhistorical.org/news_v1n1_plato.html>\>.
+-   Breen, Ed. \"Samuel Plato Left His Mark on Marion.\" Chronicle-Tribune 7 Oct. 1990.
+-   Conover, Sherl. \"Samuel Plato: Part of Marion\'s History.\" Chronicle-Tribune 2 Nov. 1989.
+-   Davis, Dr. Richard M. "Hostess House." 2.
+-   Guidero, Miriam. Looking Back: Samuel Plato, Architect. Marion Public Library. Marion, Indiana, 1989.
+-   \"Hostess House: Home with a History.\" Chronicle-Tribune 29 Feb. 1976.
+-   \"Hostess House Becomes History.\" Chronicle-Tribune 28 Sept. 1988.
+-   Jourdan, Katherine. The Architecture of Samuel M. Plato. Black History News & Notes. Black History News & Notes, 1989.
+-   Kipp, Rachel. \"Architect Left His Mark on Marion: Samuel Plato Works Among Top Preservation Projects in City.\" Chronicle-Tribune 26 Feb. 2006, sec. A: 1-2.
+-   Riley, Rochelle. \"Architect\'s Papers Come Home: Prominent Builder Paved Way for Blacks.\" The Courier Journal 147th ser. 1 (2001). 20 May 2007 \<<http://listserv.muohio.edu/scripts/wa.exe?A2=ind0101a&L=archives&P=16300>\>
+-   Shutt, Betty D. The Hostess House Story. Marion, Indiana, 1989. 1-7.
+-   Smith, Jon C. The Architecture of Samuel M. Plato: the Marion Years, Grant County Projects 1902-1921. Ball State University. Muncie, Indiana: Ball State University, 1998. 1+.

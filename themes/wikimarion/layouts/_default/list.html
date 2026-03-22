@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="list-page">
+  <div class="list-container">
+    <header class="list-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}<div class="list-intro">{{ . }}</div>{{ end }}
+    </header>
+
+    {{ if eq .Section "articles" }}
+    <div class="article-filter">
+      <input type="text" id="article-search" placeholder="Filter articles…" aria-label="Filter articles">
+      <span id="article-count"></span>
+    </div>
+    {{ end }}
+
+    <ul class="article-list" id="article-list">
+      {{ range .Pages.ByTitle }}
+      <li class="article-list-item" data-title="{{ .Title | lower }}">
+        <a href="{{ .RelPermalink }}" class="article-list-link">
+          <span class="article-list-title">{{ .Title }}</span>
+          {{ if .Params.categories }}
+          <span class="article-list-cats">
+            {{ range .Params.categories }}{{ . }}{{ end }}
+          </span>
+          {{ end }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+
+{{ if eq .Section "articles" }}
+<script>
+  const input = document.getElementById('article-search');
+  const items = document.querySelectorAll('.article-list-item');
+  const count = document.getElementById('article-count');
+  function updateCount() {
+    const visible = document.querySelectorAll('.article-list-item:not([hidden])').length;
+    count.textContent = visible + ' article' + (visible !== 1 ? 's' : '');
+  }
+  updateCount();
+  input.addEventListener('input', function() {
+    const q = this.value.toLowerCase();
+    items.forEach(function(item) {
+      item.hidden = !item.dataset.title.includes(q);
+    });
+    updateCount();
+  });
+</script>
+{{ end }}
+{{ end }}

@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="map-page-header">
+  <div>
+    <h1>Browse Geographically</h1>
+    <p>Click any marker to read about a historic place in Marion and Grant County.</p>
+  </div>
+</div>
+<div id="full-map"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var map = L.map('full-map').setView([40.5584, -85.6591], 13);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19
+  }).addTo(map);
+
+  var markers = L.markerClusterGroup();
+
+  var markerData = {{ $.Site.Data.map_markers | jsonify }};
+
+  markerData.forEach(function(m) {
+    if (!m.lat || !m.lng) return;
+    var popup = '<strong><a href="' + m.url + '">' + m.title + '</a></strong>';
+    var marker = L.marker([m.lat, m.lng]).bindPopup(popup);
+    markers.addLayer(marker);
+  });
+
+  map.addLayer(markers);
+});
+</script>
+{{ end }}

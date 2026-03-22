@@ -1,0 +1,24 @@
+<header class="site-header">
+  <div class="header-inner">
+    <div class="site-branding">
+      <a href="/" class="site-title">WikiMarion</a>
+      <span class="site-tagline">History of Marion, Indiana</span>
+    </div>
+    <nav class="main-nav">
+      <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+      <ul class="nav-list">
+        {{ range .Site.Menus.main }}
+        <li class="{{ if eq $.RelPermalink .URL }}active{{ end }}">
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+    <div class="header-search">
+      <form action="/search/" method="get">
+        <input type="search" name="q" placeholder="Search articles…" aria-label="Search">
+        <button type="submit">&#8981;</button>
+      </form>
+    </div>
+  </div>
+</header>

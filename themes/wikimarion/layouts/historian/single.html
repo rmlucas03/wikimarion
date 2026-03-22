@@ -1,0 +1,50 @@
+{{ define "main" }}
+<div class="historian-page">
+  <div class="historian-container">
+    <header class="historian-header">
+      <h1>From the Historian</h1>
+      <p>Recent posts from the Grant County historian. Click any title to read the full post on Substack.</p>
+    </header>
+    <div id="historian-posts" class="historian-posts">
+      <p class="loading-text">Loading posts…</p>
+    </div>
+    <div id="historian-error" style="display:none">
+      <p>Could not load posts. <a href="{{ .Site.Params.substackURL }}" target="_blank" rel="noopener">Visit the Substack directly →</a></p>
+    </div>
+  </div>
+</div>
+
+<script>
+const FEED = '{{ .Site.Params.substackFeed }}';
+const proxy = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(FEED) + '&count=20';
+
+fetch(proxy)
+  .then(r => r.json())
+  .then(data => {
+    const container = document.getElementById('historian-posts');
+    if (!data.items || data.items.length === 0) {
+      throw new Error('No items');
+    }
+    container.innerHTML = data.items.map(item => {
+      const date = new Date(item.pubDate).toLocaleDateString('en-US', {
+        year: 'numeric', month: 'long', day: 'numeric'
+      });
+      // Strip HTML from excerpt
+      const tmp = document.createElement('div');
+      tmp.innerHTML = item.description || '';
+      const excerpt = tmp.textContent.slice(0, 220).trim();
+      return `
+        <div class="historian-post">
+          <a href="${item.link}" target="_blank" rel="noopener" class="historian-post-title">${item.title}</a>
+          <span class="historian-post-date">${date}</span>
+          ${excerpt ? `<p class="historian-post-excerpt">${excerpt}…</p>` : ''}
+        </div>
+      `;
+    }).join('');
+  })
+  .catch(() => {
+    document.getElementById('historian-posts').style.display = 'none';
+    document.getElementById('historian-error').style.display = 'block';
+  });
+</script>
+{{ end }}

@@ -1,0 +1,69 @@
+---
+title: "Blumenthal-J.C. Penney"
+slug: "blumenthal-jc-penney"
+has_map: false
+first_image: "V002559r.jpg"
+---
+
+![West side of the public square, ca. 1960s. J.C. Penney\'s is near the center](/images/V002559r.jpg "West side of the public square, ca. 1960s. J.C. Penney's is near the center")Downtown Marion is a place of great history for those who are willing and eager to explore it. Beneath the mortar and bricks that hold these grand pieces of architecture together, there are stories to be told and history to uncover. An excellent example of the history that lies within this town that many are unaware of, is portrayed in a simple, aged, brick building located on the west side of the square in Marion's downtown. Known to many Marion residents as the old Blumenthal or old Penney's building, the structure located at 318 S. Washington Street has a unique history of its own. Originating ml 864, the building is still known for being the residence of one of the oldest and best known retail stores in Northern Indiana. After years of very successful business, the J.C. Penney Company bought the building with continued success, until the business switched locations. The shop, now owned by Maidenberg Real Estate, is presently occupied by a non-profit organization.
+
+## Morris Blumenthal {#morris_blumenthal}
+
+[thumb\|left\|Morris Blumental in 1891Morris](/articles/imagev001859rjpg/) Blumenthal, born in Germany in 1835, moved to Indiana in the late 1840's where he worked in Baer's Department Store as a sales clerk for nearly six years. His profession then took him to McLeanboro, Illinois where he held a clerk's position for another three years. He lived in Marion from 1864 until his death in 1903. During his thirty-nine years in Marion, Blumenthal was said to be one of the city's most prosperous citizens and useful businessmen. Mr. Blumenthal's success was said to be because of the several different specialty items in his store, such as clothing and gent's furnishings. Things the residents of Marion were unfamiliar with and awed by (Leader 24). His experience as a clerk also contributed to his store's success. Morris Blumenthal could have had no idea how much success he would achieve as owner of this small clothing business or how that same store would give Marion recognition as a business center (History of Grant County 603).
+
+[thumb\|The original M. Blumenthal store, ca. 1860Contrary](/articles/imagev000025rjpg/) to popular belief, the building located on the square today is not truly the original site of Blumenthal's. Any successful store goes through stages and Blumenthal's was no different. In 1890 Blumenthal expanded his business from a simple one room clothing store, to a fine brick structure still being enjoyed by Marion residents today (Leader 24). Morris Blumenthal's interaction within the community and its people made him a very respected businessman, but he also played a dominant role in the formation of the original Jewish community in Marion. He along with his business partners, David and Lewis Marks were among the first of the Jewish population in Marion (Miller 19).
+
+[thumb\|left\|The Blumenthal building, built 1890, photograph 1892Blumenthal](/articles/imagev002217rjpg/)'s unexpected death in 1903 left the store and its growing industry to his oldest son David. Known as "The Old Reliable" at this time, Blumenthal's had become the largest department and specialty store in all of Northern Indiana. Inheriting on the reputation his father so proudly carried, David Blumenthal was also referred to as one of the most reliable, popular and progressive businessmen in Marion (History of Grant County 604). The young Blumenthal not only had his father's commendable personality but was also admired and respected for his own success.
+
+Business kept booming for over twenty years until disaster struck on December 7, 1926. With Christmas just around the corner, and the store freshly stocked with surprises for the holiday season, Blumenthal's was in for a shock. The building caught fire and was destroyed, leaving the Blumenthal's without a business and a debt of nearly \$250,000 (Way Back When Caption). David Blumenthal rebuilt and even expanded the store in hopes to keep the family business alive, but his efforts were unsuccessful and the business was terminated by the mid 1930's (Miller 19-20)
+
+## J.C. Penney {#j.c._penney}
+
+### J.C. Penney National {#j.c._penney_national}
+
+Although many thought that the old building would never again see the type of success it had previously experienced, along with a new decade came yet another of Marion's most successful businesses. The thirties brought heartache and depression on the American people, and yet these same people still found time and money to help develop yet another Marion legacy. The J.C. Penney Corporation established its first branch in Marion in this same building. Now one of America's largest department stores, J.C. Penney began in 1902 when a Wyoming merchant, James Cash Penney opened his first store called The Golden Rule. Penney's method in opening the store was unusual for the times. Before it opened, Penney observed the needs of people in the small town of Kemmerer, Wyoming, and stocked merchandise that took care of those needs. Another unusual practice by Penney during this time was that he charged the same price to all people no matter what their social status. Many believe this practice to have played a dominant role in his store's success (J.C. Penney).
+
+There were also many other aphorisms that Penney based his business guidelines on. The most famous was called the "Penney idea." Still in use today, this "idea" was a statement of ethics and purpose that was the basis for the entire company. It endorsed such characteristics as honor, confidence, service and cooperation, which in time became the company's sole motto. Penney's "cash only" policy was still another idea Penney's customers were at first hesitant to abide by, but in the end, greatly appreciated.
+
+It was unusual practices like this that appeared to be the dominant factor in Penney's instant success. While the name "Golden Rule" lasted a mere decade, the name meant more then just an advertising plan to James Penney. It symbolized the religious beliefs he had received from his father, a Baptist preacher, and it carried over into the company today.
+
+The company expanded more quickly then any other department store ever had. Within thirteen years, one store had grown in to eighty-three, and sales totaled well over a million dollars. On the average, the company opened a new store every three days. At the time many Americans were fighting depression, James Cash Penney was enjoying his success, for he was the sole owner of a multi-million dollar industry (J.C. Penney).
+
+The year 1949 marked a very significant step in the J.C. Penney Company. It was then that J.C. Penney opened its first store located off of "Main Street" and into a local shopping center. Although it was not until the 1970's that America embraced shopping malls, it was this step that placed the company as a sound mall anchor. In 1951, the company was referred to nationally in the selling of apparel and home furnishings, and in 1958 the company made exceptions to its "cash only" policy and offered their customers credit. Sales significantly amplified in 1963, with the publication of its first J.C. Penney catalog. The J.C. Penney Company also played a significant role with America's entry into World War II, by making uniforms for several service units. In 1983, the company announced plans to spend over a billion dollars to modernize its stores nationwide, and in the early 90's, J.C. Penney changed from a mall vendor to America's national retail store (J.C. Penney).
+
+In 1997, J.C. Penney purchased Eckerd Corporation, which was an important step toward generating one of the world's leading drug store industries. Today, women report more than 80% of apparel purchases in J.C. Penney stores, and have acquired almost half of most stores' selling area (J.C. Penney).
+
+### Local J.C. Penney Store {#local_j.c._penney_store}
+
+[thumb\|300px\|West side of the public square, ca. 1938.Not](/articles/imagev001768rjpg/) only did the company develop nationwide, but gained notable success here in Marion. Stan Tyner, an employee of the Marion Penney's store at the time, stated that the local store was not only one of the largest local department stores, but it was also one of the largest Penney's branches. Receiving only minimum wage, \$1.60 at the time, Mr. Tyner had nothing but fond memories to share about the store. Stating, "Words cannot explain downtown Marion during that time," Tyner attempted to adequately describe the store's achievement. He remembered the store as always being packed and being the one in charge of mopping the floors during the winter because it would get to slick at times. He also shared how the store was nicely decorated especially around Christmas, trying to maintain Marion's reputation of being considered Christmas City USA (Tyner).
+
+J.C. Penney is more then a well-known department store where American citizens shop for clothes and home furnishings. It also plays a large role in its local community nationwide. "As J.C. Penney heads into its second century in business, it will remain true to the philosophy and vision of its founder and build on this legacy of community service and serving the shopping public with quality merchandise, low prices, and friendly customer service." (J.C. Penney)
+
+## Crisis Pregnancy Center {#crisis_pregnancy_center}
+
+Webster defines success as the achievement of something desired, planned or attempted, and although to many success is not a word that could truly define the building's current occupant, this definition clearly shows that in its own way, the Crisis Pregnancy Center is as successful as any other business. When asked if she considered the Center to be successful, Executive Director, Ellen Dean responded by saying, "The reason the Center is what you would say a 'success' is because of the needs that are met through its facilities, the dominant use of volunteers to achieve these needs, and the fact that the Center itself belongs to and is run by God."
+
+In the mid nineties, the building became occupied by a different type of business then those it had housed before. Crisis Pregnancy Center, a non-profit organization, moved across the square from South Adams Street to the old Penney's building in 1997 in hopes to better manage the number of clients that had increased drastically within the past few years. The Center's actual ministry began in 1991, when a group of Christian community people found it necessary to respond to high pregnancy rate and the rising abortion rate among Grant County teens (Dean).
+
+Over the past decade, the Center has helped thousands of clients in need. With Grant County having the highest pregnancy rate in the state of Indiana, the Center's client list seems to be never-ending, and its future appears to be escalating based on this dramatic increase of pregnant teens. Mrs. Dean declares that unless something is done to change the media's views on pre-marital sex, and the society's views on abortion and teen pregnancies is changed, the increase in clients in crisis center like this one will continue to multiply (Dean).
+
+Along with the swell of clients came the need for more funds, and that's where Hidden Treasures enters the picture. In April of 1999 God directed Ellen Dean to open a gift shop in downtown Marion, and although she thought it to be bizarre, she complied. April 1, 1999 marked the grand opening of one of Marion's only gift and coffee shop. Furnishing such things as collectibles, antiques, silk floral arrangements, candles, fresh flowers and balloons, as well as a coffee, cappuccino, espresso and several food items, the store is considered by many as being one of Marion's unique businesses. The store is referred to as unique because all its items are donated and the entire store's proceeds are donated to the Crisis Pregnancy Center to further their ministry (New Shop to Donate Funds). The store, along with the Center, may not be considered a greatly successful business, but it is certain that its noble ambitions are unable to be compared to many other businesses.
+
+## Conclusion
+
+History is a great teacher and if observed with an open and eager mind, one can uncover amazing things. The building found on the west side of the square is a perfect example of untouched history. From one of the most successful business of the mid 1800's, to the non-profit organization situated there today, this building has illustrated many different aspects of the business industry. Beginning as one of Marion's first department stores Blumenthal' s alone is considered to be the major factor in Marion's recognition as a business center. Taken over by the J.C. Penney Company in the mid 1930's, history repeated itself and again an unforgettable business was established. Housing the Crisis Pregnancy Center and the gift and coffee shop, Hidden Treasures, the building is still today making history in the town of Marion.
+
+## Works Cited {#works_cited}
+
+-   Dean, Ellen. Personal Interview. 10 Jan. 2001.
+-   History of Grant County. Chicago: Brant & Fuller, 1886: 603-604.
+-   JCPenney. 12 Jan 2001 \<<http://www.jcpenney.net/company/history.htm>\>.
+-   Miller, Jerry. Indiana Jewish History: Marion's Chosen Few. 25th ed. Aug. 1989: 16,19,20.
+-   Souvenir of the Dailey and Weekly Leader. Marion, Indiana, 1982: 24.
+-   Tyner, Stan. Personal Interview. 11 Jan. 2001
+-   "Way Back When." Chronicle Tribune 8 Sept. 1996.
+-   Wright, Wende. "New Shop to Donate Funds." Chronicle Tribune 5 Apr. 1999.
+
+## Credits
+
+This article was written by Joanna Dean and submitted on January 16, 2001.

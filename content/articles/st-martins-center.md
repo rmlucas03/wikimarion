@@ -1,0 +1,39 @@
+---
+title: "St. Martin\'s Center"
+slug: "st-martins-center"
+has_map: false
+---
+
+Established in 1967, St. Martin\'s Community Center has developed into a community-wide service provider from what began as an unnamed donation of fifty dollars towards feeding migrant workers. Since its opening, St. Martin\'s has been relocated due to a fire, but it has still managed to make many additions to its program. Committed to aiding others in the community, St. Martin\'s Community Center has assisted tens of thousands of people each year (\"A life of service\"). Not only is the concept of St. Martin\'s Community Center remarkable, but its history is equally noteworthy.
+
+## Beginnings
+
+St. Martin\'s mission was put into action after an anonymous donation (presumably from a parishioner of St. Paul Catholic Church) was made to feed Hispanic migrant workers. What is now known as St. Martin\'s Center was then named St. Martin de Porres Center by St. Paul. These migrant workers were United States citizens predominantly from Texas. They were involved in planting tomatoes in the spring and harvesting them in the fall. The workers then proceeded to travel to Michigan to harvest peaches and berries later in the fall. On their way to Michigan, they passed through Marion, Indiana, where they were provided with warm clothing, food, medicine, and blankets. In addition to these contributions, the Hispanic people in the immigrant stream were provided with Christian ministry founded by Father Fred Perry.
+
+Because tomato-picking has recently been taken over by machinery, others come seeking aid including local Marion families and people from all over the United States, Mexico, the Caribbean, South America, Central America, and many other locations around the world (personal interview). In 1975 the center helped distribute 30,000 pounds of potatoes donated by various local church groups to help the families who were brutally hit by widespread unemployment (\"Second-hand shop gives first-hand aid\").
+
+## Kay\'s Kitchen {#kays_kitchen}
+
+In helping to expand the program, Kay Watson, the previous director of St. Martin DePorres Center, began to serve hot meals gratis at 11:00 A.M. in 1983. At the time these were the only free meals served in Grant County (\"About Us\"). This act initiated what is now known as Kay\'s Kitchen, a service of St. Martin\'s Center. Kay\'s sister, Vivienne Drake, who was the director of St. Martin\'s from 1990-2003 and Marion\'s first woman police officer, said that Watson acknowledged a need for the kitchen and believed that St. Martin\'s could supply it. The kitchen did not always bear Kay\'s name, though. Shortly following her death in 1987, the kitchen was named after Watson thanks in large part to Reverend Leo Haggerty, who was then the priest at St. Paul Catholic Church (\"Kay\'s Kitchen\").
+
+## Changing Locations {#changing_locations}
+
+Not only did St. Martin\'s Community Center grow from a Catholic organization into an independent, not-for-profit corporation supervised by a board of directors in 1993, but the center has also changed its location (\"About Us\"). Initially located in the old St. Paul Elementary School building, St. Martin\'s was moved to the old St. Paul Catholic Church and Our Lady of Guadalupe Church. However, this building was destroyed in a tragic fire in May 1995. Following the fire, the center\'s divisions - the thrift store, food pantry, and Kay\'s Kitchen-- were dispersed around Marion. For example, meals were cooked at the First United Methodist Church and served at Gethsemane Episcopal Church. In finding a new location, Vivienne Drake asked Bishop William Higi, who was in charge of the Lafayette Diocese of the Catholic Church, for consent to expand Kay\'s Kitchen into a more handicapped-accessible building. Permission was granted to Drake, and in 1997 St. Martin\'s was rebuilt into a new 15,200 square foot building unofficially named St. Martin Community Center (\"St. Martin\'s decides to go its own way\").
+
+Despite the fire, St. Martin\'s continued to thrive. In 1999 Kay\'s Kitchen became a United Way participating program. In 2002 a \$200,000 Impact Grant was provided by The Community Foundation for a 3,800 square foot addition. The new addition included a larger food pantry, a conference room, and a storage building. A computer lab was installed, and various educational programs began in 2004. In 2005 the Coats for Kids program was added to the many other programs provided by St. Martin\'s Center. Also in 2005, a free health clinic independent from St. Martin\'s, Bridges to Health, rented the space between the dining room and food pantry free of charge. In 2006, the Kids Café began at St. Martin\'s, Kay\'s Kitchen began to serve meals on Saturdays, and St. Martin\'s allotted Bridges to Health more space for an ophthalmologist room and an additional examination room. Finally in 2007, the Kids Café became a United Way participating program.
+
+## Variety of Services {#variety_of_services}
+
+Over the 41 years the center has been open, St. Martin\'s has come to be home to Kay\'s Kitchen, the Thrift Shop, a food pantry, a migrant food pantry, Displaced Workers Fund, and Coats for Kids. St. Martin\'s also sponsors a vegetable garden in which they have dedicated 1,500 square feet to growing some of their own food for improved food quality and for the improvement of the environment. In addition to the vegetable garden, St. Martin\'s makes an attempt to reach out into the community by offering education and workshops through free computer, quilting, gardening, and nutrition courses. Throughout the year, St. Martin\'s also contributes by hosting multiple workshops around Marion provided by Cancer Services of Grant County, Girl Scouts of America, the Hispanic Round Table, Indiana University School of Nursing, and some of St. Martin\'s very own trained volunteers (\"Programs\"). St. Martin\'s clearly states their intentions through their mission statement:
+
+*\"We strive to meet the needs of people in need by serving hot, nutritious meals and by providing pantry food, clothing, medicine, and support to sensitize others to the needs of the poor - rich and poor working together within our constraints with a hot meal or a bag of groceries, we strive to lessen the burden of those in unfortunate circumstances while encouraging them to continue working towards a larger goal of self-sufficiency.\"*
+
+## Conclusion
+
+St. Martin\'s continues to set and achieve their goals through this concept in their building \"where hearts and doors are open to all\" (\"Where hearts and doors are open to all\"). As of 2005, upwards of 50,000 people a year are helped by St. Martin\'s through Kay\'s Kitchen, the thrift store, and the food pantry (\"A life of service\"). Vivienne Drake said it best when she said, \"We need a community charity, and there isn\'t any here. We have The Salvation Army and the Rescue Mission, but they are parts of national organizations. But we are strictly a community service\" (\"St. Martin\'s decides to go its own way).
+
+While ubiquitously helping to feed and clothe tens of thousands of people, St. Martin\'s has not only reached out to the community, but it has also reached its citizens through several methods of donation and encouragement to help others less fortunate and to continue to carry out the work of God. St. Martin\'s Center advocates various quotes that help to describe their mission. For example, Henry Ward Beecher has said, \"Every charitable act is a stepping stone towards heaven.\" Margaret Meade asserted, \"Never believe that a few caring people can\'t change the world. For, indeed, that\'s all who ever have.\" St. Martin\'s has certainly done so.
+
+## Credits
+
+This article was written by Maddie Kuczora for Mr. Munn\'s IU History class and submitted on May 19, 2008.
