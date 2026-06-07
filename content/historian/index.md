@@ -2,10 +2,7 @@
 title: "From the Historian"
 ---
 
-<div class="historian-header">
-  <h1>From the Historian</h1>
-  <p>Recent posts from the Grant County historian's Substack publication, <em>Disappearing Marion</em>. Click any title to read the full post.</p>
-</div>
+<p style="font-style:italic;color:#6b6b63;margin-bottom:2rem;">Recent posts from the Grant County historian's Substack publication, <em>Disappearing Marion</em>. Click any title to read the full post.</p>
 
 <div id="historian-posts" class="historian-posts">
   <p>Loading posts…</p>
@@ -16,7 +13,7 @@ title: "From the Historian"
 </div>
 
 <script>
-fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('https://billmunn.substack.com/feed') + '&count=20')
+fetch('https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fbillmunn.substack.com%2Ffeed&count=20')
   .then(function(r) { return r.json(); })
   .then(function(data) {
     var container = document.getElementById('historian-posts');
@@ -37,7 +34,7 @@ fetch('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('http
         '</div>';
     }).join('');
   })
-  .catch(function() {
+  .catch(function(err) {
     document.getElementById('historian-posts').style.display = 'none';
     document.getElementById('historian-error').style.display = 'block';
   });
