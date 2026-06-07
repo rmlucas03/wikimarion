@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "WikiMarion"
 theme = "wikimarion"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   description = "A history of Marion, Indiana and surrounding areas"
   substackURL = "https://billmunn.substack.com"

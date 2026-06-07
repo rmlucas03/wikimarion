@@ -1,0 +1,7 @@
+{{- /* Search index consumed by /search/. One entry per article. */ -}}
+{{- $list := slice -}}
+{{- range (where .Site.RegularPages "Section" "articles").ByTitle -}}
+  {{- $text := .Plain | htmlUnescape | replaceRE "\\s+" " " | trim " " -}}
+  {{- $list = $list | append (dict "title" .Title "url" .RelPermalink "text" $text) -}}
+{{- end -}}
+{{- $list | jsonify -}}

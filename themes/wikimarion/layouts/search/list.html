@@ -1,0 +1,87 @@
+{{ define "main" }}
+<div class="list-page">
+  <div class="list-container">
+    <header class="list-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="article-filter">
+      <form id="search-form" action="/search/" method="get">
+        <input type="search" id="search-input" name="q" placeholder="Search articles…" aria-label="Search">
+        <button type="submit">Search</button>
+      </form>
+    </div>
+
+    <p id="search-status" class="search-status"></p>
+    <ul class="article-list search-results" id="search-results"></ul>
+  </div>
+</div>
+
+<script>
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var q = (params.get('q') || '').trim();
+  var input = document.getElementById('search-input');
+  var statusEl = document.getElementById('search-status');
+  var resultsEl = document.getElementById('search-results');
+  if (q) { input.value = q; }
+
+  var escapes = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+  function esc(s) { return String(s).replace(/[&<>"']/g, function(c) { return escapes[c]; }); }
+
+  function snippet(text, term) {
+    var lc = text.toLowerCase();
+    var pos = term ? lc.indexOf(term) : -1;
+    if (pos === -1) { return text.slice(0, 170).trim() + '…'; }
+    var start = Math.max(0, pos - 70);
+    return (start > 0 ? '…' : '') + text.slice(start, pos + 130).trim() + '…';
+  }
+
+  function run(index) {
+    if (!q) {
+      statusEl.textContent = 'Type a word, name, or place above and press Search.';
+      return;
+    }
+    var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+    var matches = [];
+    index.forEach(function(item) {
+      var titleLc = item.title.toLowerCase();
+      var textLc = item.text.toLowerCase();
+      var ok = terms.every(function(t) {
+        return titleLc.indexOf(t) !== -1 || textLc.indexOf(t) !== -1;
+      });
+      if (!ok) { return; }
+      var score = 0;
+      terms.forEach(function(t) {
+        if (titleLc.indexOf(t) !== -1) { score += 10; }
+        if (textLc.indexOf(t) !== -1) { score += 1; }
+      });
+      matches.push({ item: item, score: score });
+    });
+    matches.sort(function(a, b) { return b.score - a.score; });
+
+    if (!matches.length) {
+      statusEl.textContent = 'No results for “' + q + '”. Try a different word or check the spelling.';
+      resultsEl.innerHTML = '';
+      return;
+    }
+    statusEl.textContent = matches.length + ' result' + (matches.length !== 1 ? 's' : '') + ' for “' + q + '”.';
+    resultsEl.innerHTML = matches.map(function(m) {
+      var item = m.item;
+      return '<li class="article-list-item">' +
+        '<a href="' + item.url + '" class="article-list-link">' +
+        '<span class="article-list-title">' + esc(item.title) + '</span>' +
+        '</a>' +
+        '<p class="search-snippet">' + esc(snippet(item.text, terms[0])) + '</p>' +
+        '</li>';
+    }).join('');
+  }
+
+  statusEl.textContent = 'Loading…';
+  fetch('/index.json')
+    .then(function(r) { return r.json(); })
+    .then(run)
+    .catch(function() { statusEl.textContent = 'Could not load the search index. Please reload the page.'; });
+})();
+</script>
+{{ end }}
