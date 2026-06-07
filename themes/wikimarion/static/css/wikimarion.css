@@ -149,7 +149,9 @@ h1, h2, h3, h4 { font-family: var(--font-display); color: var(--ink); font-weigh
   width: 180px;
   transition: background 0.15s, border-color 0.15s;
 }
-.header-search input::placeholder { color: rgba(247, 243, 234, 0.45); }
+.header-search input::placeholder { color: rgba(247, 243, 234, 0.6); }
+/* The hero carries the primary search on the home page, so hide the nav one there. */
+body.home .header-search { display: none; }
 .header-search input:focus { outline: none; background: rgba(255, 255, 255, 0.14); border-color: rgba(247, 243, 234, 0.35); }
 .header-search button {
   padding: 0.4rem 0.8rem;
@@ -169,7 +171,7 @@ h1, h2, h3, h4 { font-family: var(--font-display); color: var(--ink); font-weigh
   background-image:
     radial-gradient(ellipse at 50% -10%, rgba(124, 45, 18, 0.06) 0%, transparent 60%);
   color: var(--ink);
-  padding: 5rem 1.5rem 4.25rem;
+  padding: 4rem 1.5rem 3.25rem;
   text-align: center;
   border-bottom: 1px solid var(--line-strong);
 }
@@ -242,43 +244,85 @@ h1, h2, h3, h4 { font-family: var(--font-display); color: var(--ink); font-weigh
 .btn-outline:hover { background: var(--accent); border-color: var(--accent); color: var(--paper); }
 
 /* ---- HOME SECTIONS ---- */
-.home-section { padding: 4.5rem 1.5rem; }
-.home-features { background: var(--surface-alt); border-bottom: 1px solid var(--line); }
+.home-section { padding: 4rem 1.5rem; }
+.home-featured { padding-top: 3.25rem; }
+.home-explore { background: var(--surface-alt); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .home-container { max-width: var(--max-width); margin: 0 auto; }
-.feature-grid {
+
+/* "From the Collection" featured cards (real archival images) */
+.featured-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 1.75rem;
+  margin-bottom: 1.75rem;
 }
-.feature-card {
+.featured-card {
+  display: flex;
+  flex-direction: column;
   background: var(--surface);
   border: 1px solid var(--line);
-  border-top: 2px solid transparent;
-  padding: 2.25rem 1.75rem;
-  text-align: center;
-  transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
-  color: var(--text);
   border-radius: 2px;
+  overflow: hidden;
+  color: var(--text);
+  transition: box-shadow 0.2s, transform 0.2s;
 }
-.feature-card:hover {
-  box-shadow: 0 8px 28px var(--shadow-md);
+.featured-card:hover {
+  box-shadow: 0 10px 30px var(--shadow-md);
   transform: translateY(-3px);
-  border-top-color: var(--accent);
   text-decoration: none;
   color: var(--text);
 }
-.feature-icon { font-size: 2rem; margin-bottom: 0.85rem; opacity: 0.9; }
-.feature-card h3 {
+.featured-card-media { aspect-ratio: 3 / 2; overflow: hidden; background: var(--surface-alt); }
+.featured-card-media img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
+.featured-card:hover .featured-card-media img { transform: scale(1.04); }
+.featured-card-body { padding: 1.1rem 1.25rem 1.35rem; }
+.featured-card-cat {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+}
+.featured-card-title {
   font-family: var(--font-display);
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+  line-height: 1.25;
+  margin-top: 0.25rem;
   color: var(--ink);
 }
-.feature-card p {
-  font-size: 0.92rem;
-  color: var(--muted);
-  line-height: 1.6;
+
+/* Explore cards (Articles / Map / Historian) with line icons */
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
 }
+.explore-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  padding: 1.5rem;
+  color: var(--text);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.explore-card:hover {
+  box-shadow: 0 8px 24px var(--shadow-md);
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: var(--text);
+}
+.explore-icon { flex-shrink: 0; color: var(--accent); line-height: 0; margin-top: 0.15rem; }
+.explore-icon svg { width: 28px; height: 28px; }
+.explore-card h3 {
+  font-family: var(--font-display);
+  font-size: 1.12rem;
+  margin-bottom: 0.3rem;
+  color: var(--ink);
+}
+.explore-card p { font-size: 0.9rem; color: var(--muted); line-height: 1.55; }
 .home-two-col {
   display: grid;
   grid-template-columns: 1fr 1fr;

@@ -9,30 +9,73 @@
         <button type="submit">Search</button>
       </form>
     </div>
-    <div class="hero-links">
-      <a href="/articles/" class="btn">Browse All Articles</a>
-      <a href="/map/" class="btn btn-outline">Explore the Map</a>
-    </div>
   </div>
 </section>
 
-<section class="home-section home-features">
+{{/* Build the featured list from params.featured, falling back to articles with images. */}}
+{{ $featured := slice }}
+{{ range .Site.Params.featured }}
+  {{ with $.Site.GetPage (printf "/articles/%s" .) }}
+    {{ if .Params.first_image }}{{ $featured = $featured | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $featured }}
+  {{ range first 6 (where (where .Site.RegularPages "Section" "articles") "Params.first_image" "!=" nil) }}
+    {{ $featured = $featured | append . }}
+  {{ end }}
+{{ end }}
+
+{{ with $featured }}
+<section class="home-section home-featured">
   <div class="home-container">
-    <div class="feature-grid">
-      <a href="/articles/" class="feature-card">
-        <div class="feature-icon">&#128218;</div>
-        <h3>{{ len (where .Site.RegularPages "Section" "articles") }} Articles</h3>
-        <p>Histories of people, places, buildings, and events in Marion and Grant County.</p>
+    <h2 class="section-heading">From the Collection</h2>
+    <div class="featured-grid">
+      {{ range . }}
+      <a href="{{ .RelPermalink }}" class="featured-card">
+        <div class="featured-card-media">
+          <img src="/images/{{ .Params.first_image }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        <div class="featured-card-body">
+          {{ with .Params.categories }}<span class="featured-card-cat">{{ index . 0 }}</span>{{ end }}
+          <h3 class="featured-card-title">{{ .Title }}</h3>
+        </div>
       </a>
-      <a href="/map/" class="feature-card">
-        <div class="feature-icon">&#128205;</div>
-        <h3>Interactive Map</h3>
-        <p>Browse historic places geographically. Click any marker to read its story.</p>
+      {{ end }}
+    </div>
+    <a href="/articles/" class="more-link">Browse all {{ len (where $.Site.RegularPages "Section" "articles") }} articles →</a>
+  </div>
+</section>
+{{ end }}
+
+<section class="home-section home-explore">
+  <div class="home-container">
+    <div class="explore-grid">
+      <a href="/articles/" class="explore-card">
+        <span class="explore-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 7v14"/><path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/></svg>
+        </span>
+        <div>
+          <h3>Browse Articles</h3>
+          <p>Histories of people, places, buildings, and events.</p>
+        </div>
       </a>
-      <a href="/historian/" class="feature-card">
-        <div class="feature-icon">&#128394;</div>
-        <h3>From the Historian</h3>
-        <p>Latest posts from the Grant County historian's Substack publication.</p>
+      <a href="/map/" class="explore-card">
+        <span class="explore-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
+        </span>
+        <div>
+          <h3>Explore the Map</h3>
+          <p>Find historic places geographically across the county.</p>
+        </div>
+      </a>
+      <a href="/historian/" class="explore-card">
+        <span class="explore-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.67 19a2 2 0 0 0 1.416-.588l6.154-6.172a6 6 0 0 0-8.49-8.49L5.586 9.914A2 2 0 0 0 5 11.328V18a1 1 0 0 0 1 1z"/><path d="M16 8 2 22"/><path d="M17.5 15H9"/></svg>
+        </span>
+        <div>
+          <h3>From the Historian</h3>
+          <p>Recent posts from the Grant County historian.</p>
+        </div>
       </a>
     </div>
   </div>
@@ -89,7 +132,7 @@ fetch(proxy)
     `).join('');
   })
   .catch(() => {
-    document.getElementById('substack-feed').innerHTML = 
+    document.getElementById('substack-feed').innerHTML =
       '<p><a href="/historian/">Visit the historian\'s page →</a></p>';
   });
 </script>

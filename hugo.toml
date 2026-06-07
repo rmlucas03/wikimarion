@@ -12,6 +12,17 @@ theme = "wikimarion"
   substackFeed = "https://billmunn.substack.com/feed"
   mapsCenter = [40.5584, -85.6591]
   mapsZoom = 13
+  # Article slugs shown in the homepage "From the Collection" section.
+  # Each should have a first_image. Edit this list to curate the front page;
+  # if empty or invalid, the homepage falls back to articles that have images.
+  featured = [
+    "marion-lynching",
+    "grant-county-courthouse",
+    "veterans-administration-medical-center",
+    "carnegie-building",
+    "matter-park",
+    "quilters-hall-of-fame",
+  ]
 
 [markup]
   [markup.goldmark]
