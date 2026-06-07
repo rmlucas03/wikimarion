@@ -12,11 +12,20 @@ title: "From the Historian"
   <p>Could not load posts automatically. <a href="https://billmunn.substack.com" target="_blank" rel="noopener">Visit Disappearing Marion on Substack directly →</a></p>
 </div>
 
+<style>
+.historian-post-with-img { display: flex; gap: 1.25rem; align-items: flex-start; }
+.historian-post-img { flex-shrink: 0; width: 140px; height: 100px; object-fit: cover; border: 1px solid #d4cfc4; }
+.historian-post-text { flex: 1; }
+@media (max-width: 640px) {
+  .historian-post-with-img { flex-direction: column; }
+  .historian-post-img { width: 100%; height: 180px; }
+}
+</style>
+
 <script>
 var proxies = [
   'https://corsproxy.io/?' + encodeURIComponent('https://billmunn.substack.com/feed'),
-  'https://api.allorigins.win/raw?url=' + encodeURIComponent('https://billmunn.substack.com/feed'),
-  'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent('https://billmunn.substack.com/feed')
+  'https://api.allorigins.win/raw?url=' + encodeURIComponent('https://billmunn.substack.com/feed')
 ];
 
 function tryFetch(index) {
@@ -25,47 +34,13 @@ function tryFetch(index) {
     document.getElementById('historian-error').style.display = 'block';
     return;
   }
-  var isRss2json = proxies[index].indexOf('rss2json') !== -1;
   fetch(proxies[index])
-    .then(function(r) { return isRss2json ? r.json() : r.text(); })
+    .then(function(r) { return r.text(); })
     .then(function(result) {
-      var items;
-      if (isRss2json) {
-        if (!result.items || !result.items.length) throw new Error('empty');
-        items = result.items.map(function(i) {
-          return { title: i.title, link: i.link, date: i.pubDate, desc: i.description };
-        });
-      } else {
-        var parser = new DOMParser();
-        var xml = parser.parseFromString(result, 'text/xml');
-        var entries = xml.querySelectorAll('item');
-        if (!entries.length) throw new Error('empty');
-        items = [];
-        entries.forEach(function(el) {
-          items.push({
-            title: el.querySelector('title').textContent,
-            link: el.querySelector('link').textContent,
-            date: el.querySelector('pubDate') ? el.querySelector('pubDate').textContent : '',
-            desc: el.querySelector('description') ? el.querySelector('description').textContent : ''
-          });
-        });
-      }
+      var parser = new DOMParser();
+      var xml = parser.parseFromString(result, 'text/xml');
+      var entries = xml.querySelectorAll('item');
+      if (!entries.length) throw new Error('empty');
       var container = document.getElementById('historian-posts');
-      container.innerHTML = items.map(function(item) {
-        var date = item.date ? new Date(item.date).toLocaleDateString('en-US', {
-          year: 'numeric', month: 'long', day: 'numeric'
-        }) : '';
-        var tmp = document.createElement('div');
-        tmp.innerHTML = item.desc || '';
-        var excerpt = tmp.textContent.slice(0, 220).trim();
-        return '<div class="historian-post">' +
-          '<a href="' + item.link + '" target="_blank" rel="noopener" class="historian-post-title">' + item.title + '</a>' +
-          '<span class="historian-post-date">' + date + '</span>' +
-          (excerpt ? '<p class="historian-post-excerpt">' + excerpt + '…</p>' : '') +
-          '</div>';
-      }).join('');
-    })
-    .catch(function() { tryFetch(index + 1); });
-}
-tryFetch(0);
-</script>
+      var html = '';
+      entries.forEach(function(el) {
