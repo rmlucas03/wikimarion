@@ -13,26 +13,33 @@ title: "From the Historian"
 </div>
 
 <script>
-fetch('https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fbillmunn.substack.com%2Ffeed&count=20')
-  .then(function(r) { return r.json(); })
-  .then(function(data) {
+fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent('https://billmunn.substack.com/feed'))
+  .then(function(r) { return r.text(); })
+  .then(function(text) {
+    var parser = new DOMParser();
+    var xml = parser.parseFromString(text, 'text/xml');
+    var items = xml.querySelectorAll('item');
     var container = document.getElementById('historian-posts');
-    if (!data.items || data.items.length === 0) {
-      throw new Error('No items');
-    }
-    container.innerHTML = data.items.map(function(item) {
-      var date = new Date(item.pubDate).toLocaleDateString('en-US', {
+    if (!items.length) throw new Error('No items');
+    var html = '';
+    items.forEach(function(item) {
+      var title = item.querySelector('title').textContent;
+      var link = item.querySelector('link').textContent;
+      var pubDate = item.querySelector('pubDate');
+      var date = pubDate ? new Date(pubDate.textContent).toLocaleDateString('en-US', {
         year: 'numeric', month: 'long', day: 'numeric'
-      });
+      }) : '';
+      var desc = item.querySelector('description');
       var tmp = document.createElement('div');
-      tmp.innerHTML = item.description || '';
+      tmp.innerHTML = desc ? desc.textContent : '';
       var excerpt = tmp.textContent.slice(0, 220).trim();
-      return '<div class="historian-post">' +
-        '<a href="' + item.link + '" target="_blank" rel="noopener" class="historian-post-title">' + item.title + '</a>' +
+      html += '<div class="historian-post">' +
+        '<a href="' + link + '" target="_blank" rel="noopener" class="historian-post-title">' + title + '</a>' +
         '<span class="historian-post-date">' + date + '</span>' +
         (excerpt ? '<p class="historian-post-excerpt">' + excerpt + '…</p>' : '') +
         '</div>';
-    }).join('');
+    });
+    container.innerHTML = html;
   })
   .catch(function(err) {
     document.getElementById('historian-posts').style.display = 'none';
