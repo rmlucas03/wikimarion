@@ -24,16 +24,16 @@ document.addEventListener('DOMContentLoaded', function() {
     attribution: '&copy; OpenStreetMap contributors',
     maxZoom: 19
   }).addTo(map);
-  var markers = L.markerClusterGroup();
   fetch('/data/map_markers.json')
-    .then(r => r.json())
-    .then(data => {
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
       data.forEach(function(m) {
-        if (!m.lat || !m.lng) return;
-        var popup = '<strong><a href="' + m.url + '">' + m.title + '</a></strong>';
-        markers.addLayer(L.marker([m.lat, m.lng]).bindPopup(popup));
+        L.marker([m.lat, m.lng]).addTo(map)
+          .bindPopup('<strong><a href="' + m.url + '">' + m.title + '</a></strong>');
       });
-      map.addLayer(markers);
+    })
+    .catch(function(err) {
+      document.getElementById('full-map').innerHTML = '<p style="padding:2rem;">Error loading map data: ' + err.message + '</p>';
     });
 });
 </script>
