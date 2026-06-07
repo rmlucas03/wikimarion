@@ -23,55 +23,91 @@ title: "From the Historian"
 </style>
 
 <script>
-var proxies = [
-  'https://corsproxy.io/?' + encodeURIComponent('https://billmunn.substack.com/feed'),
-  'https://api.allorigins.win/raw?url=' + encodeURIComponent('https://billmunn.substack.com/feed')
+var feedUrl = 'https://billmunn.substack.com/feed';
+// Sources are tried in order until one succeeds. rss2json returns parsed JSON
+// (and post thumbnails); the allorigins entry is a raw-XML fallback.
+var sources = [
+  { url: 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feedUrl), type: 'json' },
+  { url: 'https://api.allorigins.win/raw?url=' + encodeURIComponent(feedUrl), type: 'xml' }
 ];
 
+function firstImg(html) {
+  var tmp = document.createElement('div');
+  tmp.innerHTML = html || '';
+  var img = tmp.querySelector('img');
+  return img ? img.getAttribute('src') : '';
+}
+
+function excerptFrom(html) {
+  var tmp = document.createElement('div');
+  tmp.innerHTML = html || '';
+  return tmp.textContent.replace(/\s+/g, ' ').slice(0, 220).trim();
+}
+
+function fmtDate(s) {
+  if (!s) return '';
+  var d = new Date(s.replace(' ', 'T'));
+  return isNaN(d.getTime()) ? '' : d.toLocaleDateString('en-US', {
+    year: 'numeric', month: 'long', day: 'numeric'
+  });
+}
+
+function render(items) {
+  document.getElementById('historian-posts').innerHTML = items.map(function(item) {
+    var text =
+      '<div class="historian-post-text">' +
+      '<a href="' + item.link + '" target="_blank" rel="noopener" class="historian-post-title">' + item.title + '</a>' +
+      '<span class="historian-post-date">' + item.date + '</span>' +
+      (item.excerpt ? '<p class="historian-post-excerpt">' + item.excerpt + '…</p>' : '') +
+      '</div>';
+    if (item.image) {
+      return '<div class="historian-post historian-post-with-img">' +
+        '<img class="historian-post-img" src="' + item.image + '" alt="" loading="lazy">' +
+        text + '</div>';
+    }
+    return '<div class="historian-post">' + text + '</div>';
+  }).join('');
+}
+
 function tryFetch(index) {
-  if (index >= proxies.length) {
+  if (index >= sources.length) {
     document.getElementById('historian-posts').style.display = 'none';
     document.getElementById('historian-error').style.display = 'block';
     return;
   }
-  fetch(proxies[index])
-    .then(function(r) { return r.text(); })
+  var src = sources[index];
+  fetch(src.url)
+    .then(function(r) { return src.type === 'json' ? r.json() : r.text(); })
     .then(function(result) {
-      var parser = new DOMParser();
-      var xml = parser.parseFromString(result, 'text/xml');
-      var entries = xml.querySelectorAll('item');
-      if (!entries.length) throw new Error('empty');
-      var container = document.getElementById('historian-posts');
-      var html = '';
-      entries.forEach(function(el) {
-        var title = el.querySelector('title') ? el.querySelector('title').textContent : '';
-        var link = el.querySelector('link') ? el.querySelector('link').textContent : '';
-        var pubDate = el.querySelector('pubDate') ? el.querySelector('pubDate').textContent : '';
-        var date = pubDate ? new Date(pubDate).toLocaleDateString('en-US', {
-          year: 'numeric', month: 'long', day: 'numeric'
-        }) : '';
-        var descEl = el.querySelector('description');
-        var descHtml = descEl ? descEl.textContent : '';
-        var tmp = document.createElement('div');
-        tmp.innerHTML = descHtml;
-        var imgEl = tmp.querySelector('img');
-        var imgSrc = imgEl ? imgEl.getAttribute('src') : '';
-        var excerpt = tmp.textContent.slice(0, 220).trim();
-        var textBlock =
-          '<div class="historian-post-text">' +
-          '<a href="' + link + '" target="_blank" rel="noopener" class="historian-post-title">' + title + '</a>' +
-          '<span class="historian-post-date">' + date + '</span>' +
-          (excerpt ? '<p class="historian-post-excerpt">' + excerpt + '…</p>' : '') +
-          '</div>';
-        if (imgSrc) {
-          html += '<div class="historian-post historian-post-with-img">' +
-            '<img class="historian-post-img" src="' + imgSrc + '" alt="" loading="lazy">' +
-            textBlock + '</div>';
-        } else {
-          html += '<div class="historian-post">' + textBlock + '</div>';
-        }
-      });
-      container.innerHTML = html;
+      var items;
+      if (src.type === 'json') {
+        if (!result.items || !result.items.length) throw new Error('empty');
+        items = result.items.map(function(it) {
+          return {
+            title: it.title,
+            link: it.link,
+            date: fmtDate(it.pubDate),
+            image: it.thumbnail || (it.enclosure && it.enclosure.link) || firstImg(it.content || it.description),
+            excerpt: excerptFrom(it.description || it.content)
+          };
+        });
+      } else {
+        var entries = new DOMParser().parseFromString(result, 'text/xml').querySelectorAll('item');
+        if (!entries.length) throw new Error('empty');
+        items = [];
+        entries.forEach(function(el) {
+          var get = function(sel) { var n = el.querySelector(sel); return n ? n.textContent : ''; };
+          var desc = get('description');
+          items.push({
+            title: get('title'),
+            link: get('link'),
+            date: fmtDate(get('pubDate')),
+            image: firstImg(desc),
+            excerpt: excerptFrom(desc)
+          });
+        });
+      }
+      render(items);
     })
     .catch(function() { tryFetch(index + 1); });
 }
