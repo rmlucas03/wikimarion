@@ -41,7 +41,7 @@ Unfortunately, World War I brought the closing of the school once again, because
 
 ### The Great Depression {#the_great_depression}
 
-![Teter Hall in the 1950s](/images/Teter_Hall(ca1950s).jpg)In 1929, the Great Depression hit the nation, and it affected everyone, including Marion College. By 1933, the college was struggling to keep its doors open, and the staff started to "turn-back" their pay to keep the school up and running. The school was able to "make ends meet", and although they were sometimes forced to accept tuition in the form of a cow or otherwise, the school remained open throughout the Depression (Elder 141).
+![Teter Hall in the 1950s](</images/Teter_Hall(ca1950s).jpg>)In 1929, the Great Depression hit the nation, and it affected everyone, including Marion College. By 1933, the college was struggling to keep its doors open, and the staff started to "turn-back" their pay to keep the school up and running. The school was able to "make ends meet", and although they were sometimes forced to accept tuition in the form of a cow or otherwise, the school remained open throughout the Depression (Elder 141).
 
 ### The Energy Crisis {#the_energy_crisis}
 

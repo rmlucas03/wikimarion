@@ -5,7 +5,7 @@ has_map: false
 first_image: "Swayzee-Love(2001).jpg"
 ---
 
-![](/images/Swayzee-Love(2001).jpg)The Swayzee-Love house, as the records of the Marion Public Library call it, has held a large place in Marion history since its construction. The house has been owned by shoemakers, army men, store owners, and librarians. The house is a very beautiful structure, one of the best and only examples of Greek Revival Architecture in Marion. It has been owned by many Marion famous names and people with notoriety around the country. During its existence, it has undergone many changes under its many owners. During the latter half of the twentieth century, it was put on the National Register of Historic Places and on the Indiana State Preservation list. The Swayzee-Love house is an impressive sight to anyone that looks at it.
+![](</images/Swayzee-Love(2001).jpg>)The Swayzee-Love house, as the records of the Marion Public Library call it, has held a large place in Marion history since its construction. The house has been owned by shoemakers, army men, store owners, and librarians. The house is a very beautiful structure, one of the best and only examples of Greek Revival Architecture in Marion. It has been owned by many Marion famous names and people with notoriety around the country. During its existence, it has undergone many changes under its many owners. During the latter half of the twentieth century, it was put on the National Register of Historic Places and on the Indiana State Preservation list. The Swayzee-Love house is an impressive sight to anyone that looks at it.
 
 ## Physical Characteristics of the House {#physical_characteristics_of_the_house}
 

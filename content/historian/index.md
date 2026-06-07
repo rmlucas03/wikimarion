@@ -44,3 +44,36 @@ function tryFetch(index) {
       var container = document.getElementById('historian-posts');
       var html = '';
       entries.forEach(function(el) {
+        var title = el.querySelector('title') ? el.querySelector('title').textContent : '';
+        var link = el.querySelector('link') ? el.querySelector('link').textContent : '';
+        var pubDate = el.querySelector('pubDate') ? el.querySelector('pubDate').textContent : '';
+        var date = pubDate ? new Date(pubDate).toLocaleDateString('en-US', {
+          year: 'numeric', month: 'long', day: 'numeric'
+        }) : '';
+        var descEl = el.querySelector('description');
+        var descHtml = descEl ? descEl.textContent : '';
+        var tmp = document.createElement('div');
+        tmp.innerHTML = descHtml;
+        var imgEl = tmp.querySelector('img');
+        var imgSrc = imgEl ? imgEl.getAttribute('src') : '';
+        var excerpt = tmp.textContent.slice(0, 220).trim();
+        var textBlock =
+          '<div class="historian-post-text">' +
+          '<a href="' + link + '" target="_blank" rel="noopener" class="historian-post-title">' + title + '</a>' +
+          '<span class="historian-post-date">' + date + '</span>' +
+          (excerpt ? '<p class="historian-post-excerpt">' + excerpt + '…</p>' : '') +
+          '</div>';
+        if (imgSrc) {
+          html += '<div class="historian-post historian-post-with-img">' +
+            '<img class="historian-post-img" src="' + imgSrc + '" alt="" loading="lazy">' +
+            textBlock + '</div>';
+        } else {
+          html += '<div class="historian-post">' + textBlock + '</div>';
+        }
+      });
+      container.innerHTML = html;
+    })
+    .catch(function() { tryFetch(index + 1); });
+}
+tryFetch(0);
+</script>
