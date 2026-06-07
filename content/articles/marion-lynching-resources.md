@@ -23,7 +23,7 @@ Reading this article will give anyone who wishes to indulge themselves in knowle
 
 Reynolds, Betty. Ed. \"August 7, 1930 Lynching Marion, Center twp.\" Incident Sparked Man\'s Charges. Volume 3. Mairon, IN: Marion Public Library, Print.
 
-"Incident Sparked Man's Charges" is an article, written on February 12, 1993, in the Marion Chronicle Tribune. This article gives a brief summary of the events that caused the incarceration of Cameron, Shipp, and Smith. Although Shipp and Smith were arrested for the raping and murder of a white woman and man respectively, Cameron was only "tried, for being an accessory, and put in the Indiana Reformatory for four years." This article gives the reader further insight into the events that lead up to the lynching, why the mob was so infuriated at the boys, and why Cameron was let go. ![The hanging of Smith and Shipp](Marion_indiana_1930_lynching_photo-1.jpg "The hanging of Smith and Shipp")
+"Incident Sparked Man's Charges" is an article, written on February 12, 1993, in the Marion Chronicle Tribune. This article gives a brief summary of the events that caused the incarceration of Cameron, Shipp, and Smith. Although Shipp and Smith were arrested for the raping and murder of a white woman and man respectively, Cameron was only "tried, for being an accessory, and put in the Indiana Reformatory for four years." This article gives the reader further insight into the events that lead up to the lynching, why the mob was so infuriated at the boys, and why Cameron was let go. ![The hanging of Smith and Shipp](/images/Marion_indiana_1930_lynching_photo-1.jpg)
 
 ### "An American Tale" {#an_american_tale}
 
@@ -41,13 +41,13 @@ The storyteller helps the reader learn how some white families felt about the ly
 
 ### [Strange Fruit: Anniversary Of A Lynching](http://www.npr.org/templates/story/story.php?storyId=129025516) {#strange_fruit_anniversary_of_a_lynching}
 
-This radio story told on this website goes into depth about the scale of the lynching. The story tells about how many people were there, how the town and everyone reacted to Deeter's death and how the sheriff futilely tried to stop the mob from breaking into the cells and getting the three boys. People were having picnics while watching the lynching going on and the lack of kindness in the crowd, there was no sympathy for the victims, only anger and spite. This story will help people understand the scale of the lynching and how many people wanted to see the lynching going on and how nonchalant people acted about the lynching. ![James Cameron in 2005](Cameron.jpg "James Cameron in 2005")
+This radio story told on this website goes into depth about the scale of the lynching. The story tells about how many people were there, how the town and everyone reacted to Deeter's death and how the sheriff futilely tried to stop the mob from breaking into the cells and getting the three boys. People were having picnics while watching the lynching going on and the lack of kindness in the crowd, there was no sympathy for the victims, only anger and spite. This story will help people understand the scale of the lynching and how many people wanted to see the lynching going on and how nonchalant people acted about the lynching. ![James Cameron in 2005](/images/Cameron.jpg)
 
 ## Books
 
 ### A Lynching In The Heartland: Race and Memory in America {#a_lynching_in_the_heartland_race_and_memory_in_america}
 
-A Lynching in the Heartland: Race and Memory in America is a book written by James H. Madison, a History Professor at Indiana University, his book tells of the Marion lynching, as well as other lynchings and crimes against blacks that happened in America at the time. This provides a further look into the way blacks were treated back then as opposed to now. ![](A-lynching-in-heartland-race-memory-america-james-h-madison-paperback-cover-art.jpg "A-lynching-in-heartland-race-memory-america-james-h-madison-paperback-cover-art.jpg")
+A Lynching in the Heartland: Race and Memory in America is a book written by James H. Madison, a History Professor at Indiana University, his book tells of the Marion lynching, as well as other lynchings and crimes against blacks that happened in America at the time. This provides a further look into the way blacks were treated back then as opposed to now. ![](/images/A-lynching-in-heartland-race-memory-america-james-h-madison-paperback-cover-art.jpg)
 
 ### A Time of Terror {#a_time_of_terror}
 

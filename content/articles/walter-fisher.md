@@ -46,7 +46,7 @@ bs: Oh I mean 17
 
 wf: 17 I was just a year older than you are.
 
-01:15 bs: What kind of stuff did you do while you were over there? [thumb\|Asiatic-Pacific Campaign Badge](/articles/imageribbonasiapaccammedalgif/)
+01:15 bs: What kind of stuff did you do while you were over there? ![Asiatic-Pacific Campaign Badge](/images/RibbonAsiaPacCamMedal.gif)
 
 wf: Well I was first I went into the we went over to Hawaii, and took are training in camp Charawa and we went from there straight on over to the Philippines. and we participated I was honored to be one of supposedly the first Marine to land on the Phillipines, and we took we retook the Phillipines and MacAurthur came in after. Of coarse we were already there and a that was suppose to be the first marines to land on the Phillipines, and we took Laity Island in the Phillipines. It was quit an honor I thought to be there and ugh wether any one else considers it to be an honor, but I thought it to be an honor. anything else.
 

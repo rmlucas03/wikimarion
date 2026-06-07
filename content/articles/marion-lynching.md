@@ -5,11 +5,9 @@ has_map: false
 first_image: "Beitler_Photo.jpg"
 ---
 
-\[\[Image:Beitler_Photo.jpg\|right\|450px\|thumb\|
+![The Beitler Photograph of the Marion lynching](/images/Beitler_Photo.jpg)
 
-The [Beitler Photograph](/articles/beitler-photograph/) of the Marion lynching
-
-\]\]*The Marion Lynching is a dark part of Grant County history that is often swept under the rug to be forgotten about. It occurred on the night of August 7, 1930 when three black men were accused of raping a white woman, and killing a white man. The story created complete pandemonium within the community of Marion. During the spring of 2011, students at Marion High School created this online exhibit on the Marion lynching. This page provides a basic overview, and the linked phrases in the text below provide a deeper look at various aspects of the event.*
+*The Marion Lynching is a dark part of Grant County history that is often swept under the rug to be forgotten about. It occurred on the night of August 7, 1930 when three black men were accused of raping a white woman, and killing a white man. The story created complete pandemonium within the community of Marion. During the spring of 2011, students at Marion High School created this online exhibit on the Marion lynching. This page provides a basic overview, and the linked phrases in the text below provide a deeper look at various aspects of the event.*
 
 ## The Shooting {#the_shooting}
 

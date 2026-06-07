@@ -5,7 +5,7 @@ has_map: false
 first_image: "Ruptured_Duck.gif"
 ---
 
-![World War II Service Badge](Ruptured_Duck.gif "World War II Service Badge")
+![World War II Service Badge](/images/Ruptured_Duck.gif)
 
 Interview: Phil (pw) and Leah (lw) Wiley\
 Medium: Audio Tape\
@@ -217,7 +217,7 @@ pw: Cigarettes, candy, sugar, and things like that were all rationed. Uh, we wer
 
 ### Life at sea {#life_at_sea}
 
-[thumb\|190px\|USS Booker T. Washington Officers](/articles/imageafrican-americans-wwii-127jpg/) jj: Let's see. How did you cope with being gone so long for that year, year and a half?
+![USS Booker T. Washington Officers](/images/African-americans-wwii-127.jpg) jj: Let's see. How did you cope with being gone so long for that year, year and a half?
 
 pw: Well, it wasn't easy at times although you'd, uh, you'd get homesick and, um, you'd want to see somebody, you know, but things were back, different back in those days. I mean, uh, fellows on the ship that you were with were, uh, that was your family and, and those things. And, uh, we did have, um, the first ship that I was on, I was on the Booker T. Washington cargo ship. They were a real nice bunch of fellows and we got along wonderful, and, uh, the merchant marine was on there, They were all, uh, colored. They were a wonderful bunch of fellows, and, um, before we were on the ship we were called in a certain office and, uh, they explained to us, you know, that we were going on the Booker T. Washington. If we didn't want to go on it, why, we didn't have to. They called twenty, I believe it was twenty-one men, and we went in and we had to man the guns on the ship. And, uh, they told us if we didn't want to go, um, with the colored merchant fellas, why, uh, we didn't have to. There wasn't a one turned it down. We all went on. And, uh, had a colored captain, the mates, everything, the whole merchant marine was all colored. The only one there was of the merchant fleet at that time. It was the first one. We had a, had a wonderful time, I mean as far as, you know, getting along together. It was real, real nice. It was rough.
 

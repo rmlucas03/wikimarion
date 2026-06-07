@@ -5,7 +5,7 @@ has_map: false
 first_image: "V000532r.jpg"
 ---
 
-[thumb\|300px\|The Shugart House, south of Marion on St. Rd. 37. Photo ca. 1980sThe](/articles/imagev000532rjpg/) Shugart house, currently owned by William Fields, holds great historical significance. The Shugarts owned three homes in the Franklin Township, starting with a log cabin in the 1800's. The Shugarts were a rather simple family, pioneers and Quaker farmers. George Shugart, the first of the Shugarts pertaining to the historical architecture, was an extremely devout Quaker and a strong leader in the Underground Railroad.
+![The Shugart House, south of Marion on St. Rd. 37. Photo ca. 1980s](/images/V000532r.jpg)The Shugart house, currently owned by William Fields, holds great historical significance. The Shugarts owned three homes in the Franklin Township, starting with a log cabin in the 1800's. The Shugarts were a rather simple family, pioneers and Quaker farmers. George Shugart, the first of the Shugarts pertaining to the historical architecture, was an extremely devout Quaker and a strong leader in the Underground Railroad.
 
 ## The Shugart Family {#the_shugart_family}
 

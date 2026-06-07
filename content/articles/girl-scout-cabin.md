@@ -5,7 +5,7 @@ has_map: false
 first_image: "GirlScoutCabin.JPG"
 ---
 
-[thumb\|400pxApproximately](/articles/imagegirlscoutcabinjpg/) 600 cookie-selling girls were homeless. Construction for a Girl Scout cabin in Marion, Indiana began to solve this problem. Once built, the cabin opened with a dedicatory ceremony stating that the cabin will provide two key uses. The cabin will of course act as a meeting place for the Girl Scouts, but also as a hospital area. The Marion Girl Scout Cabin created a place for Girl Scouts to meet and plan events to benefit their community and also provide an auxiliary hospital in case of an emergency.
+![](/images/Girlscoutcabin.jpg)Approximately 600 cookie-selling girls were homeless. Construction for a Girl Scout cabin in Marion, Indiana began to solve this problem. Once built, the cabin opened with a dedicatory ceremony stating that the cabin will provide two key uses. The cabin will of course act as a meeting place for the Girl Scouts, but also as a hospital area. The Marion Girl Scout Cabin created a place for Girl Scouts to meet and plan events to benefit their community and also provide an auxiliary hospital in case of an emergency.
 
 ## Initial Need {#initial_need}
 

@@ -5,13 +5,13 @@ has_map: false
 first_image: "Painted_Lady.JPG"
 ---
 
-[thumbFor](/articles/imagepainted-ladyjpg/) over eighty years, the house at 414 W. 4th Street had been handed down from one generation to another in the Torrance family. Built in the late 1800s, the multicolored, Queen Anne Victorian home was home to the Torrance family, one of the first pioneer families in Marion. Today, Davin Testerman, who has turned the house into the hair salon, The Painted Lady, currently owns the home. While he runs his business downstairs, he lives upstairs. This house has seen many changes for over a century and will continue to see them for centuries to come.
+![](/images/Painted-Lady.jpg)For over eighty years, the house at 414 W. 4th Street had been handed down from one generation to another in the Torrance family. Built in the late 1800s, the multicolored, Queen Anne Victorian home was home to the Torrance family, one of the first pioneer families in Marion. Today, Davin Testerman, who has turned the house into the hair salon, The Painted Lady, currently owns the home. While he runs his business downstairs, he lives upstairs. This house has seen many changes for over a century and will continue to see them for centuries to come.
 
 ## Description
 
 Located in Center Township, the house at 414 W. 4th Street is located on lot four of Whites\' Second Addition. The two-story pink, Victorian home has an attic, attached garage, and both an enclosed and open porch. Looking at the front, the house has many different sized windows at different levels of the house. It also has many pitched gables including the one over the front stoop. Tall, white pillars with unique and intricate detail on both the top and bottom hold up the roof over the porch. The porch, almost the full width of the front of the house, has a sitting area with a porch swing.
 
-[thumbAs](/articles/imagepaintedladyfloorplanjpg/) you walk into the house, you will first notice the antique chandelier above the foyer. To the right is the zigzagging staircase to the upper story, and to your left is a black-and-white, life-size photograph of a woman who used to live on Spencer Avenue. The room diagonal from the foyer has a beautiful fireplace made of tiles. The downstairs is completely hardwood floors. The entire interior of the home is decorated with Victorian furniture and detail.
+![](/images/PaintedLadyFloorPlan.jpg)As you walk into the house, you will first notice the antique chandelier above the foyer. To the right is the zigzagging staircase to the upper story, and to your left is a black-and-white, life-size photograph of a woman who used to live on Spencer Avenue. The room diagonal from the foyer has a beautiful fireplace made of tiles. The downstairs is completely hardwood floors. The entire interior of the home is decorated with Victorian furniture and detail.
 
 The architectural style of this home is Queen Anne (Interim). Queen Anne dominated Victorian architecture from 1880 until 1910 and first came out in 1876 when the British government constructed them. The first American Queen Anne home was the William Watts Sherman house in Newport, Rhode Island built in 1874.
 

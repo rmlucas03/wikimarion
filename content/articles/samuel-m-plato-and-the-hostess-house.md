@@ -9,7 +9,7 @@ first_image: "SamuelPlato.jpg"
 
 ## Introduction
 
-[200px:thumb\|](/articles/imagesamuelplatojpg/)\
+![](/images/SamuelPlato.jpg)\
 Samuel M. Plato became a prominent African-American architect and builder after years of hard work, perseverance, and dedication. Plato spent over 40 years of his life "designing and building offices, schools, residences, churches and post offices in 11 states" (Riley). His contributions are felt the most, however, here in the city of Marion, Indiana, where he is believed to have built as many as 100 structures.
 
 His biggest building constructed, as well as probably the most widely known structure, is the J. Wood Wilson/Vaughan Home in Marion, known now as the Hostess House. Other notable structures that he has built in Marion include the following: the former First and Second Baptist Church buildings on 4th St. and Branson St., respectively; the Platonian Apartments on Adams St., which are named after Plato himself; and the Lavengood-Richardson home on S. Washington St.

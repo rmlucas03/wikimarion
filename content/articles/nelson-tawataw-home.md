@@ -5,7 +5,7 @@ has_map: false
 first_image: "TawatawHouse.jpg"
 ---
 
-[thumbThe](/articles/imagetawatawhousejpg/) history of Grant County dates back hundreds of years to a time when settlers and Native Americans alike shared the land equally. The Miami Indians of Indiana played an important role in the development of the county by founding many farms. The Italianate Nelson Tawataw home, built by descendants of prominent Miami Indians, stood out from the rest of the Indian properties and many Euro-American homes because it was finely built, large, and brick. The history of the transformation of the Tawataw house from an Indian farmhouse to a modern family dwelling is rich and intriguing.
+![](/images/TawatawHouse.jpg)The history of Grant County dates back hundreds of years to a time when settlers and Native Americans alike shared the land equally. The Miami Indians of Indiana played an important role in the development of the county by founding many farms. The Italianate Nelson Tawataw home, built by descendants of prominent Miami Indians, stood out from the rest of the Indian properties and many Euro-American homes because it was finely built, large, and brick. The history of the transformation of the Tawataw house from an Indian farmhouse to a modern family dwelling is rich and intriguing.
 
 ## The Miami Indians in Grant County {#the_miami_indians_in_grant_county}
 

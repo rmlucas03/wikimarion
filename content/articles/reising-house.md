@@ -5,7 +5,7 @@ has_map: false
 first_image: "ReisingHouse.jpg"
 ---
 
-[thumb\|300pxThe](/articles/imagereisinghousejpg/) house on 822 West Fifth Street is currently owned by Paul and Barbara Reising. This house is full of character and has switched hands many times throughout its history. It has had many events that now make several stories to tell and interesting occupants have possessed the house in the past, making it a very fascinating property.
+![](/images/ReisingHouse.jpg)The house on 822 West Fifth Street is currently owned by Paul and Barbara Reising. This house is full of character and has switched hands many times throughout its history. It has had many events that now make several stories to tell and interesting occupants have possessed the house in the past, making it a very fascinating property.
 
 ## Construction
 

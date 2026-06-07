@@ -5,7 +5,7 @@ has_map: false
 first_image: "Case_House.jpg"
 ---
 
-[thumb\|300pxThe](/articles/imagecase-housejpg/) house of 1012 West Spencer Avenue in Marion, Indiana has a rich history. It is now owned by Jeremy and Felicia Case of Marion, Indiana and has had over a dozen other owners in its past. This Spencer Avenue home is a comfortable, two-story home built around 1900 and has housed many powerful and influential people of Marion.
+![](/images/Case_House.jpg)The house of 1012 West Spencer Avenue in Marion, Indiana has a rich history. It is now owned by Jeremy and Felicia Case of Marion, Indiana and has had over a dozen other owners in its past. This Spencer Avenue home is a comfortable, two-story home built around 1900 and has housed many powerful and influential people of Marion.
 
 ## Early Owners {#early_owners}
 

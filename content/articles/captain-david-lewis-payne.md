@@ -7,7 +7,7 @@ first_image: "David1.jpg"
 
 ## Introduction
 
-![David Payne](David1.jpg "David Payne")Father of Oklahoma, Oklahoma Moses, Prince Boomer and Ox Heart are all names given to one brave man from Indiana (Captain David 5). His heroic efforts and accomplishments gave way for new settlement in the west. Captain David Lewis Payne led several groups of settlers into the lands known as the Oklahoma Territory. David Payne's military and political accomplishments aided in the advancement and expansion of America (Appendix A).
+![David Payne](/images/David1.jpg)Father of Oklahoma, Oklahoma Moses, Prince Boomer and Ox Heart are all names given to one brave man from Indiana (Captain David 5). His heroic efforts and accomplishments gave way for new settlement in the west. Captain David Lewis Payne led several groups of settlers into the lands known as the Oklahoma Territory. David Payne's military and political accomplishments aided in the advancement and expansion of America (Appendix A).
 
 ## Early Years {#early_years}
 
@@ -23,7 +23,7 @@ In 1881, Captain Payne got an idea of starting stimulation for the opening of th
 
 ## Conclusion
 
-![Tomb](David4.jpg‎ "Tomb")In 1995 Payne's family, after trying for almost a century, was able to have his remains moved to Oklahoma. On April 22, 1995 a monument was built to dedicate David Lewis Payne (Appendix B). His final resting place is in the park overlooking Boomer Lake in Stillwater, Payne County, Oklahoma (Osburn 3). David Lewis Payne's accomplishments, politically and militaristically, are still sought today as something amazing. His efforts and determination showed American people that one person can make a difference.
+![Tomb](/images/David4.jpg)In 1995 Payne's family, after trying for almost a century, was able to have his remains moved to Oklahoma. On April 22, 1995 a monument was built to dedicate David Lewis Payne (Appendix B). His final resting place is in the park overlooking Boomer Lake in Stillwater, Payne County, Oklahoma (Osburn 3). David Lewis Payne's accomplishments, politically and militaristically, are still sought today as something amazing. His efforts and determination showed American people that one person can make a difference.
 
 ## Written By {#written_by}
 

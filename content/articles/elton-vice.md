@@ -108,7 +108,7 @@ Coming back, I mean D deck, right on the very front of the boat, where you got a
 
 ### In France {#in_france}
 
-[thumb\|left\|180px\|European,Africa,Mid East Ribbon](/articles/imageribboneuroafricamideastmedalgif/) rv: What would happen after that, what happened after that, like after that ship ride?
+![European,Africa,Mid East Ribbon](/images/RibbonEuroAfricaMidEastMedal.gif) rv: What would happen after that, what happened after that, like after that ship ride?
 
 ev: Oh, going over? Well we had all the guard duty for the trip going over. And we were the last ones off the ship at La Havre, and the marines came down and says \"You really going into combat\" and I says \"Yeah\" \"You been in combat before\" and I says \"No, not yet\", and we got to talking, you know what I mean, back and forth. First thing you know these guys were crying, marines, big tough guys you know. They were in charge of the drills and everything, and pushing people around, and I can\'t believe this. They says \"We hate to see anybody have to go into something like this, you may not get back\". \"Thanks for all the encouragement you guys!\", you know, I wanna cry with them. Oh well. It\'s a weird life, but they got us off the boat, took us down to Lucky Strike Camp, which is one an auxiliary airfield and uh, Lucky Strike was a tent camp, and they have twenty men hospital tents, and then they give you a camp cot, which you put together, and you put straw on top of that, and you uh, put your blanket on top of that, and they give you a shelter, not a shelter, but uh half of a sleeping bag, the, the ,the blanket part of it you know, you don\'t get the outside part, so you wrap up your overcoat and everything you can to keep you warm because there\'s snow all over the ground.
 
@@ -146,7 +146,7 @@ And we, we, we settled in there and pretty complacent, nothing\'s gonna happen, 
 
 ### POW
 
-[thumb\|Prisoner of War Ribbon](/articles/imagepowmribbonjpg/)
+![Prisoner of War Ribbon](/images/Powmribbon.jpg)
 
 There wasn\'t an ounce of plaster left on the walls, or anywhere else, the explosion. And I was very fortunate to be alive I guess, but it shook me out like a rug. It uh, that was it, and then everything went black. But I got out and stood up the best I could, and made my way out the back door, and uh, very slowly limped out to the barn behind where everybody else was. And uh, Padilla had run our the back door, he was the first one out, he went through the back door of the barn and out through a gate which closed behind him into the middle of a big field.
 

@@ -6,7 +6,7 @@ first_image: "Ruptured_Duck.gif"
 ---
 
 Interview: Noble Jones\
-![World War II Service Badge](Ruptured_Duck.gif "World War II Service Badge") Medium: Audio and Video Tape\
+![World War II Service Badge](/images/Ruptured_Duck.gif) Medium: Audio and Video Tape\
 Date: Wednesday, March 25, 1998\
 Place: Home of Noble and Donna Jones, 1310 S. D Street, Marion, IN 46952\
 Collected by: Brooke Solomon\
@@ -60,7 +60,7 @@ nj: Well, after I left Marion, we went to Indianapolis and we went to oh I think
 
 ### Lorre One and Two {#lorre_one_and_two}
 
-[thumb\|left\|180px\|European,Africa,Mid East Ribbon](/articles/imageribboneuroafricamideastmedalgif/)
+![European,Africa,Mid East Ribbon](/images/RibbonEuroAfricaMidEastMedal.gif)
 
 bs: And is that where you spent in England is that where you spent most of your time overseas?
 

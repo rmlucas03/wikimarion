@@ -5,7 +5,7 @@ has_map: false
 first_image: "Straughn.jpeg"
 ---
 
-[thumb\|right\|300px\|MHS Teacher Cora Straughan](/articles/imagestraughnjpeg/)
+![MHS Teacher Cora Straughan](/images/Straughn.jpg)
 
 In making this collection of stories of pioneer days in Grant County the compilers desire to preserve for this, and future generations, the rich store of material that is swiftly becoming inaccessible. With the passing away of this generation of pioneers the last of those early settlers who blazed the forest trails and laid the foundation for our present prosperity will have departed forever. The crude cabin has given way to the comfortable, modern home; the primitive forest has fallen to give place to cultivated fields and smiling meadows; the plodding ox-team has been displaced by the swift automobile. And we would not choose to have it otherwise. The world grows apace; yesterday may not become today; tomorrow will be rich in advancement.
 

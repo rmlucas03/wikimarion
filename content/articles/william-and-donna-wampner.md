@@ -5,7 +5,7 @@ has_map: false
 first_image: "Ruptured_Duck.gif"
 ---
 
-![World War II Service Badge](Ruptured_Duck.gif "World War II Service Badge")
+![World War II Service Badge](/images/Ruptured_Duck.gif)
 
 Interview: William Wampner (WW) and Donna Wampner (DW)\
 Medium: Video tape\
@@ -76,7 +76,7 @@ WW: You mean over there.
 
 LB: Yeah, over there or I don't know maybe you could describe how it was over here.
 
-[thumb\|left\|Asiatic-Pacific Campaign Badge](/articles/imageribbonasiapaccammedalgif/)
+![Asiatic-Pacific Campaign Badge](/images/RibbonAsiaPacCamMedal.gif)
 
 WW: I don't know what it was over here, but I Know over there\.... It was pretty rough. I went right into the middle of it over there. I went to New Guinea and started around New Guinea , through the Philippines and right up through that area. I was ready to go Japan, loaded and ready to go when the war was over. We hit several V-Days over there. One right after the other and we moved pretty fast. I was over there twenty-eight months all together.
 

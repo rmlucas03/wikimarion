@@ -5,7 +5,7 @@ has_map: false
 first_image: "Woodside.jpg"
 ---
 
-[thumb\|400pxIn](/articles/imagewoodsidejpg/) 1950 residents of Marion, Indiana must have felt a great surge of importance as world-renowned architect Frank Lloyd Wright designed a home in this small town. The home at 1119 Overlook Road, called Woodside or the Dr. and Mrs. Richard Davis residence, has an interesting story which its owners are proud to tell.
+![](/images/Woodside.jpg)In 1950 residents of Marion, Indiana must have felt a great surge of importance as world-renowned architect Frank Lloyd Wright designed a home in this small town. The home at 1119 Overlook Road, called Woodside or the Dr. and Mrs. Richard Davis residence, has an interesting story which its owners are proud to tell.
 
 ## Meeting Mr. Wright {#meeting_mr._wright}
 

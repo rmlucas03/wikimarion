@@ -5,7 +5,7 @@ has_map: false
 first_image: "JimmyS.JPG"
 ---
 
-![Jim Shildmeyer being honored for his many years of dedication at MCT](JimmyS.JPG "Jim Shildmeyer being honored for his many years of dedication at MCT") The Marion Civic Theatre was founded in 1950 by Dr. Ruth McDonald and Jeanne Earle. (Appendix I ). Since the founding of the Civic theatre, it has gone through several transformations. For some time, the theatre was "floating". (Appendix B). There were many instances where the financial struggles of the theatre threatened to close it down forever. However, for all of the trials the Civic Theatre has endured, they have had just as many triumphs. There have been a few key players in the theatre's success. Through the good and the bad these people were there to lend a hand, train new actors, and even perform in the productions. Marion Civic Theatre has truly come a long way in nearly 60 years.
+![Jim Shildmeyer being honored for his many years of dedication at MCT](/images/JimmyS.JPG) The Marion Civic Theatre was founded in 1950 by Dr. Ruth McDonald and Jeanne Earle. (Appendix I ). Since the founding of the Civic theatre, it has gone through several transformations. For some time, the theatre was "floating". (Appendix B). There were many instances where the financial struggles of the theatre threatened to close it down forever. However, for all of the trials the Civic Theatre has endured, they have had just as many triumphs. There have been a few key players in the theatre's success. Through the good and the bad these people were there to lend a hand, train new actors, and even perform in the productions. Marion Civic Theatre has truly come a long way in nearly 60 years.
 
 ## Name Changes {#name_changes}
 

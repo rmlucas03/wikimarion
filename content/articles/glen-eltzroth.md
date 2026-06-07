@@ -88,7 +88,7 @@ Collected by: Max Leffler (ml)\
 
 ### World War II in Africa and Italy {#world_war_ii_in_africa_and_italy}
 
-[thumb\|left\|180px\|European,Africa,Mid East Ribbon](/articles/imageribboneuroafricamideastmedalgif/) 29:20 ml: Do I have your permission to continue interviewing you on May 11, 1999.
+![European,Africa,Mid East Ribbon](/images/RibbonEuroAfricaMidEastMedal.gif) 29:20 ml: Do I have your permission to continue interviewing you on May 11, 1999.
 
 29:25 ge: Yes you do.
 

@@ -17,7 +17,7 @@ Campbell was said to possibly have ties with the notorious Ku Klux Klan (Madison
 
 ## Walter White and the NAACP {#walter_white_and_the_naacp}
 
-![Walter White 12 years later](Walter_Francis_White.jpg "Walter White 12 years later")
+![Walter White 12 years later](/images/Walter_Francis_White.jpg)
 
 During the time of the lynching fear was not only spread among the African Americans, but also the white residents of Marion (Madison 36-63). It was reported that as many as four hundered African Americans were gathered in Johnstown, ready to march to Marion. Police reached the group and broke them up before they were able to carry out with their plans. One of their main targets was said to be Sheriff Campbell, who was under heavy protection in his jail residence (Madison 36-63). Walter White, acting head of the NAACP, was brought to Marion in attempt to prosecute the lynchers, and law officers (Madison 36-63). White came to the the conclusion that the officers were guilty of \"gross if not criminal negligence.\" White also concluded that it was \"beyond question that Sheriff Campbell was guilty of gross failure to perform his duty as sheriff,\" and that he should be removed from office (Madison 36-63). Grant County Prosecuter Harley Hardin told White that he was \"reluctant to proceed vigorously with the arrest and prosecution of the lynchers and law officers, basing this reluctance upon the fact that he feared such action would infuriate the mob and stir it to new activity\" (Madison 36-63).
 

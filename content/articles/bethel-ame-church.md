@@ -5,7 +5,7 @@ has_map: false
 first_image: "Bethel_A.M.E._Church.JPG"
 ---
 
-[thumb](/articles/imagebethel-ame-churchjpg/)
+![](/images/Bethel-Ame-Church.jpg)
 
 > Marion, Indiana\
 > March 8, 1937\

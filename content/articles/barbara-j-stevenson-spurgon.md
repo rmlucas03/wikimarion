@@ -5,7 +5,7 @@ has_map: false
 first_image: "44527 1422065149675 1174105579 30997648 8224012 n.jpg"
 ---
 
-![Barbara J. Stevenson-Spurgon](44527_1422065149675_1174105579_30997648_8224012_n.jpg "Barbara J. Stevenson-Spurgon")
+![Barbara J. Stevenson-Spurgon](/images/44527_1422065149675_1174105579_30997648_8224012_n.jpg)
 
 ## **Autobiography of Barbara J. Stevenson-Spurgon** {#autobiography_of_barbara_j._stevenson_spurgon}
 

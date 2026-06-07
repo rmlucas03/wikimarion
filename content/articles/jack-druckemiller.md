@@ -124,7 +124,7 @@ jw: When you were on the ship, where was it?
 
 jd: The ship after it was commissioned, put into commission, commissioned, in Staten Island, New York was sent on shake down operations in the Bermuda area, and this is done to make sure things work properly. And if they didn\'t work properly, then were were given the assignment and sent through the canal and out to the Okinawa Campaign. Which was the final campaign of World War II.
 
-jw: And, you were in that campaign? [thumb\|Asiatic-Pacific Campaign Badge](/articles/imageribbonasiapaccammedalgif/)
+jw: And, you were in that campaign? ![Asiatic-Pacific Campaign Badge](/images/RibbonAsiaPacCamMedal.gif)
 
 jd: Yes. Our activity in that campaign was one of doing radar picket duty around the island of Okinawa where all the, where the island was, tried to be, tried to take the island, complete, complete take over of the island and the navy surrounded it with the radar picket installations, ships of course to identify the enemy. Which of course were trying to hold onto the island.
 

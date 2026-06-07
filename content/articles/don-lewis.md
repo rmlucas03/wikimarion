@@ -5,7 +5,7 @@ has_map: false
 first_image: "Ruptured_Duck.gif"
 ---
 
-![World War II Service Badge](Ruptured_Duck.gif "World War II Service Badge")
+![World War II Service Badge](/images/Ruptured_Duck.gif)
 
 Interview: Don Lewis (dl)\
 Medium: Audio tape\
@@ -55,7 +55,7 @@ So we did get to go over on the Queen Mary. And that was-that was nice, it was-i
 
 ### D Day plus five {#d_day_plus_five}
 
-[thumb\|left\|180px\|European,Africa,Mid East Ribbon](/articles/imageribboneuroafricamideastmedalgif/)
+![European,Africa,Mid East Ribbon](/images/RibbonEuroAfricaMidEastMedal.gif)
 
 So anyhow, we-we finally got to uh, England was where we landed. And, of course, we went through more training there, and cause we were getting ready for the landing on France, I think which they call D Day. And we went all over there and I think it was the five days, we weren't on D Day, we went on D Five. And it's the worst sight I ever saw in my life because they had brought-they had- they weren't able to pick up all of the dead fast enough because after they had finally made their landing there, they moved inland so fast that all of the dead weren't being picked up that quickly enough, but when we did-when we got by the way, where they landed was like a big cliff, and we had to scale this cliff. There wasn't an awful lot of beach. And uh, anyhow, but when we got to the top of that cliff, there was just, it just-it seemed like as far as you could see just bodies laying out all in body bags, you know uh, that they had picked up and-and hadn't buried yet. And that was just a terrible, terrible sight.
 

@@ -5,7 +5,7 @@ has_map: false
 first_image: "John_W._Kelley.jpg"
 ---
 
-[right\|thumbJohn](/articles/imagejohn-w-kelleyjpg/) Wesley Kelley was the founder of not only a self-operated business, but also of a new social reform to Marion during the late 1800's and early 1900's. Kelley, primarily considered to be Republican in his earlier days, took Socialism and its activity in Marion to a new level. Along with William J. Croke, a glassworker in Marion, the duo became the first Social-Democratic nominees in Marion (A Bab. Of Soc. p.5). From that point on, Socialism in Marion continued to add to and influence the structure of society.
+![](/images/John_W._Kelley.jpg)John Wesley Kelley was the founder of not only a self-operated business, but also of a new social reform to Marion during the late 1800's and early 1900's. Kelley, primarily considered to be Republican in his earlier days, took Socialism and its activity in Marion to a new level. Along with William J. Croke, a glassworker in Marion, the duo became the first Social-Democratic nominees in Marion (A Bab. Of Soc. p.5). From that point on, Socialism in Marion continued to add to and influence the structure of society.
 
 ## Early Years {#early_years}
 
@@ -13,7 +13,7 @@ Born September 14, 1857, John W. Kelley was one of ten children of the French im
 
 ## Early Business Ventures {#early_business_ventures}
 
-[left\|thumb\|Kelley\'s Furniture StoreIn](/articles/imagekelley-furniture-storejpg/) 1857, the soon to be governor candidate, John Wesley Kelley was born in Washington township, Grant County (See Appendix A). At the age of twenty-one John married Miss Ella McCoy, of Huntington County, on May 12, 1878 (Bio. Mem. 272). One year after their marriage, John opened a furniture store in LaFontaine, remaining there for the following three years. Coming to Marion in 1882, he purchased the established Whistler & Cox, also bringing good business for three years until he sold it to a good advantage. After struggling for two years, Kelley decided to work for Lawrenceburg Furniture Company, requiring him to travel the territory east of the Mississippi river. After acquiring about seven years of experience through his travels, he purchased his own store in 1895, which would eventually become a very prosperous business (Leader Tribune Jul. 22, 1915).
+![Kelley\'s Furniture Store](/images/Kelley_Furniture_Store.jpg)In 1857, the soon to be governor candidate, John Wesley Kelley was born in Washington township, Grant County (See Appendix A). At the age of twenty-one John married Miss Ella McCoy, of Huntington County, on May 12, 1878 (Bio. Mem. 272). One year after their marriage, John opened a furniture store in LaFontaine, remaining there for the following three years. Coming to Marion in 1882, he purchased the established Whistler & Cox, also bringing good business for three years until he sold it to a good advantage. After struggling for two years, Kelley decided to work for Lawrenceburg Furniture Company, requiring him to travel the territory east of the Mississippi river. After acquiring about seven years of experience through his travels, he purchased his own store in 1895, which would eventually become a very prosperous business (Leader Tribune Jul. 22, 1915).
 
 ## Civic Involvement {#civic_involvement}
 

@@ -72,7 +72,7 @@ first_image: "Envelope.jpg"
 **DE:** Okay, did you contact the police after the threats or did they take any action?\
 
 **CS:** No, I didn't, I mean, I went to my principal, who was much more concerned than I was originally, and I don't know what he might have done at that time. I don't know that the police were contacted, but I don't know that they weren't either. He just advised me in terms of my classroom, and at the time, that was all I was really interested in.\
-![The Letter\|thumb\|The Letter](/images/Letter.jpg "The Letter|thumb|The Letter")
+![The Letter](/images/Letter.jpg)
 
 **DE:** What did the letter say, could you read it maybe?\
 

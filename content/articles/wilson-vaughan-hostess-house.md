@@ -5,7 +5,7 @@ has_map: false
 first_image: "V002469r.jpg"
 ---
 
-[thumb\|300px\|Front exterior of the Hostess House ca. 1960, then a center for women\'s activitiesThe](/articles/imagev002469rjpg/) Hostess House is the masterpiece of Marion architect Samuel Plato. He built the home for J. Wood Wilson on the corner of 4th and what is now Garfield St.
+![Front exterior of the Hostess House ca. 1960, then a center for women\'s activities](/images/V002469r.jpg)The Hostess House is the masterpiece of Marion architect Samuel Plato. He built the home for J. Wood Wilson on the corner of 4th and what is now Garfield St.
 
 ## J. Wood Wilson {#j._wood_wilson}
 
@@ -15,7 +15,7 @@ Wilson hired Plato to design and build his new home (Shutt 4-5). "Wilson and his
 
 ## Physical Characteristics of the House {#physical_characteristics_of_the_house}
 
-[thumb\|Interior of lounge room at the Hostess House (ca. 1960)The](/articles/imagev002468rjpg/) house was built at 723 W. Fourth St. in Marion and had 24 rooms (Shutt 4). Two houses behind the home were also built for servants and other personnel (Shutt 5-6). One was needed for the garage, servants quarters, and heating system (Shutt 6). "The heat was piped underground across the alley and into the house. It is said that it took a railroad car of coal a month to heat the house" (Hostess House: Home with a History). The other was needed for maintenance personnel and the chauffeur (Shutt 6). On the ball room floor, house boys and cooks housed for live-in help (Davis 2). Each of the three homes were equipped with a bell system so any personnel that was needed could be contacted instantly (Shutt 6).
+![Interior of lounge room at the Hostess House (ca. 1960)](/images/V002468r.jpg)The house was built at 723 W. Fourth St. in Marion and had 24 rooms (Shutt 4). Two houses behind the home were also built for servants and other personnel (Shutt 5-6). One was needed for the garage, servants quarters, and heating system (Shutt 6). "The heat was piped underground across the alley and into the house. It is said that it took a railroad car of coal a month to heat the house" (Hostess House: Home with a History). The other was needed for maintenance personnel and the chauffeur (Shutt 6). On the ball room floor, house boys and cooks housed for live-in help (Davis 2). Each of the three homes were equipped with a bell system so any personnel that was needed could be contacted instantly (Shutt 6).
 
 On the outside of the three-story brick house, Plato created a two-story porch that is supported by fluted Ionic columns (Jourdan). Two double French doors lead into the dining room and sun porch on the front east and west doors, respectively (Hostess House: Home With a History). The sun porch used to contain a fountain and built-in fish pond, and the room was painted in bright colors with wicker furniture and many plants (Shutt 6). Plato put much detail into the first floor with molded designs on the ceilings and arched doorways (Jourdan). Also, the butler's pantry, kitchen and food pantry, a massive marbled fireplace, and Mr. Wilson's office were all located on the first floor (Hostess House: Home With a History).
 

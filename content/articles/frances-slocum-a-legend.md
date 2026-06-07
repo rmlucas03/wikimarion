@@ -31,7 +31,7 @@ One night Maconaquah thought she heard an animal near the house, but upon invest
 
 ## Move to Miami County {#move_to_miami_county}
 
-![Ruins of Frances Slocum\'s cabin in Miami County\|thumb\|left\|350px](Frances_Slocum_Cabin_Ruins.jpg "Ruins of Frances Slocum's cabin in Miami County|thumb|left|350px")Shepoconah, Maconaquah, and her mother moved to the area that is present-day Miami County. Maconaquah was very happy with Shepoconah. He had a gentle spirit and would even help with household chores which most Indian men felt were beneath them (Gilman 234-236). Shepoconah later became Chief of the Miami Indians in the Peru area. Maconaquah gave birth to two girls she named Kekesequah and Osawshequah. She also had two boys who died at a young age. Their names are unknown. Maconaquah lived the rest of her life in this area (Bailey 4-5).
+![Ruins of Frances Slocum\'s cabin in Miami County](/images/Frances_Slocum_Cabin_Ruins.jpg)Shepoconah, Maconaquah, and her mother moved to the area that is present-day Miami County. Maconaquah was very happy with Shepoconah. He had a gentle spirit and would even help with household chores which most Indian men felt were beneath them (Gilman 234-236). Shepoconah later became Chief of the Miami Indians in the Peru area. Maconaquah gave birth to two girls she named Kekesequah and Osawshequah. She also had two boys who died at a young age. Their names are unknown. Maconaquah lived the rest of her life in this area (Bailey 4-5).
 
 ## Later Life {#later_life}
 

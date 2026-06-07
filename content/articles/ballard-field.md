@@ -5,7 +5,7 @@ has_map: false
 first_image: "V000187r.jpg"
 ---
 
-[thumb\|300pxFrom](/articles/imagev000187rjpg/) baseball to thriving businesses, Ballard Field has seen its share of success and failures. It once sheltered two industries, an entertaining circus, and a field open to anyone who could throw a ball. The day that Marion acquired a name for itself in Indiana, Ballard Field was blossoming right alongside it.
+![](/images/V000187r.jpg)From baseball to thriving businesses, Ballard Field has seen its share of success and failures. It once sheltered two industries, an entertaining circus, and a field open to anyone who could throw a ball. The day that Marion acquired a name for itself in Indiana, Ballard Field was blossoming right alongside it.
 
 ## Early Baseball Field {#early_baseball_field}
 
@@ -13,13 +13,13 @@ Ballard Field was believed to have been used as a baseball field before 1901 (Bu
 
 ## Ballard Packaging Company (1901-1945) {#ballard_packaging_company_1901_1945}
 
-[thumb\|left\|Aerial view of Ballard Packing Co.Jesse](/articles/imagev000189rjpg/) Ballard Sr. began construction on Ballard Field, known then as Sweetzer Field, in 1901 (Marion Public Library, Industry-Ballard Field File). The factory that was to be assembled would be a packing company that he would head for 50 years. In 1909, the face of industry that was growing rapidly in Marion hit Ballard Field with the birth of the Ballard Packing Company. On the first of January in that same year, it was finally established with a capital set at \$50,000 (Marion, IN and Grant County Marion Directory. Vol. 1). The employees hired totaled out to be 114 people: 88 males, 18 females, and 8 office workers (Marion Chamber of Commerce).
+![Aerial view of Ballard Packing Co.](/images/V000189r.jpg)Jesse Ballard Sr. began construction on Ballard Field, known then as Sweetzer Field, in 1901 (Marion Public Library, Industry-Ballard Field File). The factory that was to be assembled would be a packing company that he would head for 50 years. In 1909, the face of industry that was growing rapidly in Marion hit Ballard Field with the birth of the Ballard Packing Company. On the first of January in that same year, it was finally established with a capital set at \$50,000 (Marion, IN and Grant County Marion Directory. Vol. 1). The employees hired totaled out to be 114 people: 88 males, 18 females, and 8 office workers (Marion Chamber of Commerce).
 
 Ballard Packaging Company was a meat packing company that killed sheep, hogs, cattle, and pigs (Field of Dreams, Chronicle Tribune). Jesse Ballard's son remembers, "We butchered 600 to 700 hogs a week," Jesse M. Ballard Jr. said. "The cooler would hold 125 to 130 hogs, but only in the afternoon. In the morning, it held about 15 head of cattle."
 
-[thumb\|Putting up the Big Top Tent, ca. 1930sBallard](/articles/imagev001820rjpg/) Jr. worked at the plant after he graduated from Purdue University with a Bachelor of Science degree in agriculture. He married Ann in 1942 and balanced farming and working at the plant (Field of Dreams, Chronicle Tribune). "I got kind of skinny doing that," he said grinning, "but we liked it." "I remember going to the circus there together when we were first married. That was over 50 years ago," Anne Ballard said (Field of Dreams, Chronicle Tribune).
+![Putting up the Big Top Tent, ca. 1930s](/images/V001820r.jpg)Ballard Jr. worked at the plant after he graduated from Purdue University with a Bachelor of Science degree in agriculture. He married Ann in 1942 and balanced farming and working at the plant (Field of Dreams, Chronicle Tribune). "I got kind of skinny doing that," he said grinning, "but we liked it." "I remember going to the circus there together when we were first married. That was over 50 years ago," Anne Ballard said (Field of Dreams, Chronicle Tribune).
 
-[thumb\|left\|Handlers riding elephants to Ballard Field, ca. 1930s)](/articles/imagev001817rjpg/)"Half of the field was in the city and half of it wasn't," Jesse recalls. "The circus would put their shows up with their property sitting outside the city limits. They didn't want to pay taxes on it. That is why the field was so popular." Several times a year, the circus would come to town and set up on Ballard Field just a few yards away from the Packing Company. Unfortunately, the circuses shared the same fate of the plant and died off after World War II.
+![Handlers riding elephants to Ballard Field, ca. 1930s)](/images/V001817r.jpg)"Half of the field was in the city and half of it wasn't," Jesse recalls. "The circus would put their shows up with their property sitting outside the city limits. They didn't want to pay taxes on it. That is why the field was so popular." Several times a year, the circus would come to town and set up on Ballard Field just a few yards away from the Packing Company. Unfortunately, the circuses shared the same fate of the plant and died off after World War II.
 
 ## Closure and Sale {#closure_and_sale}
 

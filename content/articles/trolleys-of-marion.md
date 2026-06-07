@@ -15,7 +15,7 @@ The competition was fierce, however, and Marion Transit went out of business a f
 
 ### Marion Electric Street Railway {#marion_electric_street_railway}
 
-[thumbMarion](/articles/imagesquare1892gif/) Street Railway was the first streetcar provider in Marion, Indiana. It began service in its founding year, 1889, with a handful of mule cars. It originally had lines to the Veterans administration, at the south end of town, and the train station at the connection of the Nickel Plate and Pennsylvania railroads (near the corner of 14th and Branson streets). It also had a rail going north along Washington street (see 1890).
+![](/images/Square1892.gif)Marion Street Railway was the first streetcar provider in Marion, Indiana. It began service in its founding year, 1889, with a handful of mule cars. It originally had lines to the Veterans administration, at the south end of town, and the train station at the connection of the Nickel Plate and Pennsylvania railroads (near the corner of 14th and Branson streets). It also had a rail going north along Washington street (see 1890).
 
 In later years, they added a line to service the eastern side of town and a branch on the VA root that went south on Washington to 34th street. They also extended their only east-bound rail down Lincoln Boulevard
 
@@ -23,19 +23,19 @@ In 1891, they started electric service. They were then capable of moving passeng
 
 ### Queen City Electric Railway Company {#queen_city_electric_railway_company}
 
-[thumb\|leftQueen](/articles/imagequeencitycargif/) City Electric Railway got off to a rocky start. Though it was officially begun in early 1891, they failed to complete construction of the tracks until late 1892, nearly two years later. During its short life, the company competed with Marion Street Railway and later Marion City Railway. The company was sold at auction after going out of business to Marion City Railway in 1895. There was then only one street car company in Marion.
+![](/images/Queencitycar.gif)Queen City Electric Railway got off to a rocky start. Though it was officially begun in early 1891, they failed to complete construction of the tracks until late 1892, nearly two years later. During its short life, the company competed with Marion Street Railway and later Marion City Railway. The company was sold at auction after going out of business to Marion City Railway in 1895. There was then only one street car company in Marion.
 
 It is notable that Russel B. Harrison was president of the company, while, at the same time, his father was president of the country.
 
 ### Marion City Railway Company {#marion_city_railway_company}
 
-[thumbMarion](/articles/imagematterparkstationgif/) City Street Railway overcame, if temporarily, the competition that its predecessor, Marion Street Railway, had suffered. In 1895 it sent two representatives to a public auction being held in Marion. The sole item being sold was Queen City Electric Railway. They sent a team of two bidders who opened the bidding at \$30,000. The auctioneer pronounced the sale onto a silent crowd of spectators when there were no other bids, which was not surprising, as there were no other bidders present.
+![](/images/Matterparkstation.gif)Marion City Street Railway overcame, if temporarily, the competition that its predecessor, Marion Street Railway, had suffered. In 1895 it sent two representatives to a public auction being held in Marion. The sole item being sold was Queen City Electric Railway. They sent a team of two bidders who opened the bidding at \$30,000. The auctioneer pronounced the sale onto a silent crowd of spectators when there were no other bids, which was not surprising, as there were no other bidders present.
 
 Queen City Electric enjoyed a monopoly until Union Traction company bought it out in 1899.
 
 ### Marion Transit Railway {#marion_transit_railway}
 
-[thumb\|leftMarion](/articles/imagetrolleyschedulegif/) Transit Railway was the last of the local trolley companies in Marion. It received franchises to make streetcar and interurban lines in 1899 and started service the next January with a single line that went south to Marion College. It was started because of complaints about the service provided by Union Traction Company. Union Traction enjoyed a monopoly on streetcar service when the company was founded, so it didn\'t feel that it needed to extend its line to Marion College when the school moved south. Students had to walk for several blocks after getting off the trolleys.
+![](/images/Trolleyschedule.gif)Marion Transit Railway was the last of the local trolley companies in Marion. It received franchises to make streetcar and interurban lines in 1899 and started service the next January with a single line that went south to Marion College. It was started because of complaints about the service provided by Union Traction Company. Union Traction enjoyed a monopoly on streetcar service when the company was founded, so it didn\'t feel that it needed to extend its line to Marion College when the school moved south. Students had to walk for several blocks after getting off the trolleys.
 
 Then, a few months later, Union Traction started selling tickets for a penny on their streetcars going to Marion College. Marion Transit opened a line to the Veterans Hospital in October, but three days before service began, Union Traction started selling penny tickets on their line to the VA, as well.
 
@@ -49,7 +49,7 @@ Though Marion was one of the earliest towns to have street cars, it was well kno
 
 ## Interurban Electric Railways {#interurban_electric_railways}
 
-[thumb](/articles/imageadams-street-trolleysjpg/) There were three companies that had interurban electric railway terminals in Marion. Two of them (Union Traction and Indiana Railways and Light) also had street car service within Marion. There were several propositions to make interurban electric railways through and across Indiana, but most of them were never built.
+![](/images/Adams-Street-Trolleys.jpg) There were three companies that had interurban electric railway terminals in Marion. Two of them (Union Traction and Indiana Railways and Light) also had street car service within Marion. There were several propositions to make interurban electric railways through and across Indiana, but most of them were never built.
 
 ### What was an interurban? {#what_was_an_interurban}
 
@@ -59,7 +59,7 @@ When the interurban companies bought out the local trolley companies during the 
 
 ### Other Rail Roads {#other_rail_roads}
 
-[thumb\|leftTwo](/articles/imagetrolleybarngif/) Railroads also crossed Marion, the Nickel Plate R.R. and the Pennsylvania R.R. They placed tracks which the interurban companies would later parallel when laying tracks and wire for the electric railroads. They were different from the interurban companies in that they used steam and diesel engines instead of electric and that they didn\'t transport people within a town.
+![](/images/Trolleybarn.gif)Two Railroads also crossed Marion, the Nickel Plate R.R. and the Pennsylvania R.R. They placed tracks which the interurban companies would later parallel when laying tracks and wire for the electric railroads. They were different from the interurban companies in that they used steam and diesel engines instead of electric and that they didn\'t transport people within a town.
 
 ### Significance
 

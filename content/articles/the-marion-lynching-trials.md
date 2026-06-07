@@ -7,19 +7,19 @@ first_image: "ThomasShippAbramSmith.jpg"
 
 ## Overview
 
-![[Marion Lynching](/articles/marion-lynching/)](ThomasShippAbramSmith.jpg "Marion Lynching")
+![Marion Lynching](/images/ThomasShippAbramSmith.jpg)
 
 When Tom Shipp and Abe Smith were lynched, the African American community and its supporters demanded justice. Unfortunately, no one was ever held accountable for these gruesome deaths and no conviction was ever made regarding the Marion lynching. The entire judicial system was manipulated by members of the mob and government officials who wanted to get reelected next term and could not afford to lose the votes of white citizens in Grant County. A web of lies and deceit was uncovered as those who demanded justice could not find any support nor could they find anyone courageous enough to stand up against the massive corruption that had Marion and all of Indiana by the throat.
 
 ## Flossie Bailey and the NAACP\'s Fight for Justice {#flossie_bailey_and_the_naacps_fight_for_justice}
 
-![[Flossie Bailey](/articles/flossie-bailey/)](Flossie.jpg "Flossie Bailey")
+![Flossie Bailey](/images/Flossie.jpg)
 
 Katherine Bailey, or Flossie as she was more commonly known as, was a local African American woman who expertly developed and led the Marion branch of the NAACP. After the immediate threat of more racial violence ensuing passed, Bailey turned her focus towards bringing the leaders of the lynching mob to justice. Her first course of action was to call L.O. Chasey, the governor's secretary in an attempt to receive support from the state government. This failed miserably as he hung up on her, signaling that receiving support from the state would prove to be difficult. Chasey was from Marion and was close friends with the local authorities there. One Republican told the governor Chasey "has too many Grant County connections and political friendships in the mob" (*Marion Chronicle*, August 14, 21, 22, 1930). She called for the assistance of the head of the NAACP. The organization responded by sending one of its leaders and hiring a private investigator (Grant, 149-160). The investigators concluded that the Marion police officers did not do an adequate job in preserving the peace and stopping the mob. The NAACP called for the removal of Jake Campbell as the town's sheriff. It was also believed that the town would be cursed with being associated with this event until the murderers were brought to justice. Obviously this was not going to be possible because all of the local government officials claimed that if they did anything to bring these people to justice it would revive the mob leading to more violence, an excuse offered much too often by government officials. Flossie Bailey met with several other NAACP leaders and went to see Governor Leslie. Their goal was to convince the governor to strip Jake Campbell of his status as sheriff and to encourage the prosecution of the mob leaders. Leslie was unresponsive and offered no support.
 
 ## Court of Inquiry {#court_of_inquiry}
 
-![[Grant County Courthouse](/articles/grant-county-courthouse/)](V003094r.jpg "Grant County Courthouse")
+![Grant County Courthouse](/images/V003094r.jpg)
 
 On August 13, 1930, the Court of Inquiry opened and called 30 witnesses (*Lynching Depositions*). Throughout the three days the of proceedings the county prosecutor, Mr. Harley F. Hardin, pressed many police officers and citizens in pursuit of some form of evidence that might be useful in finding out the identities of the leaders of the mob. Nearly everyone said that they did not recognize anyone they knew in the mob. With everyone having the same story it became increasingly obvious that the entire community was content to withhold the identities of the mob leaders. They did this either out of fear of being punished by members of the mob for revealing information or because it was unanimously decided that they did not want anyone to be punished for the murders of Tom Shipp and Abe Smith. It is possible that the white community wanted to further divide the white and black populations in Marion. Throughout the proceedings Shipp, Smith, and Cameron were constantly referred to by some racist label. Either they were called "negroes" "colored men" or even "niggers" (Madison, 80).
 
@@ -68,7 +68,7 @@ Wycoff went on to say that the only one he heard talk about the lynching was Joh
 
 ## Conclusion
 
-![Death of Justice in Grant County](The_Crucifixion.jpg "Death of Justice in Grant County")
+![Death of Justice in Grant County](/images/The_Crucifixion.jpg)
 
 It was obvious after all 30 witnesses were called that evidence was basically non-existent. Attorney General Odgen indicted seven Marion residents he believed to be the mob leaders but not one of them was convicted. The white community suppressed any information that might lead to the identities of the mob leaders and offered no support when questioned. When the cases were going to trial everyone knew that the chances of a conviction were slim. Flossie Bailey believed that they would have their self-respect if they at least tried. She gathered many members of the black community and on the last day of the trial against Lennon, a suspected leader of the mob, 20 African Americans sat in a courtroom filled with hundreds of whites in a courageous and silent stand against racial violence. (Southern Commission on the Study of Lynching, 55) Throughout the entire incident Flossie was determined to see justice done, even when no one else was. Not only did racial violence break out on August 7,1930, but Lady Justice, herself, was slaughtered that night and her presence in Marion, Indiana was practically non-existent through the events that followed.
 

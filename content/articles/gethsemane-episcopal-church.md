@@ -5,7 +5,7 @@ has_map: false
 first_image: "V000324r.jpg"
 ---
 
-[thumb\|300pxIn](/articles/imagev000324rjpg/) the mid-1800s the Episcopal worship first came to Marion in the form of home services and eucharists held in the Presbyterian Church. Over many years these occasional services beame a church community. Fr.Joseph S. Large who was the rector of the Trinity Church in Fort Wayne officiated the first services. (History of Gethsemane).
+![](/images/V000324r.jpg)In the mid-1800s the Episcopal worship first came to Marion in the form of home services and eucharists held in the Presbyterian Church. Over many years these occasional services beame a church community. Fr.Joseph S. Large who was the rector of the Trinity Church in Fort Wayne officiated the first services. (History of Gethsemane).
 
 ## Construction
 
@@ -25,7 +25,7 @@ On February 14, 1910, the resignation of the Rev. George P. Torrence was present
 
 ## Additions and Improvements {#additions_and_improvements}
 
-[thumb\|Gethsemane Episcopal church, ca. 1940In](/articles/imagev001756rjpg/) the 1950's a new Parish house was built that connected to the church and was newer than the old house that was used for functions. This house held the bible classes and the Sunday schools in the basement. Activities were held in the parish house and it was used as a church gathering place. The church slowed down from the 50s to the 90s in enthusiasm and records of the church slowed down also.
+![Gethsemane Episcopal church, ca. 1940](/images/V001756r.jpg)In the 1950's a new Parish house was built that connected to the church and was newer than the old house that was used for functions. This house held the bible classes and the Sunday schools in the basement. Activities were held in the parish house and it was used as a church gathering place. The church slowed down from the 50s to the 90s in enthusiasm and records of the church slowed down also.
 
 The church had been remodeled four times. The most recent one started in October of 1994 and was rededicated on January 6th 1995. The whole church was retiled and new carpeting was put in, also it was completely painted with modern lighting put in. At this time the church is starting to replace all the stained glass windows. The senior warden of the vestry at that time was Bill Munn and the chairman of the restoration committee was Randy Powers. This remodeling was done because "We have a commitment to remain in Central Marion," said Bill Munn. ("Church Pleased with Renovation")
 

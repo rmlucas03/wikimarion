@@ -5,11 +5,11 @@ has_map: false
 first_image: "Albert0003.jpg"
 ---
 
-Born In Zacatecas Mexico on April 8, 1920 Albert Velasquez came to Marion as an legal immigrant in 1923. Trained as a tool and die maker, he also was engaged in a little farming. But on December 6th 1943, his life and that of his family changed. (Chronicle Tribune) He received in the mail his "orders for Transferred Man to Report for Induction" papers. Three hundred and seventy-five days after receiving this notice in the mail, Private Albert Velasquez would be in the control of the Germans Nazi Government as a POW. ![Albert and Carmen](Albert0003.jpg "Albert and Carmen")
+Born In Zacatecas Mexico on April 8, 1920 Albert Velasquez came to Marion as an legal immigrant in 1923. Trained as a tool and die maker, he also was engaged in a little farming. But on December 6th 1943, his life and that of his family changed. (Chronicle Tribune) He received in the mail his "orders for Transferred Man to Report for Induction" papers. Three hundred and seventy-five days after receiving this notice in the mail, Private Albert Velasquez would be in the control of the Germans Nazi Government as a POW. ![Albert and Carmen](/images/Albert0003.jpg)
 
 ## The Beginning of the Beginning {#the_beginning_of_the_beginning}
 
-![Albert military portrait](Military_portrait.jpg "Albert military portrait") Upon receiving his papers, he reported to Local Board No.2 of Grant County for induction into the armed services at 7:00 A.M. on December 10th 1943. He was assigned to the U.S. Army and trained as a private in combat engineering and as a heavy gunner. Shortly after his training he was sent to France with a replacement company arriving after the D-day. He was assigned to Company D, of the 317th Infantry Regiment, 80th Infantry Division, Third Army, commanded by Lieutenant General George Patton Jr. The allied forces were opposed by Field Marshal Rommel and General Von Kluge. (www.wikkipedia.com)
+![Albert military portrait](/images/Military_portrait.jpg) Upon receiving his papers, he reported to Local Board No.2 of Grant County for induction into the armed services at 7:00 A.M. on December 10th 1943. He was assigned to the U.S. Army and trained as a private in combat engineering and as a heavy gunner. Shortly after his training he was sent to France with a replacement company arriving after the D-day. He was assigned to Company D, of the 317th Infantry Regiment, 80th Infantry Division, Third Army, commanded by Lieutenant General George Patton Jr. The allied forces were opposed by Field Marshal Rommel and General Von Kluge. (www.wikkipedia.com)
 
 Writing in November 22 to his wife Carmen, "All well and safe loving greetings and congratulations fondest love darling.\" This was very reassuring to his wife having just had a baby to hear that her husband was safe was a great sense of relief. But things would go down hill from there.
 
@@ -19,7 +19,7 @@ Patton's Third Army having overrun Brittany, swept east across France through To
 
 ## Confirmation
 
-Carmen Velasquez ![Carmen Velasquez](Albert_velasquez0008.jpg "Carmen Velasquez") received confirmation of his capture on December 18th . This telegram stated "The Secretary of War desires me to express his deep regret that your husband Private Albert Velasquez has been reported missing in action since twenty eight November in France if further details or other information are received you will be promptly notified." On December 8th 1944 she received a letter from him as allowed by the Geneva Convention, saying he was a POW in Germany and was in good health.(letter from Stalag-XII-A)
+Carmen Velasquez ![Carmen Velasquez](/images/Albert_velasquez0008.jpg) received confirmation of his capture on December 18th . This telegram stated "The Secretary of War desires me to express his deep regret that your husband Private Albert Velasquez has been reported missing in action since twenty eight November in France if further details or other information are received you will be promptly notified." On December 8th 1944 she received a letter from him as allowed by the Geneva Convention, saying he was a POW in Germany and was in good health.(letter from Stalag-XII-A)
 
 ## The Inital Capture {#the_inital_capture}
 
@@ -39,7 +39,7 @@ There is no record to tell how Albert was returned to allied control. But he did
 
 ## The Fall of a Hero {#the_fall_of_a_hero}
 
-Albert Velasquez died on October 4th 1978 of natural causes in Marion General Hospital(Chronicle Tribune). He died an American citizen and hero and is now buried in The Gardens Of Memory, just outside of Marion. He was survived by his wife his five daughters and his five sons. He was a great man and one of Marion's many unknown heroes.![The Grave of a hero](Albert_grave.jpg "The Grave of a hero")
+Albert Velasquez died on October 4th 1978 of natural causes in Marion General Hospital(Chronicle Tribune). He died an American citizen and hero and is now buried in The Gardens Of Memory, just outside of Marion. He was survived by his wife his five daughters and his five sons. He was a great man and one of Marion's many unknown heroes.![The Grave of a hero](/images/Albert_grave.jpg)
 
 ## Credits
 

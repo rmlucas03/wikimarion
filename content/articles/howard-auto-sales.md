@@ -5,7 +5,7 @@ has_map: false
 first_image: "Howard_Auto_Sales_Sign.jpg"
 ---
 
-[thumb\|300pxHoward](/articles/imagehoward-auto-sales-signjpg/) Auto Sales, 802 South Adams Street, is located on what is known as Lot six on Branson's addition. As the owners of Lot six changed, a foundry was developed and became known as a pioneer industry in this part of Indiana (Marvelous Marion). The foundry then became a gas station, and finally the car dealership that Howard Auto Sales is today.
+![](/images/Howard_Auto_Sales_Sign.jpg)Howard Auto Sales, 802 South Adams Street, is located on what is known as Lot six on Branson's addition. As the owners of Lot six changed, a foundry was developed and became known as a pioneer industry in this part of Indiana (Marvelous Marion). The foundry then became a gas station, and finally the car dealership that Howard Auto Sales is today.
 
 ## The Lot {#the_lot}
 
@@ -13,7 +13,7 @@ The United States deeded Lot number six, located in Township twenty- four, to Da
 
 ## The Hulley Foundry and Machine Works {#the_hulley_foundry_and_machine_works}
 
-[thumb\|left\|250px\|Hulley\'s Foundry and Machine Works in 1892Joseph](/articles/imagehulley27s-foundry-and-machine-worksjpg/) Hulley and Samuel Hulley developed a Foundry on Lot six. The Hulley Foundry and Machine Works at Adams and Eighth Street in Marion was the pioneer industry of its kind in this part of Indiana (Son). The Foundry consisted of two large brick building with the first being a two-story building 42 by 60 feet. The wareroom was a frame structure 30 by 100 feet. The work done in the Foundry consisted of all types of repairs, and the manufacturing of plows and sorghum mills (History Grant). The Foundry was named S & J Hulley, Samuel and Joseph, for about a quarter of a century (Son).
+![Hulley\'s Foundry and Machine Works in 1892](/images/Hulley's_Foundry_and_Machine_Works.jpg)Joseph Hulley and Samuel Hulley developed a Foundry on Lot six. The Hulley Foundry and Machine Works at Adams and Eighth Street in Marion was the pioneer industry of its kind in this part of Indiana (Son). The Foundry consisted of two large brick building with the first being a two-story building 42 by 60 feet. The wareroom was a frame structure 30 by 100 feet. The work done in the Foundry consisted of all types of repairs, and the manufacturing of plows and sorghum mills (History Grant). The Foundry was named S & J Hulley, Samuel and Joseph, for about a quarter of a century (Son).
 
 ### Samuel Hulley and Family {#samuel_hulley_and_family}
 
@@ -29,7 +29,7 @@ Harriet Hulley died suddenly from a heart attack at the age of seventy-seven. Sh
 
 ## A New Building for Howard Auto Sales {#a_new_building_for_howard_auto_sales}
 
-[thumb\|250px\|left\|Howard Auto Sales in 1969Harriet](/articles/imagehoward-auto-sales2jpg/)'s daughters leased the north half of Lot six to Shell Petroleum Corporation on December 1, 1935. The gas station had to pay one hundred eighty dollars a year until 1940. On November 30, 1943, the Hulley daughters sold all of Lot six for six thousand dollars to J. Dalton Howard and his wife Hazel Howard. This is where Howard Auto Sale's name originated. In 1948 the Howard's spent twenty thousand dollars to build the car dealership you see today. The Howard's actually built the Howard dealership around the old brick building, and in the attic you can actually see the brick wall from the old building. Later in 1948 36, 200 dollars was spent to build the service center on the back of the Howard dealership. Finally in 1955 the Howard's bought half of Lot seven, which is now used as the used car lot (Grant County Abstract). After Howard Dalton died on March 6, 1975, Sam Orville and Don Powell bought Howard Auto Sales. Sam and Don owned the dealership until 1991 when the Burnett family bought it and still own it today.
+![Howard Auto Sales in 1969](/images/Howard_Auto_Sales2.jpg)Harriet's daughters leased the north half of Lot six to Shell Petroleum Corporation on December 1, 1935. The gas station had to pay one hundred eighty dollars a year until 1940. On November 30, 1943, the Hulley daughters sold all of Lot six for six thousand dollars to J. Dalton Howard and his wife Hazel Howard. This is where Howard Auto Sale's name originated. In 1948 the Howard's spent twenty thousand dollars to build the car dealership you see today. The Howard's actually built the Howard dealership around the old brick building, and in the attic you can actually see the brick wall from the old building. Later in 1948 36, 200 dollars was spent to build the service center on the back of the Howard dealership. Finally in 1955 the Howard's bought half of Lot seven, which is now used as the used car lot (Grant County Abstract). After Howard Dalton died on March 6, 1975, Sam Orville and Don Powell bought Howard Auto Sales. Sam and Don owned the dealership until 1991 when the Burnett family bought it and still own it today.
 
 ## Conclusion
 

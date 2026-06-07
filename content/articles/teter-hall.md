@@ -5,7 +5,7 @@ has_map: false
 first_image: "Teter_Hall_at_Marion_Normal.jpg"
 ---
 
-[thumb\|400px\|Teter Hall on the campus of Marion Normal CollegeTeter](/articles/imageteter-hall-at-marion-normaljpg/) Hall once stood proudly as the venerable hub of activity in South Marion on the campus of Marion College. Teter Hall was one of the first buildings built when Marion Normal College, now Indiana Wesleyan University, was founded. All throughout the lifetime of the building, Teter Hall remained a major part of college and community life. Though no longer standing, it carried much history even with its very name.
+![Teter Hall on the campus of Marion Normal College](/images/Teter_Hall_at_Marion_Normal.jpg)Teter Hall once stood proudly as the venerable hub of activity in South Marion on the campus of Marion College. Teter Hall was one of the first buildings built when Marion Normal College, now Indiana Wesleyan University, was founded. All throughout the lifetime of the building, Teter Hall remained a major part of college and community life. Though no longer standing, it carried much history even with its very name.
 
 ## Construction
 
@@ -17,7 +17,7 @@ Traveling through south Marion, Indiana on Washington Street, one once would hav
 
 ### Location
 
-[thumb\|left\|300px\|Teter Hall and the Administration Building on the Triangle.Teter](/articles/imageteter-hall-and-administration-on-the-trianglejpg/) Hall was built on what was regarded as "The Triangle" by students and staff alike. "The Triangle", no longer a part of the college campus, was made because it was surrounded by Washington street, Harmon street, and Forty-third street, and housed only the Administration Building and Teter Hall.
+![Teter Hall and the Administration Building on the Triangle.](/images/Teter_Hall_and_Administration_on_the_Triangle.jpg)Teter Hall was built on what was regarded as "The Triangle" by students and staff alike. "The Triangle", no longer a part of the college campus, was made because it was surrounded by Washington street, Harmon street, and Forty-third street, and housed only the Administration Building and Teter Hall.
 
 ### Namesake
 
@@ -41,7 +41,7 @@ Unfortunately, World War I brought the closing of the school once again, because
 
 ### The Great Depression {#the_great_depression}
 
-[thumb\|250px\|Teter Hall in the 1950sIn](image:Teter_Hall(ca1950s).jpg "wikilink") 1929, the Great Depression hit the nation, and it affected everyone, including Marion College. By 1933, the college was struggling to keep its doors open, and the staff started to "turn-back" their pay to keep the school up and running. The school was able to "make ends meet", and although they were sometimes forced to accept tuition in the form of a cow or otherwise, the school remained open throughout the Depression (Elder 141).
+![Teter Hall in the 1950s](/images/Teter_Hall(ca1950s).jpg)In 1929, the Great Depression hit the nation, and it affected everyone, including Marion College. By 1933, the college was struggling to keep its doors open, and the staff started to "turn-back" their pay to keep the school up and running. The school was able to "make ends meet", and although they were sometimes forced to accept tuition in the form of a cow or otherwise, the school remained open throughout the Depression (Elder 141).
 
 ### The Energy Crisis {#the_energy_crisis}
 
@@ -49,11 +49,11 @@ There were no more major financial problems at Marion College until the energy c
 
 ### Name Change: Indiana Wesleyan University {#name_change_indiana_wesleyan_university}
 
-[thumb\|250pxIn](/articles/imageteter-1990s-1jpg/) 1989, Marion College once again changed their name to Indiana Wesleyan University. Funding for the change came from the Institute for Professional Development in Phoenix, Arizona in 1988, and the name change was enacted in 1989 (Widmoyer).
+![](/images/Teter_1990s_1.jpg)In 1989, Marion College once again changed their name to Indiana Wesleyan University. Funding for the change came from the Institute for Professional Development in Phoenix, Arizona in 1988, and the name change was enacted in 1989 (Widmoyer).
 
 ### Demolition
 
-[thumb\|left\|250px\|Teter Hall, shortly before its demolition.Unfortunately](/articles/imageteter-1990s-2jpg/), as the 1990s came about, the building had weakened structurally, and had leaky roofs, bad insulation, and falling drywall and tiles. Much to the dismay of many associated with the college, Teter Hall was razed on June 13, 1997, by the college to make way for a larger, newer building. It was a sad, rainy day for onlookers, watching the destruction of the once glorious building. Hoping to preserve a piece of their pasts, many were able to obtain a brick or piece of debris from the wreckage.
+![Teter Hall, shortly before its demolition.](/images/Teter_1990s_2.jpg)Unfortunately, as the 1990s came about, the building had weakened structurally, and had leaky roofs, bad insulation, and falling drywall and tiles. Much to the dismay of many associated with the college, Teter Hall was razed on June 13, 1997, by the college to make way for a larger, newer building. It was a sad, rainy day for onlookers, watching the destruction of the once glorious building. Hoping to preserve a piece of their pasts, many were able to obtain a brick or piece of debris from the wreckage.
 
 ## Life in Teter Hall {#life_in_teter_hall}
 

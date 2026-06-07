@@ -5,7 +5,7 @@ has_map: false
 first_image: "ThomasLydiaBaldwin.jpg"
 ---
 
-[thumb\|350px\|Thomas and Lydia BaldwinOn](/articles/imagethomaslydiabaldwinjpg/) Christmas Day 1814, while many families in Wayne County, Indiana had opened their presents, Stephan Thomas and Hanna Mendenhall were given the best present a parent could ever receive. The birth of their sixth child. Lydia Baldwin, the fifth daughter born to her parents, was married to Thomas Baldwin, the son of Daniel and Christian Baldwin, on September 26, 1833. They were married at the Newgarden in Wayne County, Indiana (Thomas Family). They began their lives together with forty acres of land given to them by Thomas's father.
+![Thomas and Lydia Baldwin](/images/ThomasLydiaBaldwin.jpg)On Christmas Day 1814, while many families in Wayne County, Indiana had opened their presents, Stephan Thomas and Hanna Mendenhall were given the best present a parent could ever receive. The birth of their sixth child. Lydia Baldwin, the fifth daughter born to her parents, was married to Thomas Baldwin, the son of Daniel and Christian Baldwin, on September 26, 1833. They were married at the Newgarden in Wayne County, Indiana (Thomas Family). They began their lives together with forty acres of land given to them by Thomas's father.
 
 ## Settling in Fairmount {#settling_in_fairmount}
 

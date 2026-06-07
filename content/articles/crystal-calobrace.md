@@ -5,7 +5,7 @@ has_map: false
 first_image: "Calobrace.JPG"
 ---
 
-![](Calobrace.JPG "Calobrace.JPG")Personal narrative of Crystal Calobrace\
+![](/images/Calobrace.JPG)Personal narrative of Crystal Calobrace\
 From: Crystal Calobrace (cc)\
 Medium: Audio tape\
 Date: Monday, April 19, 1999\

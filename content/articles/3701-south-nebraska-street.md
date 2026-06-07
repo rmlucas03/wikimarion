@@ -5,7 +5,7 @@ has_map: false
 first_image: "3701_South_Nebraska_St.jpg"
 ---
 
-[thumb\|300pxThe](/articles/image3701-south-nebraska-stjpg/) residence at 3701 S. Nebraska Street is currently owned by the Robert Thompson family. The house was constructed in 1913 on lots 53 and 60 of Wigger and Pence's Third Addition. The history of the property dates back to 1833, but the current house on the property has had only two owners prior to the Thompsons. The house is a one and a half story structure with a detached garage.
+![](/images/3701_South_Nebraska_St.jpg)The residence at 3701 S. Nebraska Street is currently owned by the Robert Thompson family. The house was constructed in 1913 on lots 53 and 60 of Wigger and Pence's Third Addition. The history of the property dates back to 1833, but the current house on the property has had only two owners prior to the Thompsons. The house is a one and a half story structure with a detached garage.
 
 ## Early Owners {#early_owners}
 

@@ -5,7 +5,7 @@ has_map: false
 first_image: "McCulloch2000_large.jpg"
 ---
 
-[thumbJ](/articles/imagemcculloch2000-largejpg/). L. McCulloch School is a seventy-six-year-old building that has been through many changes. The school was named after John Lewis McCulloch who was a great contributor to the community. The original school building had many state-of-the-art features. J. L. McCulloch School has also seen many changes in both grade levels and renovations. Many decades have passed since McCulloch School was originally put into use.
+![](/images/McCulloch2000_large.jpg)J. L. McCulloch School is a seventy-six-year-old building that has been through many changes. The school was named after John Lewis McCulloch who was a great contributor to the community. The original school building had many state-of-the-art features. J. L. McCulloch School has also seen many changes in both grade levels and renovations. Many decades have passed since McCulloch School was originally put into use.
 
 ## Beginnings
 
@@ -13,7 +13,7 @@ The land for J. L. McCulloch School was bought in 1920 from the heirs of H. J. H
 
 ## School Starts at McCullough {#school_starts_at_mccullough}
 
-[thumb\|leftThe](/articles/imagemccullough1924-largejpg/) first day of school for J. L. McCulloch School was November 12, 1924 (\"Today One of the Greatest\" 1+). The students assembled at the old Norton School at the corner of 38th and Washington and the Sweetser School on the corner of 36th and Nebraska. Norton School contained junior high students and Sweetser School held the kindergarten and elementary students. The students then marched to the new McCulloch School at 36th and Washington. After the students arrived, they faced south to have their picture taken in a group in front of the building before entering (Pictures from McCulloch 2, 4). As the students entered the building they were sorted out by school level. The kindergarten and elementary students were taken to the second floor where all of that age was held. The junior high school students were taken to the first floor and basement of the school (\"First Sessions Held\" 1+).
+![](/images/McCullough1924_large.jpg)The first day of school for J. L. McCulloch School was November 12, 1924 (\"Today One of the Greatest\" 1+). The students assembled at the old Norton School at the corner of 38th and Washington and the Sweetser School on the corner of 36th and Nebraska. Norton School contained junior high students and Sweetser School held the kindergarten and elementary students. The students then marched to the new McCulloch School at 36th and Washington. After the students arrived, they faced south to have their picture taken in a group in front of the building before entering (Pictures from McCulloch 2, 4). As the students entered the building they were sorted out by school level. The kindergarten and elementary students were taken to the second floor where all of that age was held. The junior high school students were taken to the first floor and basement of the school (\"First Sessions Held\" 1+).
 
 ## The Middle Years {#the_middle_years}
 

@@ -5,13 +5,13 @@ has_map: false
 first_image: "Broughman_Home_Article.jpg"
 ---
 
-[thumb\|300pxOn](/articles/imagebroughman-home-articlejpg/) Sunday, February 19, 1939, a new brick home containing twelve rooms was nearing completion at 721 Spencer Avenue ("New Brick Home With 12 Rooms"). This house was constructed by A.C. Broughman. Today, it is occupied by John and Mary Meiching. This house has had a fascinating development. It has great architecture and is truly a remarkable structure.
+![](/images/Broughman_Home_Article.jpg)On Sunday, February 19, 1939, a new brick home containing twelve rooms was nearing completion at 721 Spencer Avenue ("New Brick Home With 12 Rooms"). This house was constructed by A.C. Broughman. Today, it is occupied by John and Mary Meiching. This house has had a fascinating development. It has great architecture and is truly a remarkable structure.
 
 In June of 1939, the Broughman house was ready for occupancy. Constructed of brick, this modem home contains twelve rooms, five of which are bedrooms. It has a full basement under the house with a recreation room, a dark room for developing photographs, a laundry room, and it also contains furnace and fuel rooms. The general contractors for the work were Bowman and Sons.
 
 ## The Lot {#the_lot}
 
-[thumb\|left\|400px\|The home upon completion in 1939The](/articles/imagebroughman-house-1939jpg/) land was previously owned by Frances Johnson in 1927. He was a physician of the town. He died on June 26, 1952 (Indiana 1952). The second individual to own the property was Casper C. Ratts and his wife Isa Rafts in 1931. He was the general manager of Spencer-Cardinal Corporation. It is unknown the date of his death and whether he moved to another location (Indiana 1931). The land became vacant in 1938 and was acquired by the Broughmans shortly after.
+![The home upon completion in 1939](/images/Broughman_House_1939.jpg)The land was previously owned by Frances Johnson in 1927. He was a physician of the town. He died on June 26, 1952 (Indiana 1952). The second individual to own the property was Casper C. Ratts and his wife Isa Rafts in 1931. He was the general manager of Spencer-Cardinal Corporation. It is unknown the date of his death and whether he moved to another location (Indiana 1931). The land became vacant in 1938 and was acquired by the Broughmans shortly after.
 
 ## The Broughmans {#the_broughmans}
 
@@ -23,7 +23,7 @@ Broughman\'s Funeral services were held on September 24, 1957 at the residence a
 
 ## Later Owners {#later_owners}
 
-[thumb\|400px\|The Broughman House in 2005The](/articles/imagebroughman-house-1jpg/) house became vacant in 1958 and the new owners of the house were Joseph A. Osbom and wife Jean B. Osborn. Mr. Osbom was president of Osborn Midwest Paper Company. He died on June 21, 1987 (Indiana 1987). In 1970 Ronald L. Brown and wife Michelle M. Brown became owners of the home. Mr. Brown was president of Riverview Manor. It is unclear whether the Browns moved to another town or stayed in Marion. In 1984 and 1985 the house became vacant.
+![The Broughman House in 2005](/images/Broughman_House_1.jpg)The house became vacant in 1958 and the new owners of the house were Joseph A. Osbom and wife Jean B. Osborn. Mr. Osbom was president of Osborn Midwest Paper Company. He died on June 21, 1987 (Indiana 1987). In 1970 Ronald L. Brown and wife Michelle M. Brown became owners of the home. Mr. Brown was president of Riverview Manor. It is unclear whether the Browns moved to another town or stayed in Marion. In 1984 and 1985 the house became vacant.
 
 In 1987, John D. Melching and Mary E. Melching became owners of the house. In an interview with Mr. Melching he claimed that the house is a beautiful structure architecturally. He commented on the type of roof the house has today. The roof is made of a traditional sand soft slate. Mr. Melching said that with this type of roofing the house does not need to be re-roofed for another thirty years. He said that this was good news considering the Melchings were putting the house up for sale in the summer of 2005. Throughout the years many changes have been made to the house. Mr. Melching claims that when he bought the house there was much needed work. He began the long and eager task of "fixing it up."
 

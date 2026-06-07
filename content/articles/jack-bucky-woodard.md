@@ -5,7 +5,7 @@ has_map: false
 first_image: "Ruptured_Duck.gif"
 ---
 
-![World War II Service Badge](Ruptured_Duck.gif "World War II Service Badge")
+![World War II Service Badge](/images/Ruptured_Duck.gif)
 
 Personal Narrative of Jack "Bucky" Woodard\
 From: Jack Woodard\
@@ -95,7 +95,7 @@ jw: Yes, athletics like . . . we didn't have baseball, or soccer, or things like
 
 09:15 mb: Ok. Could you give a little insight about what it was like just getting out of high school, with the political events, the big things going on?
 
-[thumb\|Asiatic-Pacific Campaign Badge](/articles/imageribbonasiapaccammedalgif/)
+![Asiatic-Pacific Campaign Badge](/images/RibbonAsiaPacCamMedal.gif)
 
 #### True Americans {#true_americans}
 

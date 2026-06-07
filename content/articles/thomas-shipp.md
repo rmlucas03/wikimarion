@@ -5,7 +5,7 @@ has_map: false
 first_image: "Marion.jpg"
 ---
 
-![In this picture are Thomas Shipp and Abram Smith](Marion.jpg "In this picture are Thomas Shipp and Abram Smith")
+![In this picture are Thomas Shipp and Abram Smith](/images/Marion.jpg)
 
 ## The Beginning {#the_beginning}
 

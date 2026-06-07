@@ -5,10 +5,10 @@ has_map: false
 first_image: "V003953r.jpg"
 ---
 
-`<googlemap lat="40.551374" lon="-85.661259" zoom="13" width="700" height="550">`{=html} 40.533943, -85.648663, [300px](/articles/imagev003953rjpg/)\
+`<googlemap lat="40.551374" lon="-85.661259" zoom="13" width="700" height="550">`{=html} 40.533943, -85.648663, ![](/images/V003953r.jpg)\
 [Trolley Power Station](/articles/trolley-power-station/) 40.533764, -85.649457, ![](/images/TrolleyBarn.GIF "TrolleyBarn.GIF")\
-The Trolley Barn 40.551407, -85.659864, [300px](/articles/imagev002439rjpg/)\
-[Looking North](/articles/looking-north/) 40.521988, -85.636067, [300px](/articles/imagev002442rjpg/) 40.534139, -85.64921, ![](/images/V003192r.jpg "V003192r.jpg") 40.584553, -85.661398, [300px](/articles/imagev003234rjpg/) 40.557895, -85.6598, ![](/images/V003235r.jpg "V003235r.jpg") 40.552401, -85.661409, [300px](/articles/imagev003236rjpg/) 40.552499, -85.661044, [300px](/articles/imagev003237rjpg/) 40.584235, -85.661259, [300px](/articles/imagev003238rjpg/) 40.576315, -85.659574, [300px](/articles/imagev003239rjpg/) 40.555532, -85.659907, ![](/images/Marion_Public_Library_%281911%29.jpg "Marion_Public_Library_%281911%29.jpg") 40.522249, -85.636711, [300px](/articles/imagev003708rjpg/) 40.522118, -85.636582, [300px](/articles/imagev004173rjpg/)
+The Trolley Barn 40.551407, -85.659864, ![](/images/V002439r.jpg)\
+[Looking North](/articles/looking-north/) 40.521988, -85.636067, ![](/images/V002442r.jpg) 40.534139, -85.64921, ![](/images/V003192r.jpg "V003192r.jpg") 40.584553, -85.661398, ![](/images/V003234r.jpg) 40.557895, -85.6598, ![](/images/V003235r.jpg "V003235r.jpg") 40.552401, -85.661409, ![](/images/V003236r.jpg) 40.552499, -85.661044, ![](/images/V003237r.jpg) 40.584235, -85.661259, ![](/images/V003238r.jpg) 40.576315, -85.659574, ![](/images/V003239r.jpg) 40.555532, -85.659907, ![](/images/Marion_Public_Library_%281911%29.jpg "Marion_Public_Library_%281911%29.jpg") 40.522249, -85.636711, ![](/images/V003708r.jpg) 40.522118, -85.636582, ![](/images/V004173r.jpg)
 
 1.  6C85C7
 

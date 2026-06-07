@@ -5,7 +5,7 @@ has_map: false
 first_image: "Army_of_Occupation_Medal.png"
 ---
 
-![US Army European Occupation Ribbon](Army_of_Occupation_Medal.png "US Army European Occupation Ribbon") Personal Narrative of Johnnie Clayton\
+![US Army European Occupation Ribbon](/images/Army_of_Occupation_Medal.png) Personal Narrative of Johnnie Clayton\
 From: Johnnie Clayton (jc)\
 Medium: Audiotape\
 Date: Wednesday, May 5, 1999\
