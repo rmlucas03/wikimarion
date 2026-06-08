@@ -1,6 +1,6 @@
 ---
-title: "Pearson Printing Draft"
-slug: "pearson-printing-draft"
+title: "Pearson Printing"
+slug: "pearson-printing"
 has_map: false
 ---
 

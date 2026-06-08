@@ -1,6 +1,6 @@
 ---
-title: "Wampner Funeral Homes Draft"
-slug: "wampner-funeral-homes-draft"
+title: "Wampner Funeral Homes"
+slug: "wampner-funeral-homes"
 has_map: false
 ---
 

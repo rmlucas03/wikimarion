@@ -1,6 +1,6 @@
 ---
-title: "Taylor University in Grant County Draft"
-slug: "taylor-university-in-grant-county-draft"
+title: "Taylor University in Grant County"
+slug: "taylor-university-in-grant-county"
 has_map: false
 categories:
   - "Schools and Education"

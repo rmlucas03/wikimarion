@@ -1,6 +1,6 @@
 ---
-title: "Kenesaw Mountain Landis Draft"
-slug: "kenesaw-mountain-landis-draft"
+title: "Kenesaw Mountain Landis"
+slug: "kenesaw-mountain-landis"
 has_map: false
 categories:
   - "Sports and Athletics"

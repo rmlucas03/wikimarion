@@ -1,6 +1,6 @@
 ---
-title: "Lakeview Christian Church Draft"
-slug: "lakeview-christian-church-draft"
+title: "Lakeview Christian Church"
+slug: "lakeview-christian-church"
 has_map: false
 categories:
   - "Churches and Religious Life"

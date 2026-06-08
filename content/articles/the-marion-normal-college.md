@@ -1,6 +1,6 @@
 ---
-title: "The Marion Normal College Draft"
-slug: "the-marion-normal-college-draft"
+title: "The Marion Normal College"
+slug: "the-marion-normal-college"
 has_map: false
 categories:
   - "Schools and Education"

@@ -1,6 +1,6 @@
 ---
-title: "Thaddeus Butler Draft"
-slug: "thaddeus-butler-draft"
+title: "Thaddeus Butler"
+slug: "thaddeus-butler"
 has_map: false
 ---
 

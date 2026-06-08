@@ -1,6 +1,6 @@
 ---
-title: "Carmichael\'s Grocery Draft"
-slug: "carmichaels-grocery-draft"
+title: "Carmichael\'s Grocery"
+slug: "carmichaels-grocery"
 has_map: false
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "704 S. Boots St Draft"
-slug: "704-s-boots-st-draft"
+title: "704 S. Boots St"
+slug: "704-s-boots-st"
 has_map: false
 categories:
   - "This Old House"

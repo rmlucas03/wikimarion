@@ -1,6 +1,6 @@
 ---
-title: "Willian Zacharias Roper Draft"
-slug: "willian-zacharias-roper-draft"
+title: "William Zacharias Roper"
+slug: "william-zacharias-roper"
 has_map: false
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Glenn Wilson Ross Draft"
-slug: "glenn-wilson-ross-draft"
+title: "Glenn Wilson Ross"
+slug: "glenn-wilson-ross"
 has_map: false
 ---
 

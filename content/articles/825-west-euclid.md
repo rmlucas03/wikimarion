@@ -1,6 +1,6 @@
 ---
-title: "825 West Euclid Draft"
-slug: "825-west-euclid-draft"
+title: "825 West Euclid"
+slug: "825-west-euclid"
 has_map: false
 categories:
   - "This Old House"
