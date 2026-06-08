@@ -124,12 +124,21 @@ fetch(proxy)
       return;
     }
     const items = data.items.slice(0, 4);
-    container.innerHTML = items.map(item => `
+    const teaser = html => {
+      const tmp = document.createElement('div');
+      tmp.innerHTML = html || '';
+      return tmp.textContent.replace(/\s+/g, ' ').trim().slice(0, 150);
+    };
+    container.innerHTML = items.map(item => {
+      const date = new Date(item.pubDate).toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'});
+      const excerpt = teaser(item.description || item.content);
+      return `
       <div class="substack-item">
         <a href="${item.link}" target="_blank" rel="noopener" class="substack-title">${item.title}</a>
-        <span class="substack-date">${new Date(item.pubDate).toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})}</span>
-      </div>
-    `).join('');
+        <span class="substack-date">${date}</span>
+        ${excerpt ? `<p class="substack-excerpt">${excerpt}…</p>` : ''}
+      </div>`;
+    }).join('');
   })
   .catch(() => {
     document.getElementById('substack-feed').innerHTML =
