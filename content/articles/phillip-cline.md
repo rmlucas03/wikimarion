@@ -2,6 +2,8 @@
 title: "Phillip Cline"
 slug: "phillip-cline"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Phillip G. Cline\

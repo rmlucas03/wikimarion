@@ -2,6 +2,8 @@
 title: "Xen Stewart"
 slug: "xen-stewart"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Xen Stewart\

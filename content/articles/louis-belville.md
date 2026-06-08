@@ -2,6 +2,8 @@
 title: "Louis Belville"
 slug: "louis-belville"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Louis E. Belville\

@@ -2,6 +2,8 @@
 title: "Donald Kearney"
 slug: "donald-kearney"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Donald Kearney\

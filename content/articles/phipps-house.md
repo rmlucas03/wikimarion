@@ -3,6 +3,8 @@ title: "Phipps House"
 slug: "phipps-house"
 has_map: false
 first_image: "Phipps_House.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Phipps_House.jpg)On the corner of Hill Street and Spencer, a duplex full of rich history and peaceful memories stands erect showing of its beautiful architecture dated from 1900. The house, now roughly one hundred and five years old, was nothing more than a lot with a label in the early twentieth century, but now serves as a reminder to the Marion community of how deep and extensive the cities history is (Assessor). Many people have made 705 West Spencer Avenue their home for over a century now sharing each recollection and memory with it. People of importance have called the place home to just ordinary people calling it home. The house tells stories of these people's lives bridging the gap between the past and present.

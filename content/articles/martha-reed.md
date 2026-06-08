@@ -2,6 +2,8 @@
 title: "Martha Reed"
 slug: "martha-reed"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Martha Reed\

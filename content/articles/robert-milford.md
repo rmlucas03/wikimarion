@@ -2,6 +2,8 @@
 title: "Robert Milford"
 slug: "robert-milford"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Robert L. Milford\

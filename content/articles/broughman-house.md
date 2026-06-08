@@ -3,6 +3,8 @@ title: "Broughman House"
 slug: "broughman-house"
 has_map: false
 first_image: "Broughman_Home_Article.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Broughman_Home_Article.jpg)On Sunday, February 19, 1939, a new brick home containing twelve rooms was nearing completion at 721 Spencer Avenue ("New Brick Home With 12 Rooms"). This house was constructed by A.C. Broughman. Today, it is occupied by John and Mary Meiching. This house has had a fascinating development. It has great architecture and is truly a remarkable structure.

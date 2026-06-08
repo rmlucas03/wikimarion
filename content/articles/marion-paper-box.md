@@ -3,6 +3,8 @@ title: "Marion Paper Box"
 slug: "marion-paper-box"
 has_map: false
 first_image: "Marion_Paper_Box_Angle.JPG"
+categories:
+  - "Made in Marion"
 ---
 
 ![](/images/Marion-Paper-Box-Angle.jpg)Since 1897, Marion Paper Box Company has played an important role in the development of Marion. The manufacturing of paper boxes was of wide importance and part of the general activity of commerce and trade in Marion in the early 1900's. (Marion News Tribune) Thomas G. Wall established Marion Paper Box Company in 1897. (1921 city directory) The original location of the paper box factory was at the corner of Euclid and Western Avenues. (Sanborn Map, 1896) Thomas G. Wall and his brother, John R. Wall decided to move the location shortly after to its present location at 600 East 18th Street. (Sanborn Map, 1901) The address had changed from 608-610-612 East 18th Street to its current address at 600 East 18th Street in the 1966. (1966 City Directory) Marion Paper Box Company has always been a manufacturer of paper boxes of all kinds. They also die-cut, which is the process of cutting out the shape of a box out of paper board, and partitions, which is dividers in a box.

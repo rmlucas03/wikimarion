@@ -3,6 +3,8 @@ title: "Oatess Archey"
 slug: "oatess-archey"
 has_map: false
 first_image: "Sheriff_Archey.jpg"
+categories:
+  - "Experience of Segregation"
 ---
 
 ![Sheriff Oatess Archey in 2002](/images/Sheriff_Archey.jpg)**Interview with: Oatess Archey\

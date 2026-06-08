@@ -2,6 +2,8 @@
 title: "Thomas Dulhanty"
 slug: "thomas-dulhanty"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Thomas Dulhanty\

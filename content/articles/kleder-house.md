@@ -3,6 +3,8 @@ title: "Kleder House"
 slug: "kleder-house"
 has_map: false
 first_image: "Kleder_House.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Kleder_House.jpg)The people of a community as well as their homes shape and create a town's character. The town of Marion has been shaped and developed by people and structures which make it unique. George Kleder, a successful business man, built a home which added another dimension to the contour of Marion. The Kleder house, constructed on land which had multiple property owners but only two homeowners, was built in 1939 by an affluent business man during a prosperous era of Marion and displayed unique features and characteristics of the time.

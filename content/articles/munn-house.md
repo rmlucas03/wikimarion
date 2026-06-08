@@ -3,6 +3,8 @@ title: "Munn House"
 slug: "munn-house"
 has_map: false
 first_image: "MunnHouseArticle.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/MunnHouseArticle.jpg)The Munn House, located on 800 Euclid Avenue in Marion, Indiana, has been a part of the community's history since 1936. The land was first purchased in 1883 by Abraham Murray and his wife Sarah. The land was then sold to Jacob W. Spencer who, in his will, left it to his son Robert J. Spencer. The Spencer family developed the land, making it ready for its first owner. While it has been the home to only a few families, its architectural style and development makes the house unique.

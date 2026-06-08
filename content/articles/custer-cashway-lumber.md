@@ -2,6 +2,8 @@
 title: "Custer Cashway Lumber"
 slug: "custer-cashway-lumber"
 has_map: false
+categories:
+  - "Made in Marion"
 ---
 
 Custer Cashway Lumber Company was a permanent fixture in Indiana for nearly a century, though the name changed several times, the same family owned it. The lumber store chain survived the Great Depression, World War II, and the racial tensions of the fifties and sixties; it was brought down for the last time in 2002, in one big bonfire.

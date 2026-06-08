@@ -2,6 +2,8 @@
 title: "Minniellen Kirby"
 slug: "minniellen-kirby"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Minniellen Kirby (mk)\

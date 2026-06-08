@@ -2,6 +2,8 @@
 title: "History of Grant County"
 slug: "history-of-grant-county"
 has_map: false
+categories:
+  - "Lest We Forget"
 ---
 
 The following is the story told by Mr. and Mrs. Frank Druckemiller, born February 20, 1849, and October 22, 1852, respectively:

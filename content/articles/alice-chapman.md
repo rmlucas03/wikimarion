@@ -3,6 +3,8 @@ title: "Alice Chapman"
 slug: "alice-chapman"
 has_map: false
 first_image: "United_States_Army_Nurses.jpg‎"
+categories:
+  - "Personal Narratives"
 ---
 
 ![United States Army Nurses Corps](/images/United_States_Army_Nurses.jpg‎ "United States Army Nurses Corps") Personal narrative of Alice Chapman\

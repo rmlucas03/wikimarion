@@ -2,6 +2,9 @@
 title: "Ruth Carter Evans"
 slug: "ruth-carter-evans"
 has_map: false
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 Interview: Ruth Carter Evans (re)\

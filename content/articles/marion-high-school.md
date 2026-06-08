@@ -3,6 +3,8 @@ title: "Marion High School"
 slug: "marion-high-school"
 has_map: false
 first_image: "MHSrebuilt1.jpg"
+categories:
+  - "Schools and Education"
 ---
 
 ![Marion High School, as rebuilt after a 1902 fire](/images/MHSrebuilt1.jpg)Marion High School, located in Marion, Indiana, has a fascinating history. This site is designed to give you a glimpse into the early history of Marion High School, through photographs and text.

@@ -2,6 +2,8 @@
 title: "Randall Jones"
 slug: "randall-jones"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Randall L. Jones\

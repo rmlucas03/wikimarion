@@ -2,6 +2,8 @@
 title: "Staff Sergeant Henry"
 slug: "staff-sergeant-henry"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Staff Sergeant Henry\

@@ -2,6 +2,8 @@
 title: "Barbara Love"
 slug: "barbara-love"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 From: Barbara Love (bl)\

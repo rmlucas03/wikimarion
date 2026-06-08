@@ -2,6 +2,8 @@
 title: "Segregation"
 slug: "segregation"
 has_map: false
+categories:
+  - "Experience of Segregation"
 ---
 
 Life for African-Americans in the "Queen City" Marion has been greatly characterized by the degrading implementation of racial injustice. Through the life- experiences of seven Marionite African-Americans, a glimpse into the dark institution of segregation in Marion is presented. The everyday lives of African-Americans through the 20th Century were tattered by the acts of inequality impeding their ability to achieve a substantial role in the community. The efforts of narrow-minded whites to hold the African-American race down finally took its toll on the black community. "You just have to stand up sometimes. They call it rocking the boat, but sometimes you've got to rock it." (Smith) Through the 1950's and '60's the NAACP and black community of Marion, Indiana rebelled with a series of protests to obtain equal rights in the city.

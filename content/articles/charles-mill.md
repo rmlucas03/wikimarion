@@ -3,6 +3,8 @@ title: "Charles Mill"
 slug: "charles-mill"
 has_map: false
 first_image: "Charles_Mill.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![](/images/Charles_Mill.jpg)The Charles Mill is a historically significant building in Marion, dating back to the mid 1800\'s. After being built by Riley Marshall in 1836, the Charles Mill has been owned by many other people since. Although it was built to be a sawmill, it has had many other uses. Today, the Charles Mill\'s fate will be determined in the auction of 2000, which the Redevelopment Commission of Marion is to find the next owner.

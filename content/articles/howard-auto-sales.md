@@ -3,6 +3,8 @@ title: "Howard Auto Sales"
 slug: "howard-auto-sales"
 has_map: false
 first_image: "Howard_Auto_Sales_Sign.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![](/images/Howard_Auto_Sales_Sign.jpg)Howard Auto Sales, 802 South Adams Street, is located on what is known as Lot six on Branson's addition. As the owners of Lot six changed, a foundry was developed and became known as a pioneer industry in this part of Indiana (Marvelous Marion). The foundry then became a gas station, and finally the car dealership that Howard Auto Sales is today.

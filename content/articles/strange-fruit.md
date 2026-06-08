@@ -2,6 +2,8 @@
 title: "Strange Fruit"
 slug: "strange-fruit"
 has_map: false
+categories:
+  - "The Marion Lynching"
 ---
 
 "Strange Fruit", performed by Billie Holiday, is commonly tied to a photograph taken by Lawrence Beitler of a lynching in Marion, Indiana on August 7, 1930. Billie Holiday first performed the song in a night club, Cafe Society in New York in 1939(Margolick). After gaining widespread popularity, Holiday recorded the song and it was released later that year (Margolick). Strange Fruit became an anthem for the anti-lynching movement.\

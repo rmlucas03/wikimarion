@@ -3,6 +3,8 @@ title: "Preface"
 slug: "preface"
 has_map: false
 first_image: "Straughn.jpeg"
+categories:
+  - "Lest We Forget"
 ---
 
 ![MHS Teacher Cora Straughan](/images/Straughn.jpg)

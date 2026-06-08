@@ -3,6 +3,8 @@ title: "Matter Park"
 slug: "matter-park"
 has_map: false
 first_image: "Matter_Park_Well_Postcard.jpg"
+categories:
+  - "Parks and Recreation"
 ---
 
 ![The Flowing well at Matter Park in 1919, after it was surrounded with cement steps and an iron fence](/images/Matter_Park_Well_Postcard.jpg)Before any of the land in Grant County had been set aside for use as a park, the banks of the Mississinewa River were a favorite spot for recreation and rest among the early settlers in the area. Some of the more popular spots in the county were the Sliding Bank and Dunn's Dam near Matthews and Kidner's Bridge and Rock Dam north of Gas City (Scenic Spots). Marion and Grant County were soon settled, and began to prosper. It was then, on September 19, 1892, that Phillip Matter donated the area of land to the city of Marion that has come to be known as Matter Park (Kingery).

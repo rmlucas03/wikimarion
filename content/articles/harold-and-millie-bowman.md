@@ -2,6 +2,8 @@
 title: "Harold and Millie Bowman"
 slug: "harold-and-millie-bowman"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Harold and Millie Bowman\

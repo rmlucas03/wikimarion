@@ -2,6 +2,8 @@
 title: "James Pearcy"
 slug: "james-pearcy"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with James J. Pearcy\

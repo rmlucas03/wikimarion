@@ -2,6 +2,8 @@
 title: "Betty Mottweiler"
 slug: "betty-mottweiler"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Mrs. Betty Mottweiler (bm)\

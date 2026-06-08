@@ -2,6 +2,8 @@
 title: "Betty Straughan"
 slug: "betty-straughan"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Betty Straughn\

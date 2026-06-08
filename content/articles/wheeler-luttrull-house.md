@@ -3,6 +3,8 @@ title: "Wheeler-Luttrull House"
 slug: "wheeler-luttrull-house"
 has_map: false
 first_image: "Luttrull_4.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![The Luttrull-Wheeler House, ca. January 2001](/images/Luttrull_4.jpg "The Luttrull-Wheeler House, ca. January 2001")The Wheeler-Luttrull house at 714 Spencer Avenue has stood as Marion has gone through changes from in the late nineteenth century to the present. In the 1890's, the house was owned by Clarence Wheeler and his family. During that time Marion prospered greatly from the recent discovery of natural gas. Wheeler was one of the many people involved in Marion's rise in industry. Marion also experienced prosperity in the 1920's. At that time the house was owned by Hugh and Anne Wilkinson. Wilkinson was another businessman in Marion who became the vice president for a local table company. Presently Marion is a city of a population just over 30,000 and is still influenced by the factories that create employment for its residents. James and Debbie Luttrull presently own the house. In their ten years as owners they have made many renovations to the house.

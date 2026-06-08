@@ -3,6 +3,8 @@ title: "Pattengale House"
 slug: "pattengale-house"
 has_map: false
 first_image: "PattengaleFarm.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/PattengaleFarm.jpg)The Pattengale house, located at 3331 W. 600 S. in Jonesboro, Indiana, is on a property that has historical significance to both Liberty Township, and to Grant County as a whole. Formerly a tenant farm known as Banner Land (Whitson 1384)), the property is located in what was formerly known as Weaver, a predominantly African-American area in the Northern part of Liberty Township. The property was owned by several prominent residents of Grant County, and at one point, Weaver School shared a plot of land on the property (Whitson 1384).

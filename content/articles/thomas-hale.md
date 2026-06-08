@@ -3,6 +3,9 @@ title: "Thomas Hale"
 slug: "thomas-hale"
 has_map: false
 first_image: "Ruptured_Duck.gif"
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 ![World War II Service Badge](/images/Ruptured_Duck.gif "World War II Service Badge") Interview: Thomas Hale (th) Medium: Audio Tape Date: Monday, April 13, 1998 Place: Home of Thomas and Olive Hale, 525 E. Charles Street, Marion, IN 46952

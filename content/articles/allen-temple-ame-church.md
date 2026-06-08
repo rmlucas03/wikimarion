@@ -3,6 +3,8 @@ title: "Allen Temple AME Church"
 slug: "allen-temple-ame-church"
 has_map: false
 first_image: "Allen_Temple.JPG"
+categories:
+  - "Churches and Religious Life"
 ---
 
 ![](/images/Allen-Temple.jpg)Allen Temple A.M.E. Church has held a significant place in the history of Marion, Indiana. Starting out as a Methodist Protestant Church when it was first built, the church endured a series of transformations to make it an important institution for the growth of worship for African Americans. Through the many ministers it has employed over the years, Allen Temple has made several outreaches to the religious and nonreligious communities of Marion. Finally, the actual structure has gone through several changes over its 131-year history, exemplifying its assimilation into the expanding community. Thus, Allen Temple A.M.E. Church serves great importance not only to the African American community of Grant County, but also to the entire population of the area.

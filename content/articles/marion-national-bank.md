@@ -3,6 +3,8 @@ title: "Marion National Bank"
 slug: "marion-national-bank"
 has_map: false
 first_image: "Marion_National_Completed.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![Exterior view of the Marion National Bank building at 4rd & Washington St., built in 1916-1917, opened for business April 7, 1917.](/images/Marion_National_Completed.jpg) Throughout the years, Marion National Bank has prospered and grown along with the community. It is the oldest most successful bank in Grant County, and it also is the largest such financial institution in the county. The bank has, for over a century, occupied a central location in the heart of Marion's business district (Marion National Bank Retrospective & Annual Report 3). The bank is considered to be Marion's first skyscraper and is also a landmark of Marion (Merchant).

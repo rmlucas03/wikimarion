@@ -2,6 +2,8 @@
 title: "Alice Bunish"
 slug: "alice-bunish"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Alice Bunish (ab)\

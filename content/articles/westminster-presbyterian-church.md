@@ -3,6 +3,8 @@ title: "Westminster Presbyterian Church"
 slug: "westminster-presbyterian-church"
 has_map: false
 first_image: "Westminster_Presbyterian.JPG"
+categories:
+  - "Churches and Religious Life"
 ---
 
 ![](/images/Westminster-Presbyterian.jpg)Located at 1100 West Jeffras Avenue, Westminster covers a total of 2.75 acres (13). Its interior and exterior design and expansions represent the close-knit relationships and warmth of the congregation as well as the growth of the congregation over time. The founding of the church and the dedication service held thereafter are notable events in Marion's history. Pastors of this still young church have been few, yet each of them made an impact on the congregation. Another important aspect to the building, other than the church, is the Westminster Preschool which is still being run today and has a history of it's own. Westminster Presbyterian Church of Marion, Indiana is an illustration of the typical modern small church as well as a representation of Marion's history.

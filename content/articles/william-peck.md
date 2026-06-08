@@ -2,6 +2,8 @@
 title: "William Peck"
 slug: "william-peck"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with William A. Peck\

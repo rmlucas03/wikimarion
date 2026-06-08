@@ -3,6 +3,8 @@ title: "Byron Tippey"
 slug: "byron-tippey"
 has_map: false
 first_image: "Ruptured_Duck.gif"
+categories:
+  - "Personal Narratives"
 ---
 
 ![World War II Service Badge](/images/Ruptured_Duck.gif)

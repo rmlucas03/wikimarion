@@ -3,6 +3,8 @@ title: "Memorialization of Lynching"
 slug: "memorialization-of-lynching"
 has_map: false
 first_image: "Duluth-lynching.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 "The Gospel According to James" made the lynching immortalized in the iconic photograph seem so concrete; Bloodied, tattered clothing, shots fired across the stage, Cameron upon his knees praying to God to rescue him from the lynch mob, such loathing, such terrible violence, so exquisitely portrayed. Thomas and Abe had been made real, human, and their suffering could not be swept under the rug. The violence and racial tension expressed in the Marion Lynching could not truly be laid to rest until the people of Marion had appropriately remembered the victims of its forefathers' crime. People could not appropriately understand why things are as they are now without a window into their past; I set out to investigate: Why did no memorial exist? What healing might one achieve?

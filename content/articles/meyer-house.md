@@ -3,6 +3,8 @@ title: "Meyer House"
 slug: "meyer-house"
 has_map: false
 first_image: "Meyer_House.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Meyer_House.jpg)In 1828 Jesse Thomas purchased a block of land that would grow smaller and more prosperous throughout the years. Over the course of nearly 200 years this property would have a house built on it, and a city built around it. It would be home to 5 families, house many parties, and become one of the oldest houses in Marion. The house that now stands at 130 N. Washington St. in Marion, Indiana has a long and unique history, filled with colorful people.

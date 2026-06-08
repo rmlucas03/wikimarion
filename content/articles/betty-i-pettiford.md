@@ -2,6 +2,8 @@
 title: "Betty I. Pettiford"
 slug: "betty-i-pettiford"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Betty I. Pettiford\

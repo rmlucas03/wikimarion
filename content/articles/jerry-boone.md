@@ -2,6 +2,8 @@
 title: "Jerry Boone"
 slug: "jerry-boone"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Jerry Boone\

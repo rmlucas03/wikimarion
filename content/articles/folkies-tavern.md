@@ -3,6 +3,8 @@ title: "Folkie\'s Tavern"
 slug: "folkies-tavern"
 has_map: false
 first_image: "Folkie's.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![](/images/Folkie's.jpg)Dating back the early 1900s, the building at 117 South Branson Street has been very significant to Marion's history. Through the years, 117 South Branson Street has had five different owners who each had their own use for the building. From a grocery store, to a restaurant, to a barbershop, to a tavern, 117 South Branson Street has always been some kind of friendly operation in Marion, Indiana. Serving in over seventy-five years of business, the Folkie\'s building is a very significant part in Marion's History.

@@ -2,6 +2,8 @@
 title: "Loren Wilshire"
 slug: "loren-wilshire"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interviewed with Loren G. Wilshire\

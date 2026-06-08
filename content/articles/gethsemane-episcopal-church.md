@@ -3,6 +3,8 @@ title: "Gethsemane Episcopal Church"
 slug: "gethsemane-episcopal-church"
 has_map: false
 first_image: "V000324r.jpg"
+categories:
+  - "Churches and Religious Life"
 ---
 
 ![](/images/V000324r.jpg)In the mid-1800s the Episcopal worship first came to Marion in the form of home services and eucharists held in the Presbyterian Church. Over many years these occasional services beame a church community. Fr.Joseph S. Large who was the rector of the Trinity Church in Fort Wayne officiated the first services. (History of Gethsemane).

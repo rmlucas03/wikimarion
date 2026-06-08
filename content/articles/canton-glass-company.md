@@ -3,6 +3,8 @@ title: "Canton Glass Company"
 slug: "canton-glass-company"
 has_map: false
 first_image: "CantonMain.jpg"
+categories:
+  - "Made in Marion"
 ---
 
 ![Illustration of Canton Glass Company](/images/CantonMain.jpg "Illustration of Canton Glass Company")Fifty thousand dollars was all it took to begin one of America's most prosperous glass companies, and establishing one came with great risk. The glass industry was an insecure investment for any entrepreneur because it was so unstable. Most companies were forced to close early due to inadequate funds to support the business. Three brave men incorporated Canton Glass Company in 1882: Joseph K. Brown of Beaver Falls, PA; A.M. Bacon of Pittsburg, PA; and the noted designer David Barker of Brilliant, Ohio (Sanford 1).

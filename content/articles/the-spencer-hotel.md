@@ -3,6 +3,8 @@ title: "The Spencer Hotel"
 slug: "the-spencer-hotel"
 has_map: false
 first_image: "V003110r.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![(ca. 1910) Corner of Adams & 4th St. view of Spencer Hotel, shows horses & buggies on brick streets with streetcar tracks.](/images/V003110r.jpg) In 1849 Jacob Spencer moved with his wife and five children to Marion, Indiana. Jacob Spencer came to Marion with hopes of purchasing a hardware store. But when this hope showed no success Jacob Spencer became a farmer. During this time period there were only two hotels in Marion, the Butler House and the Love House. Neither of them were able to accommodate a large number of people. Jacob Spencer soon decided that the town needed a bigger hotel, one of which it could be proud. With this in mind Jacob purchased a section of property on the southeast corner of the town square. Here, in 1856, Jacob built this three story hotel where he offered rooms, meals, livery service, and office space. From this point in 1856 until its close in 1978 the Spencer Hotel was a proud and historic feature of downtown Marion.

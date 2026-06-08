@@ -2,6 +2,8 @@
 title: "Richard E. Bareiss"
 slug: "richard-e-bareiss"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Richard E. Bareiss\

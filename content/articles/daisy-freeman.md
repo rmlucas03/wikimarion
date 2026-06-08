@@ -2,6 +2,9 @@
 title: "Daisy Freeman"
 slug: "daisy-freeman"
 has_map: false
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 Personal narrative of Daisy Freeman\

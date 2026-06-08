@@ -3,6 +3,8 @@ title: "Veterans\' Administration Medical Center"
 slug: "veterans-administration-medical-center"
 has_map: false
 first_image: "V001308r.jpg"
+categories:
+  - "Health and Medicine"
 ---
 
 ![Birds-eye view of the VA Medical Center showing Steele Circle, the bandstand, and other buildings. ca. 1930.](/images/V001308r.jpg)The Marion Veteran's Administration Medical Center is a national historic site. The Veteran's Center has gone through many changes in its hundred-year history, and is significantly different in its current form than when it was originally created. Beginning as a National Asylum, the VAMC is now much more than that, offering psychiatric and rehabilitative care as well. Started under the watchful eyes of Colonel George W. Steele, the Veteran's Administration Medical Center has flourished under past and current directors, and has become a major part of the Marion community.

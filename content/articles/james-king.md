@@ -2,6 +2,8 @@
 title: "James King"
 slug: "james-king"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with James W. King\

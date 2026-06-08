@@ -2,6 +2,8 @@
 title: "Glen Black"
 slug: "glen-black"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Glen O. Black\

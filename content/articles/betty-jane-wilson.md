@@ -2,6 +2,8 @@
 title: "Betty Jane Wilson"
 slug: "betty-jane-wilson"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Betty Jane Wilson(bjw)\

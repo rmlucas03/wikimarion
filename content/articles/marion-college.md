@@ -3,6 +3,8 @@ title: "Marion College"
 slug: "marion-college"
 has_map: false
 first_image: "MarionCollegeArch.jpg"
+categories:
+  - "Schools and Education"
 ---
 
 Marion College, formerly Marion Normal, emerged as a huge part of the city of Marion in its origins, its transition in 1920 to a Wesleyan college, and the effects of this transition. The college's part in shaping the city of Marion is evident even today in the college's existence as Indiana Wesleyan University.![Marion College Arch](/images/MarionCollegeArch.jpg)

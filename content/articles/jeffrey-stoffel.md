@@ -2,6 +2,8 @@
 title: "Jeffrey Stoffel"
 slug: "jeffrey-stoffel"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Jeffrey L. Stoffel\

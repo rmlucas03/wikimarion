@@ -2,6 +2,8 @@
 title: "Cleome \'Smokey\' Young"
 slug: "cleome-smokey-young"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Cleome "Smokey" Young\

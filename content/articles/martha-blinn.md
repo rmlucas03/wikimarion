@@ -2,6 +2,8 @@
 title: "Martha Blinn"
 slug: "martha-blinn"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Martha Blinn\

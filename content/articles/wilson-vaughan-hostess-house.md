@@ -3,6 +3,8 @@ title: "Wilson-Vaughan Hostess House"
 slug: "wilson-vaughan-hostess-house"
 has_map: false
 first_image: "V002469r.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![Front exterior of the Hostess House ca. 1960, then a center for women\'s activities](/images/V002469r.jpg)The Hostess House is the masterpiece of Marion architect Samuel Plato. He built the home for J. Wood Wilson on the corner of 4th and what is now Garfield St.

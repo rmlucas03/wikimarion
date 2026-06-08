@@ -3,6 +3,8 @@ title: "Crystal Calobrace"
 slug: "crystal-calobrace"
 has_map: false
 first_image: "Calobrace.JPG"
+categories:
+  - "Personal Narratives"
 ---
 
 ![](/images/Calobrace.JPG)Personal narrative of Crystal Calobrace\

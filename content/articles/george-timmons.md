@@ -2,6 +2,8 @@
 title: "George Timmons"
 slug: "george-timmons"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with George E. Timmons

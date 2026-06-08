@@ -2,6 +2,8 @@
 title: "Marjorie Wonderly"
 slug: "marjorie-wonderly"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Marjorie Wonderly\

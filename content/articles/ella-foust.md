@@ -2,6 +2,8 @@
 title: "Ella Foust"
 slug: "ella-foust"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Ella Foust (ef)\

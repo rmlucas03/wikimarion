@@ -3,6 +3,8 @@ title: "The Painted Lady"
 slug: "the-painted-lady"
 has_map: false
 first_image: "Painted_Lady.JPG"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Painted-Lady.jpg)For over eighty years, the house at 414 W. 4th Street had been handed down from one generation to another in the Torrance family. Built in the late 1800s, the multicolored, Queen Anne Victorian home was home to the Torrance family, one of the first pioneer families in Marion. Today, Davin Testerman, who has turned the house into the hair salon, The Painted Lady, currently owns the home. While he runs his business downstairs, he lives upstairs. This house has seen many changes for over a century and will continue to see them for centuries to come.

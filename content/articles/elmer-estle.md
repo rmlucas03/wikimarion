@@ -2,6 +2,8 @@
 title: "Elmer Estle"
 slug: "elmer-estle"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Elmer E. Estle\

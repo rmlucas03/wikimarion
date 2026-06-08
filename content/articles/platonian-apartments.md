@@ -3,6 +3,8 @@ title: "Platonian Apartments"
 slug: "platonian-apartments"
 has_map: false
 first_image: "Platonian2.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![](/images/Platonian2.jpg "Platonian2.jpg")The Platonian apartments are a significant part of the history of Marion, Indiana. The Platonian apartments were designed by Samuel Plato a famous African American pioneer architect. The Platonian Apartments are a symbol of his architectural style and genius. The Platonian apartments are also significant because they are apart of a chain of other important buildings created by Samuel Plato.

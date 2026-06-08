@@ -3,6 +3,8 @@ title: "The Church and the Lynching"
 slug: "the-church-and-the-lynching"
 has_map: false
 first_image: "ThomasShippAbramSmith.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ## Overview

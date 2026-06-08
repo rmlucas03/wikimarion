@@ -2,6 +2,8 @@
 title: "Jim Perkins"
 slug: "jim-perkins"
 has_map: false
+categories:
+  - "Experience of Segregation"
 ---
 
 Interview with: Jim Perkins\

@@ -3,6 +3,8 @@ title: "Trolley Power Station"
 slug: "trolley-power-station"
 has_map: false
 first_image: "V003953r.jpg"
+categories:
+  - "Transportation"
 ---
 
 ![Early interurban Union Traction Co. of Indiana train #258 and two Barney & Smith trailers at the Marion Power House, Union Traction Company of Indiana](/images/V003953r.jpg)The old trolley station located at 904 E. 30th St. is currently called the Trolley Central Mall. As several companies tried to wrest control of the trolleys from their opponents, they fought over the Trolley Power Station. The building has also seen many other occupants, including a church, called the Old Power House Church, a general store known as C. C. Shrout, and a seller of used furniture. Currently, the building is the site of a thrift store known as Trolley Central Mall, named after the trolley station of yore.

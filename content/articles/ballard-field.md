@@ -3,6 +3,9 @@ title: "Ballard Field"
 slug: "ballard-field"
 has_map: false
 first_image: "V000187r.jpg"
+categories:
+  - "Made in Marion"
+  - "Parks and Recreation"
 ---
 
 ![](/images/V000187r.jpg)From baseball to thriving businesses, Ballard Field has seen its share of success and failures. It once sheltered two industries, an entertaining circus, and a field open to anyone who could throw a ball. The day that Marion acquired a name for itself in Indiana, Ballard Field was blossoming right alongside it.

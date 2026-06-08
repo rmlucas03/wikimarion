@@ -2,6 +2,9 @@
 title: "Shirley Turnock"
 slug: "shirley-turnock"
 has_map: false
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 A Marion teenager\'s life during World War II.

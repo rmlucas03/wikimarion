@@ -3,6 +3,8 @@ title: "The Marion Lynching Trials"
 slug: "the-marion-lynching-trials"
 has_map: false
 first_image: "ThomasShippAbramSmith.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ## Overview

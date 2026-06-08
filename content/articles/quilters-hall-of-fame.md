@@ -4,6 +4,8 @@ slug: "quilters-hall-of-fame"
 has_map: false
 first_image: "MarieWebster.jpg"
 featured_image: "WebsterHouse1900.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![Marie Webster, sitting, with fur stole and holding fur muff ca. 1910.](/images/MarieWebster.jpg)Marie Daugherty Webster, a woman of the early 1900's who was born in Wabash, Indiana, was a nationally known leader of the quilt revival. Marie Webster brought quilting into the culture of America. She and her husband, George, moved into her home in 1902, which is located at 926 South Washington Street in Marion, Indiana. She resided there for fourty years, from 1902 to 1942. She became famous for her quilting when four of her quilts were shown in The Ladies Home Journal magazine in January 1911. Following in time, the magazine continued to feature more of her personalized quilts. Marie Webster also wrote a book, which was the first publication that really defined quilts. The book was titled Quilts: Their Story and How to Make Them. This being her first book was published in 1915. Marie was known worldwide for her creative new ideas and her appliqué designing of quilts. Webster later decided to start her own company in 1911, which she named the Practical Patchwork Company. This company not only offered patterns for quilts and quilt kits, but also finished quilts. After carrying out her nationally popular quilting for many years, Marie passed away in 1956 (Losure).

@@ -2,6 +2,8 @@
 title: "Eunice Carey"
 slug: "eunice-carey"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Eunice Carey (ec)\

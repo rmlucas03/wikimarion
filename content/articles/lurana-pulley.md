@@ -2,6 +2,8 @@
 title: "Lurana Pulley"
 slug: "lurana-pulley"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal Narrative of Lurana Pulley\

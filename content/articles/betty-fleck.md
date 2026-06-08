@@ -2,6 +2,8 @@
 title: "Betty Fleck"
 slug: "betty-fleck"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Betty Fleck\

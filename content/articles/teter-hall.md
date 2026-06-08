@@ -3,6 +3,8 @@ title: "Teter Hall"
 slug: "teter-hall"
 has_map: false
 first_image: "Teter_Hall_at_Marion_Normal.jpg"
+categories:
+  - "Schools and Education"
 ---
 
 ![Teter Hall on the campus of Marion Normal College](/images/Teter_Hall_at_Marion_Normal.jpg)Teter Hall once stood proudly as the venerable hub of activity in South Marion on the campus of Marion College. Teter Hall was one of the first buildings built when Marion Normal College, now Indiana Wesleyan University, was founded. All throughout the lifetime of the building, Teter Hall remained a major part of college and community life. Though no longer standing, it carried much history even with its very name.

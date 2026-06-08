@@ -2,6 +2,8 @@
 title: "Mary Jane Downing"
 slug: "mary-jane-downing"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Mary Jane Downing (mjd)\

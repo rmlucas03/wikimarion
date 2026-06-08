@@ -3,6 +3,8 @@ title: "Lynching Newspapers"
 slug: "lynching-newspapers"
 has_map: false
 first_image: "The_Crucifixion.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![Political cartoon printed in *The Chicago Defender*](/images/The_Crucifixion.jpg "Political cartoon printed in The Chicago Defender") Below are articles and a political cartoon that were printed in 1930 pertaining to the grusome Marion lynchings. In this project the goal was to show how the lynching was covered between the local and surrounding newspapers and the tragedy that unfolded from an attack on two innocent citizens of Marion, Indiana. Another goal is to show the different aspects and opinions between people, races, towns and states on such a sensitive and major event from Marion\'s history.

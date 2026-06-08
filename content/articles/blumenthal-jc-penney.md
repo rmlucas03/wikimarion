@@ -3,6 +3,8 @@ title: "Blumenthal-J.C. Penney"
 slug: "blumenthal-jc-penney"
 has_map: false
 first_image: "V002559r.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![West side of the public square, ca. 1960s. J.C. Penney\'s is near the center](/images/V002559r.jpg "West side of the public square, ca. 1960s. J.C. Penney's is near the center")Downtown Marion is a place of great history for those who are willing and eager to explore it. Beneath the mortar and bricks that hold these grand pieces of architecture together, there are stories to be told and history to uncover. An excellent example of the history that lies within this town that many are unaware of, is portrayed in a simple, aged, brick building located on the west side of the square in Marion's downtown. Known to many Marion residents as the old Blumenthal or old Penney's building, the structure located at 318 S. Washington Street has a unique history of its own. Originating ml 864, the building is still known for being the residence of one of the oldest and best known retail stores in Northern Indiana. After years of very successful business, the J.C. Penney Company bought the building with continued success, until the business switched locations. The shop, now owned by Maidenberg Real Estate, is presently occupied by a non-profit organization.

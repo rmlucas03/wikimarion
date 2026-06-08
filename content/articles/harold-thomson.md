@@ -2,6 +2,8 @@
 title: "Harold Thomson"
 slug: "harold-thomson"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Harold Thomson (ht)\

@@ -2,6 +2,8 @@
 title: "Edward Sipes Jr."
 slug: "edward-sipes-jr"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Edward L. Sipes Jr.\

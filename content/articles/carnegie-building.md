@@ -3,6 +3,8 @@ title: "Carnegie Building"
 slug: "carnegie-building"
 has_map: false
 first_image: "Marion_Public_Library.jpg"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![Marion Public Library\'s Carnegie Building](/images/Marion_Public_Library.jpg "Marion Public Library's Carnegie Building")For nearly a century the Carnegie Building at 600 South Washington Street has been an integral part of the community of Marion. In 1902 the building of it gave the community a much needed library and cultural center. During the years it has grown and changed with the community to continue to serve its patrons. It has always and will continue to be a much loved part of Marion's history and community.

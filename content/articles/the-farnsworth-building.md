@@ -3,6 +3,8 @@ title: "The Farnsworth Building"
 slug: "the-farnsworth-building"
 has_map: false
 first_image: "V003020r.jpg"
+categories:
+  - "Made in Marion"
 ---
 
 ![Aerial view of the Case Radio Factory, April 22, 1938. It later became Farnsworth, RCA, General Electric and Thomson Consumer Electronics.](/images/V003020r.jpg "Aerial view of the Case Radio Factory, April 22, 1938. It later became Farnsworth, RCA, General Electric and Thomson Consumer Electronics.")The Farnsworth building played a pivotal role in the history of Marion Indiana, the United States, and the world as a whole. The Farnsworth plant was a large part of Marion, one of the top employers in town from its early years on. It made the short wave radios that were used throughout the Second World War by American soldiers overseas, and the company also played a large role in the research and development of audio technologies, such as sonar and long distance radios. After the war the company merged with David Sarnoff's Radio Corporation of America, which made the local company a player on the national market, and part of a worldwide conglomerate, which consisted of General Electric, Westinghouse, and RCA.

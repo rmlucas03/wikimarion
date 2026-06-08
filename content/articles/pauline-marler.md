@@ -2,6 +2,8 @@
 title: "Pauline Marler"
 slug: "pauline-marler"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Pauline Marler\

@@ -2,6 +2,8 @@
 title: "Earl Gottschalk"
 slug: "earl-gottschalk"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Earl Gottschalk (eg)\

@@ -3,6 +3,8 @@ title: "Sinai Temple"
 slug: "sinai-temple"
 has_map: false
 first_image: "Sinai_Temple.jpg"
+categories:
+  - "Churches and Religious Life"
 ---
 
 ![](/images/Sinai_Temple.jpg)Marion caught their first glimpse of the stunning Sinai Temple on Sunday the 14th of March in 1937. Sinai Temple was built because of a rise in the Jewish population in Marion. At this time Sinai Temple boasted around 500 members. The temple was erected and furnished by the Harreld Brothers. They decorated the exterior by using rostone a beautiful material that, at the time, made Sinai Temple Stand out from other buildings. The building of Sinai Temple, the past rabbis that have preached here, and the members that the temple means so much to all hold a place in Marion's history.

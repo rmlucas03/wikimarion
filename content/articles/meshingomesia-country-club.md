@@ -3,6 +3,8 @@ title: "Meshingomesia Country Club"
 slug: "meshingomesia-country-club"
 has_map: false
 first_image: "Country_Club_Postcard.jpg"
+categories:
+  - "Parks and Recreation"
 ---
 
 ![Meshingtomesia Country Club ca. 1945](/images/Country_Club_Postcard.jpg)For nearly a century, golf has been an essential part of many cities around the world. Not only has it served as a meeting place for businessmen, but is also recognized for being the activity of choice for numerous out of town visitors. In many cases it is responsible for being a first impression, or reflecting the city/community of its location. The Marion, later Meshingomesia, Country Club became a vital part of Marion from the start because of the rarity of golf courses in Indiana. A remarkable two-story mission- style clubhouse was also built at this location, allowing many memorable evenings after a long day on the course ("Country Club's Grand Opening"). Such an all around attraction not only brought in local golfers, but also professionals such as Walter Hagen, and many other highly regarded players (Tobin 15). Occasional tournaments at the club provided enjoyable entertainment for anyone with interest, thus drawing crowds from neighboring areas. The privilege of the Meshingomesia Country Club for the past 94 years has benefited many individuals, and has also aided in molding our community to the place it is today.

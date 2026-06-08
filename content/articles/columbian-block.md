@@ -3,6 +3,8 @@ title: "Columbian Block"
 slug: "columbian-block"
 has_map: false
 first_image: "Columbian_Block-1.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![](/images/Columbian_Block-1.jpg)Located at the addresses of 207-211 S. Washington St., the Columbian Block has remained a beautiful and important building to Marion, Indiana for more than 100 years. Phillip S. Charles, a leading Marion businessman, owned the Columbian Block for more than 70 years where he held his personal offices. The Columbian Block has contained many prominent organizations over its duration, adding to the prestige of Marion. Of the many establishments contained in the Columbian Block some notables are: Marion Business College, Swanger & McClain Company, and the Wallace Music Company.

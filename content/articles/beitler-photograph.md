@@ -3,6 +3,8 @@ title: "Beitler Photograph"
 slug: "beitler-photograph"
 has_map: false
 first_image: "Beitler_Photo.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![Lawrence Beitler photograph](/images/Beitler_Photo.jpg "Lawrence Beitler photograph") On August 7, 1930, three young men were thrown in jail in the city of Marion, Indiana because of previous actions. One night, these young men were forced from the jail, beaten, and prepared to be lynched. Right before the lynching took place, one of the young men escaped his near death situation. The others were not as lucky. These young men were Abe Smith, Tom Shipp, and James Cameron. The bodies of Smith and Shipp were left to hang long enough for a photographer to catch a glimpse and take a photo. Lawrence Beitler took this infamous picture.

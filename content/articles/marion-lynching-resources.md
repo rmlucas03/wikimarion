@@ -3,6 +3,8 @@ title: "Marion Lynching Resources"
 slug: "marion-lynching-resources"
 has_map: false
 first_image: "Marion_indiana_1930_lynching_photo-1.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ## Marion Public Library Indiana Room {#marion_public_library_indiana_room}

@@ -2,6 +2,8 @@
 title: "Malvina Ball"
 slug: "malvina-ball"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Malvina Ball (mb)\

@@ -3,6 +3,8 @@ title: "First Christian Church"
 slug: "first-christian-church"
 has_map: false
 first_image: "V002872r.jpg"
+categories:
+  - "Churches and Religious Life"
 ---
 
 ![First Christian Church at 8th and Boots, ca. 1950s](/images/V002872r.jpg)All buildings have a unique story to tell, and the First Christian Church of Marion, Indiana is no exception. Originally, the church body was formed in buildings and sites other than the current building. The building that is currently standing was used as the First Christian Church of Marion for over 50 years. Lastly, the church has moved to its current location at 1970 N. Wabash Road. Although the building has changed, the purpose has remained constant: the mission of service. The people of First Christian Church of Marion have used three different buildings for worship.

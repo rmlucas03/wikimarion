@@ -2,6 +2,8 @@
 title: "Jane Miltenberger"
 slug: "jane-miltenberger"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Jane Miltenberger\

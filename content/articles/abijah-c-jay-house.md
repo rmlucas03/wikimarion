@@ -3,6 +3,8 @@ title: "Abijah C. Jay House"
 slug: "abijah-c-jay-house"
 has_map: false
 first_image: "Jay_Residence.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![The Abijah C. Jay House, ca. 1910](/images/Jay_Residence.jpg)The Abijah C. Jay House, located at One Eighteen West Seventh Street is a historically significant structure in Marion, Indiana. This building housed Abijah Cooper Jay in the late 19th century and early 20th century. Jay was an active member in the Society of Friends. He also served as a Commissioner of Grant County, he was the county chairman of the Republican Central Committee, he was a member of the School Board, and he was President of the Board of Trustees of Marion Public Library (Abijah C. Jay 3). Abijah Jay was in fact one of the most well known men in Grant County.

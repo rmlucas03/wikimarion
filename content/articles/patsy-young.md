@@ -2,6 +2,8 @@
 title: "Patsy Young"
 slug: "patsy-young"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Patsy Young\

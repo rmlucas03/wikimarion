@@ -2,6 +2,9 @@
 title: "Barbara Eltzroth"
 slug: "barbara-eltzroth"
 has_map: false
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 Interview: Barbara Eltzroth (be)\

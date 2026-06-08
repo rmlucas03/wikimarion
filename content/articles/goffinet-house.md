@@ -2,6 +2,8 @@
 title: "Goffinet House"
 slug: "goffinet-house"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 From the time that it was built, the Goffinet house at 721 West 15th St. has changed hands several times and held some very interesting history. The plat was first laid out on May 8, 1888 by D.R. McKinney, Jr. on lot numbers twenty-three and twenty-four. The next person to own the property was Franklin Crampton and his wife Ella, who obtained it in 1897. They quit claim in 1901 and the property went to James L. Barley and Robert J. Spencer. It then went from them to Thomas Hamilton and Luella Hamilton in 1907 and then from them to Lewis Left later than year. Then in 1908 it went to David Connell who had the warranty deed transferred to his wife, Ada L. Connell in 1911. It is unknown how many times the property changed hands, these being just a few, or exactly when the house was built, but it eventually went to Joseph Wills Stephenson, Alexander Craig, Larry Wooten, and lastly to Larry Goffinet, the current owner (Abstract).

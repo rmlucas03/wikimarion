@@ -2,6 +2,8 @@
 title: "Grace McGlothin"
 slug: "grace-mcglothin"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Grace McGlothin\

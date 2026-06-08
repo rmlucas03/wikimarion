@@ -2,6 +2,8 @@
 title: "Margie Vice"
 slug: "margie-vice"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Margie Vice\

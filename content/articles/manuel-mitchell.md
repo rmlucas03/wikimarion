@@ -2,6 +2,8 @@
 title: "Manuel Mitchell"
 slug: "manuel-mitchell"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Manuel Mitchell\

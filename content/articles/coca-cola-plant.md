@@ -3,6 +3,8 @@ title: "Coca Cola Plant"
 slug: "coca-cola-plant"
 has_map: false
 first_image: "Jt_Rademaker.jpg"
+categories:
+  - "Made in Marion"
 ---
 
 ![JT Rademaker and his son Joe](/images/Jt_Rademaker.jpg)During the years of 1896 to 1986, John Theodore Rademaker was providing cold beverages to Grant County. This business was significant during the time periods of the U.S. and the rest of the world. It also impacted Grant County in several ways. The Coca-Cola plant was significant during its generation and continued to ours. The Coca-Cola plant was an influential business then and always will be.

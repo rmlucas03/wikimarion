@@ -3,6 +3,8 @@ title: "Johnnie Clayton"
 slug: "johnnie-clayton"
 has_map: false
 first_image: "Army_of_Occupation_Medal.png"
+categories:
+  - "Personal Narratives"
 ---
 
 ![US Army European Occupation Ribbon](/images/Army_of_Occupation_Medal.png) Personal Narrative of Johnnie Clayton\

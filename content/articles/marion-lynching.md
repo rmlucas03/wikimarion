@@ -3,6 +3,8 @@ title: "Marion Lynching"
 slug: "marion-lynching"
 has_map: false
 first_image: "Beitler_Photo.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![The Beitler Photograph of the Marion lynching](/images/Beitler_Photo.jpg)

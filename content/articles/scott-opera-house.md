@@ -3,6 +3,8 @@ title: "Scott Opera House"
 slug: "scott-opera-house"
 has_map: false
 first_image: "Scott_Opera_House.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![Scott Opera House, above NAPA Auto Parts.](/images/Scott_Opera_House.jpg)Chances are you have driven down Fairmount's Main street. You may have noticed a blue NAPA store and what seems like several run down buildings. Overhead the NAPA store sits the Scott's Opera House. A building whose history and becoming was in part due to a man who was larger than life it. The long and interesting story of the opera house doesn't begin with its construction. It's story starts long before that. To even begin to understand the history of the Scott Opera House you must understand the creator himself. In fact you may even say this about Fairmount itself.

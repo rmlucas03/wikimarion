@@ -3,6 +3,8 @@ title: "Back Creek Friends Church"
 slug: "back-creek-friends-church"
 has_map: false
 first_image: "BackCreek1.jpg"
+categories:
+  - "Churches and Religious Life"
 ---
 
 ![Back Creek Friends Church, ca. 2003](/images/BackCreek1.jpg)The Back Creek Friends Church or Meetinghouse has gone through many changes, but the 1899 structure remains the oldest religious institution meeting under its original name on its original site in Grant County. Moving out of its original meeting cabin and into a brick structure in the early 1800's, the church later outgrew this facility and built an even larger space. With the help of key settlers, and the passion of early ministers, the growth of the Back Creek Friends Church appeared to be inevitable. In most recent years, renovations to the original 1899 building and a new annex have kept the church up to date. The Back Creek Friends Church was founded by the Society of Friends who migrated from the Carolinas, and established the second Meetinghouse in Grant County which included a schoolhouse, cemetery, and horse shed; the services initially were held on every Thursday with a minister leading the service.

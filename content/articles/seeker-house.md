@@ -3,6 +3,8 @@ title: "Seeker House"
 slug: "seeker-house"
 has_map: false
 first_image: "Seeker_House.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Seeker_House.jpg)Having stood for over one hundred years the house on 803 South Washington is an integral part of Marion history. Built in the 1890's as housing for Marion's upper class, the house was residential for a decade and a half. However, it is not know who resided in the house at this time. In the early twentieth century it was purchased by Charles "Chas" P. Kile who turned the house in the New York Sanitarium Gold Cure. The building was used as a rehab center for opiate addicts and alcoholics using the Keeley treatment to "cure" physical addictions. After the New York Sanitarium Gold Cure shut down it was used as an apartment complex until it was bought by Maurice Tilbury for his expanding furniture company, Morris Furniture. It remained as a furniture store until 1998 when the owner, Eugene Christopher, retired and it was bought by Gethsemane Episcopal Church and is used as the church's offices (Indiana Directory).

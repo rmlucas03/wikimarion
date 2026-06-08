@@ -3,6 +3,8 @@ title: "Mary Ball"
 slug: "mary-ball"
 has_map: false
 first_image: "Mary_Ball_2-1.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![Mary Ball](/images/Mary_Ball_2-1.jpg "Mary Ball")

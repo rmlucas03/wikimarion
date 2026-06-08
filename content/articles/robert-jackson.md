@@ -2,6 +2,8 @@
 title: "Robert Jackson"
 slug: "robert-jackson"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Dr. Robert F. Jackson\

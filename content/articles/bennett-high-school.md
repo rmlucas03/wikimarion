@@ -2,6 +2,8 @@
 title: "Bennett High School"
 slug: "bennett-high-school"
 has_map: false
+categories:
+  - "Schools and Education"
 ---
 
 St. Paul Catholic School was established in 1909. Students were taught in the basement of the church on dirt-covered floors by the Sisters of St. Josephs. It accommodated grades one through six in the small church building on Ninth and Branson Streets. Eventually time went by and much has had changed, St. Paul grade school became what we used to know as Bennett High School, located on a 25 acre site on Kem Road. In the year of 1993 after 60 years of existence, Bennett High School closed, leaving though the middle school and the elementary school open and changing its name back to St. Paul Catholic School. Today St. Paul Catholic School only has an elementary school ranging from first to sixth grade. (History of the St. Paul Catholic Schools)

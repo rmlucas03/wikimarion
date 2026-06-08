@@ -3,6 +3,8 @@ title: "The Gospel According to James"
 slug: "the-gospel-according-to-james"
 has_map: false
 first_image: "Gospel 46-1-.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ***TheGospel According to James*** is a play about the events surrounding the 1930\'s Marion, Indiana lynching, written by Charles Smith. The play is told from the differing perspectives of Mary Ball, the supposed victim of rape, and James Cameron, one of her alleged rapists. Smith creates a meeting, decades later, between Ball and Cameron. Through their sometimes conflicting accounts of the lynching, the audience is taken back in time to relive their emotions and experiences. The play presents new information, without giving definite answers, leaving the audience with many new questions and the desire to learn more.

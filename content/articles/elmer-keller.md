@@ -2,6 +2,8 @@
 title: "Elmer Keller"
 slug: "elmer-keller"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Elmer Keller\

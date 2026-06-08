@@ -90,7 +90,7 @@
           {{ range .Site.Taxonomies.categories.ByCount }}
           {{ if gt .Count 0 }}
           <li>
-            <a href="/categories/{{ .Page.Title | urlize }}/">
+            <a href="{{ .Page.RelPermalink }}">
               {{ .Page.Title }}
               <span class="cat-count">{{ .Count }}</span>
             </a>

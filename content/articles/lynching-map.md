@@ -3,6 +3,8 @@ title: "Lynching Map"
 slug: "lynching-map"
 has_map: false
 first_image: "Lovers_Lane.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ## The map below includes places pertaining to the Marion lynching. {#the_map_below_includes_places_pertaining_to_the_marion_lynching.}

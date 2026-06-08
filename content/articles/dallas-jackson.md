@@ -2,6 +2,8 @@
 title: "Dallas Jackson"
 slug: "dallas-jackson"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Dallas Jackson\

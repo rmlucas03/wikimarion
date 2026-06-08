@@ -3,6 +3,9 @@ title: "Don Lewis"
 slug: "don-lewis"
 has_map: false
 first_image: "Ruptured_Duck.gif"
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 ![World War II Service Badge](/images/Ruptured_Duck.gif)

@@ -2,6 +2,8 @@
 title: "Gabriella Havens"
 slug: "gabriella-havens"
 has_map: false
+categories:
+  - "Lest We Forget"
 ---
 
 (101 YEARS OLD)

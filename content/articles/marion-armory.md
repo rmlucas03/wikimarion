@@ -3,6 +3,8 @@ title: "Marion Armory"
 slug: "marion-armory"
 has_map: false
 first_image: "V000154r.jpg"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![](/images/V000154r.jpg)The definition of an armory, according to Marion Armory employee Sean Brady, is a place to drill and operate military units. However, the Marion Armory is much more than this. The Armory has had an impact on both local and national events. The history of the Marion Armory is extensive, spanning from the beginning of Marion to the present day. The Armory deals with local events and the community, while also participating in national and international events. The structure of the Armory has both function and entertainment-value.

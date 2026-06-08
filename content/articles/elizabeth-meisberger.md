@@ -2,6 +2,9 @@
 title: "Elizabeth Meisberger"
 slug: "elizabeth-meisberger"
 has_map: false
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 Interview: Elizabeth Meisberger\

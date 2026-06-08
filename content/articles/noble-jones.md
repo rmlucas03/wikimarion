@@ -3,6 +3,8 @@ title: "Noble Jones"
 slug: "noble-jones"
 has_map: false
 first_image: "Ruptured_Duck.gif"
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Noble Jones\

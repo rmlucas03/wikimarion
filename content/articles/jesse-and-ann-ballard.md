@@ -2,6 +2,8 @@
 title: "Jesse and Ann Ballard"
 slug: "jesse-and-ann-ballard"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Jesse Ballard (jb), Ann Ballard (ab)\

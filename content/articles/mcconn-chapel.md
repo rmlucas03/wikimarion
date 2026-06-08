@@ -2,6 +2,8 @@
 title: "McConn Chapel"
 slug: "mcconn-chapel"
 has_map: false
+categories:
+  - "Churches and Religious Life"
 ---
 
 McConn Chapel has changed with Marion throughout the years. McConn has been used as a church, for classrooms, and as a coffee shop. College Wesleyan Church was the builder and first owner of the Chapel. Indiana Wesleyan University bought the building in 1961, for uses as classrooms and a chapel. McConn Chapel is currently used for youth church services and as a coffee shop for college students. The Chapel has been an important structure in south Marion throughout the years.

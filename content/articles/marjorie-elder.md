@@ -2,6 +2,8 @@
 title: "Marjorie Elder"
 slug: "marjorie-elder"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Dr. Marjorie J. Elder (me) Medium: Audio tape\

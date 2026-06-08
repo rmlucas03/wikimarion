@@ -2,6 +2,8 @@
 title: "John Bailey"
 slug: "john-bailey"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with John Bailey\

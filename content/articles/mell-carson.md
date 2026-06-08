@@ -2,6 +2,8 @@
 title: "Mell Carson"
 slug: "mell-carson"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Mell Carson\

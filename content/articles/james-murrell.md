@@ -2,6 +2,9 @@
 title: "James Murrell"
 slug: "james-murrell"
 has_map: false
+categories:
+  - "Hard Times"
+  - "Personal Narratives"
 ---
 
 nterview: James O. Murrell (jm)\

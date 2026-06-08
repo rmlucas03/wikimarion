@@ -2,6 +2,8 @@
 title: "Irene Beck with Lucas White"
 slug: "irene-beck-with-lucas-white"
 has_map: false
+categories:
+  - "Experience of Segregation"
 ---
 
 Interview with: Irene Beck\

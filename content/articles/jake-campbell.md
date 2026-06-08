@@ -3,6 +3,8 @@ title: "Jake Campbell"
 slug: "jake-campbell"
 has_map: false
 first_image: "V000827r.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![Marion police in 1922. Jake Campbell is in the front row second from the left.](/images/V000827r.jpg "Marion police in 1922. Jake Campbell is in the front row second from the left.")Jake Campbell was a police officer from 1914-1927, before he took over as the Grant County Sheriff. Jake was a large man weighing about two hundred and forty pounds, and having a fat belly (Madison 36-63). Campbell always wore a white shirt but no tie (Madison 36-63). During this time only the police force had uniforms and cars. The sheriff and his deputies did not (Madison 36-63). Sheriff Campbell was also sheriff during the time the infamous Marion lynching took place. He played a vital role in the trials and in the actual event.

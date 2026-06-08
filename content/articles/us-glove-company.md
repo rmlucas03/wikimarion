@@ -3,6 +3,8 @@ title: "U.S. Glove Company"
 slug: "us-glove-company"
 has_map: false
 first_image: "Munn_Glove_Sign.JPG"
+categories:
+  - "Made in Marion"
 ---
 
 ![](/images/Munn_Glove_Sign.JPG)At the turn of the century, Marion, Indiana, boasted several factories and industrial workplaces; however, most of these places of employment sought after only young, skilled men. Women of the time yearned for independence, freedom, and desired their rights to be recognized more than ever before. Acquiring a job to provide money was a surefire to elevate the status and power of women. The only problem---few businesses in the area hired women. That is, until the U.S. Glove Company came to town and developed Marion's industrial appeal to women.

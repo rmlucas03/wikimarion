@@ -3,6 +3,8 @@ title: "Thomas Shipp"
 slug: "thomas-shipp"
 has_map: false
 first_image: "Marion.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![In this picture are Thomas Shipp and Abram Smith](/images/Marion.jpg)

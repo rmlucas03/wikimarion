@@ -2,6 +2,8 @@
 title: "Raphael Grenier"
 slug: "raphael-grenier"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Raphael Grenier\

@@ -2,6 +2,8 @@
 title: "Ann Warr"
 slug: "ann-warr"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Ann Warr\

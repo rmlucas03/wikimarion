@@ -2,6 +2,8 @@
 title: "Roger Smith"
 slug: "roger-smith"
 has_map: false
+categories:
+  - "Experience of Segregation"
 ---
 
 Interview with: Roger Smith\

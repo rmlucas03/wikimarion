@@ -3,6 +3,8 @@ title: "Marion General Hospital"
 slug: "marion-general-hospital"
 has_map: false
 first_image: "Marion General Hospital 4.jpg"
+categories:
+  - "Health and Medicine"
 ---
 
 ![MGH after renovations](/images/Marion_General_Hospital_4.jpg "MGH after renovations")Over the past hundred years, the Grant County medical community has been lucky to have it's own hospital near by. Since 1896, Marion has had a public hospital to serve the sick and injured ("Marion General Hospital"). Since that time, the hospital has changed places and faces on numerous occasions. The hospital has expanded the little medical world of Grant County to what it is today with the highest capabilities of serving Grant County and the vicinity.

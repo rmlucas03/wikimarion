@@ -3,6 +3,8 @@ title: "Ken\'s Barbershop"
 slug: "kens-barbershop"
 has_map: false
 first_image: "Ken's_Barbershop.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![](/images/Ken's_Barbershop.jpg)Sidewalk usage is no longer the main mode of people moving in downtown Marion, Indiana, as it once was. However, the large front store windows at Ken's Barbershop, located at 211 South Nebraska Street, still serve the intended purpose as they did for the same building when it was a grocery and bakery originally. Those large windows allow someone to preview how long of a wait to anticipate and whom they may encounter while they wait for their turn in the chair. Once inside, those large windows also allow the current conversation to change with just a glance at those who pass by outside. The building has gone through multiple owners, but has retained the same basic structure over the last ninety-nine years. Some of the known owners of the building were The Powers Brothers Company, Emmett R. Craig & George F. Cole, and its present-day owner Ken Pahmeier.

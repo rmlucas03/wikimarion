@@ -2,6 +2,8 @@
 title: "Joyce Maidenberg"
 slug: "joyce-maidenberg"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Joyce Maidenberg\

@@ -2,6 +2,8 @@
 title: "Elizabeth Stewart"
 slug: "elizabeth-stewart"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Elizabeth Stewart(es)\

@@ -3,6 +3,8 @@ title: "Fairmount High School"
 slug: "fairmount-high-school"
 has_map: false
 first_image: "Fairmount_High_Drawing.jpg"
+categories:
+  - "Schools and Education"
 ---
 
 ![](/images/Fairmount_High_Drawing.jpg)The old Fairmount High School building is a building that is full of a rich history. It has been through many great times and many times of hardship since its construction began in 1898 and its opening in 1902. A glorious foundation in athletics and scholarship was present in the founding of the school. A number of famous Americans were present in the high school's glory days. Some of these people are the legendary actor James Dean, cartoonist Jim Davis, CBS correspondent Phil Jones, and the "Hurricane Man" Robert C. Sheets. Fairmount as a whole proves to be a town in the heart of Indiana that is, in a way, the cultural center of Indiana. The great school of that town, Fairmount High School, has seen a national "Who's Who" come in and go out of the doors.

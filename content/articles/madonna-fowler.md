@@ -2,6 +2,8 @@
 title: "Madonna Fowler"
 slug: "madonna-fowler"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Madonna Fowler\

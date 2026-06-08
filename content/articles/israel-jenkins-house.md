@@ -3,6 +3,8 @@ title: "Israel Jenkins House"
 slug: "israel-jenkins-house"
 has_map: false
 first_image: "Israel_Jenkins_House.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Israel_Jenkins_House.jpg "Israel_Jenkins_House.jpg")Behind the walls of the Israel Jenkins's house lies an immense amount of history dating back to 1840. The house was built by Israel and Lydia Jenkins who moved to the abolitionist town of Farmington, Indiana (Waters A3). The tiny town consisted of few homes, most of which contributed to the Underground Railroad. The house was under many different ownerships and all occupants were important to the history of the house. People like Charles Atkinson and Levi Coffin, dominant participants in the Underground Railroad, worked closely with the Jenkins in keeping the transportation of slaves running (Ballinger Personal Interview). The Underground Railroad was important to the Jenkins's family and their active participation in the network helped give freedom to slaves who struggled for it.

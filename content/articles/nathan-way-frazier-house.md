@@ -3,6 +3,8 @@ title: "Nathan Way Frazier House"
 slug: "nathan-way-frazier-house"
 has_map: false
 first_image: "FrazierHouse2000.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/FrazierHouse2000.jpg)The Nathan W. Frazier house has been through many changes and time periods. Nathan Frazier built the house and lived in it for thirty-nine years. The Matter family bought the Frazier house in 1876 and made it a part of Marion\'s history. The Adsit family moved into the house in 1984.

@@ -3,6 +3,8 @@ title: "Percy Nussbaum House"
 slug: "percy-nussbaum-house"
 has_map: false
 first_image: "PercyNussbaumHouse.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/PercyNussbaumHouse.jpg)Built in 1886 the Percy Nussbaum house is located at 916 Spencer Avenue. The house has an interesting history and many interesting people that have lived there and left their mark on the house. Its owners include John and Sarah Kersey, the original residents; Percy and Delores Nussbaum, whom the house was named after; Josephine Nussbaum, who left her mark in the life size portrait that was made of her; and Percy and Josephine's son, Lowell Nussbaum, a talented newspaper columnist. They have all left their interesting legacies in this house.

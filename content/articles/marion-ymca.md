@@ -3,6 +3,8 @@ title: "Marion YMCA"
 slug: "marion-ymca"
 has_map: false
 first_image: "V000179r.jpg"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![The modern YMCA on 3rd St. Date Unknown](/images/V000179r.jpg)The Marion Y, located at 418 West Third Street, has been serving the Grant County Community for 110 years (Alexander Interview). The Grant County Y is a proud carrier of the national YMCA mission statement, "We build strong kids, strong families, strong communities." And carries their own mission, "To put Christian principles into practice through programs that build healthy Spirit, mind, and body for all" (Alexander screen 1). But how does the Grant County YMCA fulfill these missions? With a two-story building and 110 years of hard work (Alexander Interview).

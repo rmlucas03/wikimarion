@@ -3,6 +3,8 @@ title: "Freel And Mason Drug Co."
 slug: "freel-and-mason-drug-co"
 has_map: false
 first_image: "V001708r.jpg"
+categories:
+  - "Business and Downtown"
 ---
 
 ![Freel and Mason Drug Co., ca. 1948](/images/V001708r.jpg)Freel and Mason Drug Company was a pharmacy, restaurant, and all-purpose store which began its operation at the beginning of the twentieth century. It endured through a number of owners in its eighty-one years of business. Freel and Mason was more than a drug store. It was an institution of service to the community and a historical landmark.

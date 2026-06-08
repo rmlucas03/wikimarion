@@ -2,6 +2,8 @@
 title: "Roland Auble"
 slug: "roland-auble"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Roland Auble\

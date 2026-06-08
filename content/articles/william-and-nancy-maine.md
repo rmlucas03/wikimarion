@@ -2,6 +2,8 @@
 title: "William and Nancy Maine"
 slug: "william-and-nancy-maine"
 has_map: false
+categories:
+  - "Lest We Forget"
 ---
 
 This oral history, collected in 1921, was annotated in 2007 by Rebecca Tweedell. Click the blue, linked text to view an explanatory note below.

@@ -3,6 +3,8 @@ title: "Barbara J. Stevenson- Spurgon"
 slug: "barbara-j-stevenson-spurgon"
 has_map: false
 first_image: "44527 1422065149675 1174105579 30997648 8224012 n.jpg"
+categories:
+  - "The Marion Lynching"
 ---
 
 ![Barbara J. Stevenson-Spurgon](/images/44527_1422065149675_1174105579_30997648_8224012_n.jpg)

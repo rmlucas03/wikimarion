@@ -3,6 +3,8 @@ title: "Indiana Truck Corporation"
 slug: "indiana-truck-corporation"
 has_map: false
 first_image: "V003021r.jpg"
+categories:
+  - "Made in Marion"
 ---
 
 ![Aerial view of the Indiana Truck Factory April 22, 1938](/images/V003021r.jpg "Aerial view of the Indiana Truck Factory April 22, 1938") The early twentieth century was a time of great development in the automotive industry. Across America and around the world, assembly lines were producing vehicles that were changing the lives of everyone from ordinary middle-class workers to the owners of businesses. One company that found relative prosperity during this time was the Indiana Truck Corporation, founded and based in Marion, Indiana. Indiana Truck began as a bedstead manufacturing venture, then after experimental truck production, began producing trucks. From 1910 to 1933, Indiana Trucks was a truck manufacturer in Marion for both business and personal purposes affecting customers all across the nation. Production was boosted by the need for military vehicles in World War I, and the company boomed in the 1920s along with the nation\'s economy and the growth of highways, before being acquired by Brockway in 1928 and ending production in Marion in 1933. Like many small automotive companies of the time, Indiana Trucks experienced a quick rise and fall in prosperity at the start of the twentieth century.

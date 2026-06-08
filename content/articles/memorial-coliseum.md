@@ -3,6 +3,8 @@ title: "Memorial Coliseum"
 slug: "memorial-coliseum"
 has_map: false
 first_image: "V000159r.jpg"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![The Coliseum ca. 1950s](/images/V000159r.jpg "The Coliseum ca. 1950s")Since 1928, Memorial Coliseum has played an integral role in the history and development of Marion. In the words of Bill Munn, \"It has been at the center of community life\" (A8). This is undoubtedly true.

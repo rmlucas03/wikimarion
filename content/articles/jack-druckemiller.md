@@ -3,6 +3,8 @@ title: "Jack Druckemiller"
 slug: "jack-druckemiller"
 has_map: false
 first_image: "Ruptured_Duck.gif"
+categories:
+  - "Personal Narratives"
 ---
 
 ![World War II Service Badge](/images/Ruptured_Duck.gif "World War II Service Badge") Interview: Jack Druckemiller (jd)\

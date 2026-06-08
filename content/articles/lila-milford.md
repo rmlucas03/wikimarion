@@ -2,6 +2,8 @@
 title: "Lila Milford"
 slug: "lila-milford"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Lila C. Milford\

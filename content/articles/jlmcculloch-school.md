@@ -3,6 +3,8 @@ title: "J.L.McCulloch School"
 slug: "jlmcculloch-school"
 has_map: false
 first_image: "McCulloch2000_large.jpg"
+categories:
+  - "Schools and Education"
 ---
 
 ![](/images/McCulloch2000_large.jpg)J. L. McCulloch School is a seventy-six-year-old building that has been through many changes. The school was named after John Lewis McCulloch who was a great contributor to the community. The original school building had many state-of-the-art features. J. L. McCulloch School has also seen many changes in both grade levels and renovations. Many decades have passed since McCulloch School was originally put into use.

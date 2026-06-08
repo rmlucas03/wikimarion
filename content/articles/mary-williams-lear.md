@@ -2,6 +2,8 @@
 title: "Mary Williams-Lear"
 slug: "mary-williams-lear"
 has_map: false
+categories:
+  - "Lest We Forget"
 ---
 
 Mrs. Lear has reached the advanced age of ninety-five years, having been born January 27, 1827, in Fayette County, Indiana.

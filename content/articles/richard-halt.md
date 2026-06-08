@@ -2,6 +2,8 @@
 title: "Richard Halt"
 slug: "richard-halt"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Richard J. Halt\

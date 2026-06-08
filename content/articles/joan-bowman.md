@@ -2,6 +2,8 @@
 title: "Joan Bowman"
 slug: "joan-bowman"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal narrative of Joan Bowman\

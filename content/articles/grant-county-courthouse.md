@@ -3,6 +3,8 @@ title: "Grant County Courthouse"
 slug: "grant-county-courthouse"
 has_map: false
 first_image: "V003094r.jpg"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![Color postcard of the Grant County Courthouse, ca. 1930](/images/V003094r.jpg)Courthouses throughout history have been the legal and often commercial and social center for communities. Because of their importance, these structures were, and still are, of utmost importance. Throughout Grant County's history, three different court houses have stood in the square in downtown Marion. The courthouses have stood as a central meeting place for the community since the first building was constructed in 1833 and have been witness to lynching, murders, Ku Klux Klan rallies, and labor talk gatherings.

@@ -2,6 +2,9 @@
 title: "Irene Beck"
 slug: "irene-beck"
 has_map: false
+categories:
+  - "Experience of Segregation"
+  - "Personal Narratives"
 ---
 
 Interview: Irene Beck (ib)\

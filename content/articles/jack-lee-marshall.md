@@ -2,6 +2,8 @@
 title: "Jack Lee Marshall"
 slug: "jack-lee-marshall"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Jack Lee Marshall\

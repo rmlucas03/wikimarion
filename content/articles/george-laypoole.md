@@ -2,6 +2,8 @@
 title: "George Laypoole"
 slug: "george-laypoole"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with George E. Laypoole\

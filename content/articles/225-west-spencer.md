@@ -3,6 +3,8 @@ title: "225 West Spencer"
 slug: "225-west-spencer"
 has_map: false
 first_image: "Funeralhome.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Funeralhome.jpg)The house currently at 225 West Spencer Avenue in Marion, Indiana is one of the several historical houses designed by the famous African-American architect Samuel Plato. This house has served as not only a home for several families, but also for use as a funeral home. Today, it is known as Aunt Sue's Tea Room. Since its construction in 1906, this three-story home has been used for many purposes and has seen many people come and go. Its history and character lie in its physical structure, its architect, and the past owners.

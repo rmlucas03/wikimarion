@@ -2,6 +2,8 @@
 title: "Eva Haynes"
 slug: "eva-haynes"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Interview: Eva Haynes (eh)\

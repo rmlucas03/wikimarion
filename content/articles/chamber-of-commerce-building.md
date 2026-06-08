@@ -3,6 +3,8 @@ title: "Chamber of Commerce Building"
 slug: "chamber-of-commerce-building"
 has_map: false
 first_image: "Chamber_of_Commece.JPG"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![](/images/Chamber-Of-Commece.jpg)The Marion Area Chamber of Commerce building has been occupied by many different businesses for many different purposes. The land, originally sold to the public by the government under John Quincy Adams on October 19, 1825, was sold many times before a building was built on the property in 1875. Martin Boots was the one who first bought the land and from him the land became part of the downtown of Marion, Indiana.

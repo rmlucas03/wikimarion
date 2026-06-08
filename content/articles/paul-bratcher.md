@@ -2,6 +2,8 @@
 title: "Paul Bratcher"
 slug: "paul-bratcher"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Paul D. Bratcher\

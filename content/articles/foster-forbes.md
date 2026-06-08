@@ -3,6 +3,8 @@ title: "Foster-Forbes"
 slug: "foster-forbes"
 has_map: false
 first_image: "V002949r.jpg"
+categories:
+  - "Made in Marion"
 ---
 
 ![Aerial view of Foster-Forbes, ca. 1970-1973](/images/V002949r.jpg)Foster-Forbes played a huge part in the advancement and history of Marion, and Grant County. In the company's physical growth and technological advancement it furthered the economic and demographic development of Marion and Grant County. Although it is now closed, the changes set in place by this company are still ringing through the surrounding areas.

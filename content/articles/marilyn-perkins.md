@@ -2,6 +2,8 @@
 title: "Marilyn Perkins"
 slug: "marilyn-perkins"
 has_map: false
+categories:
+  - "Experience of Segregation"
 ---
 
 Interview with: Marilyn Perkins\

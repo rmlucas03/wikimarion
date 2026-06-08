@@ -2,6 +2,8 @@
 title: "Edna May Johnston"
 slug: "edna-may-johnston"
 has_map: false
+categories:
+  - "Personal Narratives"
 ---
 
 Personal Narrative if Edna May Johnston\

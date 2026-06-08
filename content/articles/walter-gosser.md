@@ -2,6 +2,8 @@
 title: "Walter Gosser"
 slug: "walter-gosser"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Walter L. Gosser\

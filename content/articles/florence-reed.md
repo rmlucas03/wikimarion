@@ -2,6 +2,8 @@
 title: "Florence Reed"
 slug: "florence-reed"
 has_map: false
+categories:
+  - "Experience of Segregation"
 ---
 
 Interview with: Florence Reed (Fr)\

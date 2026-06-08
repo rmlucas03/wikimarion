@@ -3,6 +3,8 @@ title: "Heinzmann-Smith House"
 slug: "heinzmann-smith-house"
 has_map: false
 first_image: "Heinzmann_1.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Heinzmann_1.jpg)The house located at 1308 N. Sheridan has been the address that many noteworthy people have called home in Marion for seventy years. One of its residents, the home's builder, helped supply Marion with its building supply needs. The home has some fascinating architectural features that are typical for homes that were build in the same time frame. The home was constructed during a time that for many people it was hard to escape the hardships that they had to face during the Depression. Going to one of Marion's theaters was a way for people to get out of their depressing surroundings for a couple of hours to enjoy what the theaters had to offer. The second owner of the Heinzmann-Smith House showed his support for the opening of one of Marion's theaters by hosting a banquet after it's opening. All of the people that have gotten to live in the Heinzmann-Smith House have left a mark in Marion, no matter how small it might be.

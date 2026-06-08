@@ -2,6 +2,8 @@
 title: "Vance Meyer"
 slug: "vance-meyer"
 has_map: false
+categories:
+  - "Veterans History Project"
 ---
 
 Interview with Vance Meyer\
