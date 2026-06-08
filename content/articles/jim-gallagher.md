@@ -2,6 +2,8 @@
 title: "Jim Gallagher"
 slug: "jim-gallagher"
 has_map: false
+categories:
+  - "Sports and Athletics"
 ---
 
 Medium: Audio tape\
