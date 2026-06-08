@@ -3,6 +3,8 @@ title: "Gas City-Mill Township Public Library"
 slug: "gas-city-mill-township-public-library"
 has_map: false
 first_image: "Gas_City_Mill_Township_Public_Library.png"
+categories:
+  - "Civic and Public Buildings"
 ---
 
 ![](/images/Gas_City_Mill_Township_Public_Library.png)Only a few years short of a century old, the Gas City-Mill Township Public Library has been an indispensable part of the Gas City and other surrounding communities. Finished in 1914, the library has served to the community. During the past years, the library has fit itself to the community to satisfy the locals of Gas City and surrounding areas. People on the library board and the librarians of the library have and will continue to help the people of the Gas City community when in need of assistance at the library. Looking at the construction of the building itself, the shaping of the library, both physically and intellectually, and the employees who have came and gone over the years it has been here provide a better understanding of the history of the Gas City-Mill Township Public Library.

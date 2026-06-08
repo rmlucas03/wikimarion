@@ -4,6 +4,7 @@ slug: "barbara-j-stevenson-spurgon"
 has_map: false
 first_image: "44527 1422065149675 1174105579 30997648 8224012 n.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

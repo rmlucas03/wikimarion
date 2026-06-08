@@ -3,6 +3,7 @@ title: "Strange Fruit"
 slug: "strange-fruit"
 has_map: false
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

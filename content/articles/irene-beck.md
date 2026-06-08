@@ -3,6 +3,7 @@ title: "Irene Beck"
 slug: "irene-beck"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
   - "Personal Narratives"
 ---

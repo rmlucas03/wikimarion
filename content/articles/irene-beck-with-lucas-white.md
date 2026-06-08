@@ -3,6 +3,7 @@ title: "Irene Beck with Lucas White"
 slug: "irene-beck-with-lucas-white"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

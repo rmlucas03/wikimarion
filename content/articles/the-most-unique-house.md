@@ -2,6 +2,8 @@
 title: "The Most Unique House"
 slug: "the-most-unique-house"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 During the year of 1897, Dr A. Houser decided to start building the most unique house in Marion, Indiana. Dr. Houser and his house were generally characterized as "Jack" and "The house that Jack built" ("Marion's Most" 1). The dedication that was shown over the five years it took to complete the house corresponds with him and his occupations. The creation in which he built was a remarkable image to many of the locals of Marion at the time. However a tragedy occurred which left Dr. A. Houser in complete dismay and immense sadness. The example set by the most unique house and its owner opened up a whole new level for housing in the twentieth century.

@@ -2,6 +2,8 @@
 title: "Lakeview Christian Church Draft"
 slug: "lakeview-christian-church-draft"
 has_map: false
+categories:
+  - "Churches and Religious Life"
 ---
 
 Lakeview Christian Church: Then & Now

@@ -4,6 +4,7 @@ slug: "memorialization-of-lynching"
 has_map: false
 first_image: "Duluth-lynching.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

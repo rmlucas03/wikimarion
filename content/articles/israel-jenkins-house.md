@@ -4,6 +4,7 @@ slug: "israel-jenkins-house"
 has_map: false
 first_image: "Israel_Jenkins_House.jpg"
 categories:
+  - "African American History"
   - "This Old House"
 ---
 

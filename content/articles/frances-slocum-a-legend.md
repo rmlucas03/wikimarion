@@ -3,6 +3,8 @@ title: "Frances Slocum - A Legend"
 slug: "frances-slocum-a-legend"
 has_map: false
 first_image: "Frances_Slocum.jpg"
+categories:
+  - "Native American History"
 ---
 
 ![](/images/Frances_Slocum.jpg "Frances_Slocum.jpg")Frances Slocum led an unusual and astounding life as a white woman in an Indian culture. In 1778 her family lived in one of the original thirteen colonies and on her doorstep to the west laid the dangerous frontier, occupied by numerous Indian tribes and the occasional adventurer or fur trapper. At the age of five when captured by Delaware Indians, Frances's life was forever altered. Traded to the Miami Indians for fur pelts Frances was raised as a typical Indian squaw and made the Miami culture her own. Through the interesting way she lived her life and the things she was able to accomplish made her a significant historical figure both locally and nationally. Frances Slocum has become an historic legend.

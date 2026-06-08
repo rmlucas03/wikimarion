@@ -3,6 +3,8 @@ title: "510 West 4th Street"
 slug: "510-west-4th-street"
 has_map: false
 first_image: "510WFourth.JPG"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/510WFourth.JPG)Old houses are everywhere in the United States. The beauty and feeling of an old house attracts us to it. Owners of old houses should take pride not only in the beauty of the structure but also from knowing the history of their house. The house built on 510 West Fourth Street has an interesting history of elegance, disrepair, and remodeling, probably not unlike many houses on the West side of Marion. Built shortly after the founding of Marion, this house is a symbol of upper class society of the late 1800s.

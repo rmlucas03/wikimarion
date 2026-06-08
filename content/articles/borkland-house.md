@@ -3,6 +3,8 @@ title: "Borkland House"
 slug: "borkland-house"
 has_map: false
 first_image: "Borkland_House1.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Borkland_House1.jpg)Marion is filled with historical houses, each with its own interesting story. The home at 803 Quarry Road, built in 1912, is one of these houses (Assessor). Its former address was es 1 n Wabash Pike (1923 Directory). This showed that it was on the east side of the Wabash Pike and was the first house north of Quarry Road. Sometime between 1942 and 1950 the address was changed to Quarry Road instead of Wabash Road (1942 Directory). This home is on the site of a former stone quarry that is now a beautiful pond. Over the years, the property was parceled off onto several smaller properties that are now along Quarry Road, Wabash Avenue, and Gustave Place. The house only had two owners in its first 60 years of existence, but over the past 30 years, it has had at least six owners. The most intriguing of these owners was Gustave Walter Borkland, the owner of Borkland Plastic Laboratories (Borkland Rites). Borkland was a very important person in the plastics industry during the 1940s and 50s. His involvement in the history of this house makes it an important historic house in Marion.

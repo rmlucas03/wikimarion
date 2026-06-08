@@ -2,6 +2,8 @@
 title: "Nussbaum2"
 slug: "nussbaum2"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 Note: We already have one article on the [Nussbaum House](/articles/nussbaum-house/), but this one covers some different territory. The two could be merged. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

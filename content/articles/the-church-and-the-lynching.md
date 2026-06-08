@@ -4,6 +4,7 @@ slug: "the-church-and-the-lynching"
 has_map: false
 first_image: "ThomasShippAbramSmith.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

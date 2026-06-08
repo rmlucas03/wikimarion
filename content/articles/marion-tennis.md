@@ -2,6 +2,8 @@
 title: "Marion Tennis"
 slug: "marion-tennis"
 has_map: false
+categories:
+  - "Sports and Athletics"
 ---
 
 Living in a city where basketball and football make up the majority of most newspaper headlines, many residents of Marion, Indiana do not realize that their local high school has one of the most successful, most prestigious tennis programs in the state. Even before a team for the high school was established, tennis thrived in Marion, especially among the city's youth. It was those same youth whose zeal for tennis propelled Marion High School into becoming a tennis powerhouse in the 1970s all the way up to the mid 1990s. The high school tennis team itself has a rich, unique history of its own, not only for its many successful alumni, but for its coaches as well. All of its accomplishments aside, Marion's tennis program has played an essential role in Marion by bringing to the community both a sense of unity and pride.

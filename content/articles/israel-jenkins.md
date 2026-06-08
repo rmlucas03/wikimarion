@@ -2,6 +2,8 @@
 title: "Israel Jenkins"
 slug: "israel-jenkins"
 has_map: false
+categories:
+  - "African American History"
 ---
 
 The year was 1840, and Israel Jenkins had just completed building a house which would encompass a vast amount of history relating to the city of Marion, Indiana as well as the network of the Underground Railroad (Randy Ballinger). Israel was originally from Virginia but since his family was strongly abolitionist, they did not own any slaves and therefore didn't prosper in that region. As a result, Israel and his family moved to Clinton County, Ohio where he met his wife Lydia Dwiggens (Amy Patel).

@@ -2,6 +2,8 @@
 title: "Priscilla and Perry\'s"
 slug: "priscilla-and-perrys"
 has_map: false
+categories:
+  - "Business and Downtown"
 ---
 
 Jennifer Mital

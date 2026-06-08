@@ -3,6 +3,7 @@ title: "Florence Reed"
 slug: "florence-reed"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

@@ -3,6 +3,7 @@ title: "Segregation"
 slug: "segregation"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

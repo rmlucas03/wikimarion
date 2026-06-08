@@ -2,6 +2,8 @@
 title: "Migration to Freedom"
 slug: "migration-to-freedom"
 has_map: false
+categories:
+  - "African American History"
 ---
 
 **Migration to Freedom: The Underground Railroad in Grant County, Indiana**

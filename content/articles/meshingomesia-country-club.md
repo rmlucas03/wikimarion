@@ -4,6 +4,7 @@ slug: "meshingomesia-country-club"
 has_map: false
 first_image: "Country_Club_Postcard.jpg"
 categories:
+  - "Native American History"
   - "Parks and Recreation"
 ---
 

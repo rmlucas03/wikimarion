@@ -4,6 +4,7 @@ slug: "marion-lynching-resources"
 has_map: false
 first_image: "Marion_indiana_1930_lynching_photo-1.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

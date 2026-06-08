@@ -2,6 +2,8 @@
 title: "Taylor University in Grant County Draft"
 slug: "taylor-university-in-grant-county-draft"
 has_map: false
+categories:
+  - "Schools and Education"
 ---
 
 Taylor University has been a big part of Grant County since 1893, though it was not founded there. The university was started in Fort Wayne under the name of Fort Wayne College. After the move to Upland in Grant County, one of the main focuses of the school was to advance administration and finance of the school. Another large part of the first fifty years in Upland was spent on recreating the school along with setting the learning facility as a religious institution. Taylor University is a fine learning institution that has struggled through many financial hardships, promoted spirituality in Grant County, and helped many of its students find great jobs and experiences.

@@ -4,6 +4,7 @@ slug: "marion-civic-theatre"
 has_map: false
 first_image: "JimmyS.JPG"
 categories:
+  - "Arts and Entertainment"
   - "Business and Downtown"
 ---
 

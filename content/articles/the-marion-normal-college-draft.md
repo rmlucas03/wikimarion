@@ -2,6 +2,8 @@
 title: "The Marion Normal College Draft"
 slug: "the-marion-normal-college-draft"
 has_map: false
+categories:
+  - "Schools and Education"
 ---
 
 Troy Whonsetler

@@ -4,6 +4,8 @@ slug: "the-gospel-according-to-james"
 has_map: false
 first_image: "Gospel 46-1-.jpg"
 categories:
+  - "African American History"
+  - "Arts and Entertainment"
   - "The Marion Lynching"
 ---
 

@@ -3,6 +3,7 @@ title: "Jim Perkins"
 slug: "jim-perkins"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

@@ -3,6 +3,9 @@ title: "Playhouse Studio of Dance"
 slug: "playhouse-studio-of-dance"
 has_map: false
 first_image: "Playhouse_Studio_Storefront.jpg"
+categories:
+  - "Arts and Entertainment"
+  - "Business and Downtown"
 ---
 
 ![](/images/Playhouse_Studio_Storefront.jpg)On the McClure block, on the south side of the square in Marion, stands a building that is now Playhouse Studio of Dance. This structure has had a variety of uses and been very convenient for the residents of Marion and surrounding areas. It has varied from a drug store to a dance studio. During the early years of this structure, it was predominantly a drug store. During the fifties to the mid-sixties it was clothing shops and vacant for a couple of years. From the late sixties to present it has been C & H Shoes and is currently Playhouse Studio of Dance. The history of this building has had a wide range of businesses and uses.

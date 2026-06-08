@@ -3,6 +3,8 @@ title: "Hardin House"
 slug: "hardin-house"
 has_map: false
 first_image: "HardinHouse.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/HardinHouse.jpg)The Westside Historic District was developed in the late 19th century. Its streets were bursting with large spacious homes. For the most part leading businessmen and shop owners lived in this neighborhood. Not only was this district overflowing with homes; it was also an excellent location for churches. The First Baptist Church and the West 4th St. Church were located in this area. The latter church is no longer there.

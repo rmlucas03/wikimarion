@@ -3,6 +3,8 @@ title: "Davis House"
 slug: "davis-house"
 has_map: false
 first_image: "Davis_House.jpg"
+categories:
+  - "This Old House"
 ---
 
 ![](/images/Davis_House.jpg)723 West Euclid Avenue, Marion, Indiana, also known as the Davis House, is significant to the history of Marion, Indiana. Architecturally the house is very unique, because it is built with an Art-Deco style not commonly found in the Midwest. In addition, previous occupants of the house have been extremely artistic and powerful in the community.

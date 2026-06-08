@@ -3,6 +3,8 @@ title: "Samuel Plato"
 slug: "samuel-plato"
 has_map: false
 first_image: "SamuelPlato.jpg"
+categories:
+  - "African American History"
 ---
 
 The goal of this online exhibition, *The Buildings of Samuel Plato, as photographed by David S. Blunk, II*, is to further understanding of the great historical, aesthetic, and moral value placed upon the buildings created by African-American architect Samuel Plato (1882-1957) in Marion, Indiana.. Through the permanent exhibition of fourteen photographs of the ten verified structures designed by Plato, the goal will be accomplished.

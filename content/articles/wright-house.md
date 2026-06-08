@@ -2,6 +2,8 @@
 title: "Wright House"
 slug: "wright-house"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 Nathan Fussner

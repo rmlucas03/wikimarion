@@ -2,6 +2,8 @@
 title: "Charles \'Stretch\' Murphy"
 slug: "charles-stretch-murphy"
 has_map: false
+categories:
+  - "Sports and Athletics"
 ---
 
 Have you ever wondered how Marion High School came to have the mascot "Giants?\" It was not by accident. The school acquired the nickname "Giants" from the 1926 basketball team because four of their five starters stood over six foot tall\--extremely lofty for that time. Standing at an astounding six foot six and three-fourths inches was Charles "Stretch" Murphy. Charles is the namesake for all of Marion basketball and other athletic teams. The legacy of Giant pride and outstanding athletics at Marion High School began with Charles "Stretch" Murphy.

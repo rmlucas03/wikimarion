@@ -3,6 +3,7 @@ title: "Roger Smith"
 slug: "roger-smith"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

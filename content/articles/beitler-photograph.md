@@ -4,6 +4,7 @@ slug: "beitler-photograph"
 has_map: false
 first_image: "Beitler_Photo.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

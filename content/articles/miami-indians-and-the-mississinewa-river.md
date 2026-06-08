@@ -2,6 +2,8 @@
 title: "Miami Indians and the Mississinewa River"
 slug: "miami-indians-and-the-mississinewa-river"
 has_map: false
+categories:
+  - "Native American History"
 ---
 
 `<embedvideo service="vimeo">`{=html}25635322`</embedvideo>`{=html}\

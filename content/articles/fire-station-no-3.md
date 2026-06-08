@@ -2,6 +2,8 @@
 title: "Fire Station No. 3"
 slug: "fire-station-no-3"
 has_map: false
+categories:
+  - "Civic and Public Buildings"
 ---
 
 John N. Turner, one of the most successful businessmen in Grant County, was born on October 26, 1828 in Wayne Co. IN. His parent's names were Samuel and Laddie (Starbuck) Turner. Samuel was of Welsh-English descent and was born in North Carolina. His parents moved to Grant County when he was ten. John received primary schooling in Wayne and Grant Co, and at the age of twenty-one he graduated from Franklin College, then Turner spent two more years at the State University in Bloomington. John N. Turner made his wealth through the grain business in the 1800's. (Marvelous Marion) John Turner's first job was a dry goods clerk in James Sweetser's store for four years, when he became Sweetser's partner for an additional seven years. Turner then became partners with George N. Winchell. After five years of partnership with Winchell, they included the sale and trade of grain into their business. (Marvelous Marion)

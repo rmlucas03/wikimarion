@@ -4,6 +4,7 @@ slug: "scott-opera-house"
 has_map: false
 first_image: "Scott_Opera_House.jpg"
 categories:
+  - "Arts and Entertainment"
   - "Business and Downtown"
 ---
 

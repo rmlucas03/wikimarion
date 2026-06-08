@@ -2,6 +2,8 @@
 title: "James Dean"
 slug: "james-dean"
 has_map: false
+categories:
+  - "Arts and Entertainment"
 ---
 
 ## Life After Death {#life_after_death}

@@ -3,6 +3,7 @@ title: "Lynching in America and Marion"
 slug: "lynching-in-america-and-marion"
 has_map: false
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

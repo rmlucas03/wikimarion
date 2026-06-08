@@ -2,6 +2,8 @@
 title: "3010 North Wabash"
 slug: "3010-north-wabash"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 Someone's home defines him or her. It portrays their character and personality in more ways than one. Every home has its own story, which tells tales of unforgettable memories and moments of the family living there. The home does this through its owners, its structural characteristics, and architectural changes over time.

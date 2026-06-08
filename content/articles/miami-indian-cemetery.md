@@ -3,6 +3,8 @@ title: "Miami Indian Cemetery"
 slug: "miami-indian-cemetery"
 has_map: false
 first_image: "Cemetery_1961_greyscale.jpg"
+categories:
+  - "Native American History"
 ---
 
 ![The Miami Indian Cemetery in 1961](/images/Cemetery_1961_greyscale.jpg "The Miami Indian Cemetery in 1961")In its approximate 140-year history, the Miami Indian Cemetery near Jalapa, Indiana has undergone many changes. This cemetery is located at county roadway 600 North, Section 3, of Pleasant Township, Grant County, Indiana. The Miami Cemetery is supposedly the largest in Indiana.

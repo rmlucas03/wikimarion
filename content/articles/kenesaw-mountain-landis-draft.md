@@ -2,6 +2,8 @@
 title: "Kenesaw Mountain Landis Draft"
 slug: "kenesaw-mountain-landis-draft"
 has_map: false
+categories:
+  - "Sports and Athletics"
 ---
 
 Kennesaw Mountain; many know it as the cite of a Civil War battle fought in Indiana. Most don't know that it shares a name with one of the most famous Hoosiers in history: Kenesaw Mountain Landis. This man grew from humble beginnings and made something of himself. Despite the fact of him not actually being born in Indiana, he contributed much to the growth and unionization of the Hoosier state and the nation as a whole (Eastland Memorial Society).

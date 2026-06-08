@@ -2,6 +2,8 @@
 title: "704 S. Boots St Draft"
 slug: "704-s-boots-st-draft"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 Meredith Holt

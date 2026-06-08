@@ -2,6 +2,9 @@
 title: "Theaters"
 slug: "theaters"
 has_map: false
+categories:
+  - "Arts and Entertainment"
+  - "Business and Downtown"
 ---
 
 For most people living in Marion during the 1930's, downtown Marion was the place to be on a typical Saturday night. Since the entire country was experiencing a severe depression, Marion residents needed a way to get their minds off of hard times and enjoy the many activities that downtown Marion provided. In downtown, Marion's theaters helped a great deal with driving away the depressing emotions of hard times and encouraged residents to prevail and try to make the best of their situation. During the 1930's there were four theaters that entertained the people of Marion, the Paramount Theater, Lyric Theater, LunaLite Theater, and the Indiana Theater (Bunish).

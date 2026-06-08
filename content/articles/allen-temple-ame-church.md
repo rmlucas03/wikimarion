@@ -4,6 +4,7 @@ slug: "allen-temple-ame-church"
 has_map: false
 first_image: "Allen_Temple.JPG"
 categories:
+  - "African American History"
   - "Churches and Religious Life"
 ---
 

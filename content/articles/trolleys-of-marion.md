@@ -3,6 +3,8 @@ title: "Trolleys of Marion"
 slug: "trolleys-of-marion"
 has_map: false
 first_image: "Square1892.GIF"
+categories:
+  - "Transportation"
 ---
 
 ## Local Street Car Companies {#local_street_car_companies}

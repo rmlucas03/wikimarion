@@ -2,6 +2,8 @@
 title: "825 West Euclid Draft"
 slug: "825-west-euclid-draft"
 has_map: false
+categories:
+  - "This Old House"
 ---
 
 ### All works are currently unfinished {#all_works_are_currently_unfinished}

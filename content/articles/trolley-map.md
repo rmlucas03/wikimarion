@@ -3,6 +3,8 @@ title: "Trolley Map"
 slug: "trolley-map"
 has_map: false
 first_image: "V003953r.jpg"
+categories:
+  - "Transportation"
 ---
 
 `<googlemap lat="40.551374" lon="-85.661259" zoom="13" width="700" height="550">`{=html} 40.533943, -85.648663, ![](/images/V003953r.jpg)\

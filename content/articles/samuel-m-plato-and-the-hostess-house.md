@@ -3,6 +3,8 @@ title: "Samuel M Plato and the Hostess House"
 slug: "samuel-m-plato-and-the-hostess-house"
 has_map: false
 first_image: "SamuelPlato.jpg"
+categories:
+  - "African American History"
 ---
 
 # Samuel M. Plato {#samuel_m._plato}

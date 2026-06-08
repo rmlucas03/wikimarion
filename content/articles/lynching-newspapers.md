@@ -4,6 +4,7 @@ slug: "lynching-newspapers"
 has_map: false
 first_image: "The_Crucifixion.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

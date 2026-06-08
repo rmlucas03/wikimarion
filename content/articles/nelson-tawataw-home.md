@@ -4,6 +4,7 @@ slug: "nelson-tawataw-home"
 has_map: false
 first_image: "TawatawHouse.jpg"
 categories:
+  - "Native American History"
   - "This Old House"
 ---
 

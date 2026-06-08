@@ -4,6 +4,7 @@ slug: "thomas-shipp"
 has_map: false
 first_image: "Marion.jpg"
 categories:
+  - "African American History"
   - "The Marion Lynching"
 ---
 

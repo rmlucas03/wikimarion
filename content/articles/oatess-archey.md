@@ -4,6 +4,7 @@ slug: "oatess-archey"
 has_map: false
 first_image: "Sheriff_Archey.jpg"
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

@@ -4,6 +4,7 @@ slug: "bethel-ame-church"
 has_map: false
 first_image: "Bethel_A.M.E._Church.JPG"
 categories:
+  - "African American History"
   - "Churches and Religious Life"
 ---
 

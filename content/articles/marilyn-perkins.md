@@ -3,6 +3,7 @@ title: "Marilyn Perkins"
 slug: "marilyn-perkins"
 has_map: false
 categories:
+  - "African American History"
   - "Experience of Segregation"
 ---
 

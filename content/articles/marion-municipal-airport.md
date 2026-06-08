@@ -3,6 +3,8 @@ title: "Marion Municipal Airport"
 slug: "marion-municipal-airport"
 has_map: false
 first_image: "Airport_at_Present.jpg"
+categories:
+  - "Transportation"
 ---
 
 ![A recent satellite photograph of the Marion Municipal Airport](/images/Airport_at_Present.jpg)Aviation in Grant County has its origins dating back to more than 80 years ago. In particular, Marion has had a municipal airport\--meaning an airport for a town, city, or local government\--since 1927. Over this time it has gone through several changes to become what it is today. Marion Municipal Airport originated in the late 1920's during the "Golden Era of Aviation" as a small grass airfield on the southern end of town (Brookshire). During the 1950's the small strip had been expanded and was the beginning of what would become Marion's Municipal Airport. Finally, by 1979 Marion's Municipal Airport was well on its way to becoming the airport that we know today.
